@@ -354,9 +354,9 @@ udp://btt.service.gongt.me:43079/announce
 
 udp://bt.rer.lol:6969/announce
 
-http://tracker.phoenix.lol:80/announce
-
 http://tracker.vraphim.com:6969/announce
+
+http://tracker.phoenix.lol:80/announce
 
 https://threads.canofsocks.com:443/announce
 

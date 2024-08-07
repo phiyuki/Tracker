@@ -284,35 +284,17 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://explodie.org:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://public.publictracker.xyz:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://tracker.farted.net:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 http://t.overflow.biz:6969/announce
 
-udp://freedomalternative.com:6969/announce
+http://canardscitrons.nohost.me:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://canardscitrons.nohost.me:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://isk.richardsw.club:6969/announce
 
@@ -360,11 +342,15 @@ http://tracker.enitin.xyz:80/announce
 
 http://tracker.k.vu:6969/announce
 
+udp://tracker.farted.net:6969/announce
+
 http://t.acg.rip:6699/announce
 
 udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -388,9 +374,11 @@ http://p2p.0g.cx:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
+http://smurfsoft.com:6969/announce
+
 http://tracker.pcfreetime.com:6969/announce
 
-http://smurfsoft.com:6969/announce
+udp://freedomalternative.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -463,6 +451,8 @@ udp://camera.lei001.com:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -1478,6 +1468,8 @@ http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 http://185.185.40.95:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
@@ -2290,6 +2282,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://156.234.201.18:80/announce
@@ -2956,8 +2950,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2990,6 +2982,8 @@ udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jp.moeweb.pw:6969/announce
 
 udp://li1406-230.members.linode.com:6969/announce
@@ -3013,8 +3007,6 @@ udp://rfc5746.mywaifu.best:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
-
-udp://t.jaekr.sh:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
@@ -3042,9 +3034,15 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vrpnet.org:6969/announce
 
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3087,6 +3085,8 @@ http://51.79.71.167/announce
 http://83.31.206.39:6969/announce
 
 http://93.185.165.29:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.ali213.net00/announce
 
@@ -3219,6 +3219,12 @@ udp://89.110.76.229:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://t.jaekr.sh:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

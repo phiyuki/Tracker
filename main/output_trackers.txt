@@ -324,9 +324,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-https://t.peer-exchange.download:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://t.peer-exchange.download:443/announce
 
 udp://tracker3.t-1.org:6969/announce
 
@@ -346,11 +346,11 @@ udp://ipv6.fuuuuuck.com:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
+https://threads.canofsocks.com:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://threads.canofsocks.com:443/announce
+udp://btt.service.gongt.me:43079/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -382,13 +382,13 @@ http://tracker.guguan.000.pe:80/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
 
-http://p2p.0g.cx:6969/announce
+udp://tracker.draatman.uk:6969/announce
 
 http://smurfsoft.com:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -404,11 +404,11 @@ http://tracker.ykat.xyz:6969/announce
 
 udp://yahor.of.by:6969/announce
 
-https://t1.hloli.org:443/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+https://t1.hloli.org:443/announce
 
 https://tr.ready4.icu:443/announce
 

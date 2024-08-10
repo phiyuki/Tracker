@@ -334,13 +334,13 @@ udp://tracker1.t-1.org:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
 
-https://t.peer-exchange.download:443/announce
+udp://tracker.t-1.org:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
+
+https://t.peer-exchange.download:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -358,11 +358,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 udp://tracker.therarbg.com:6969/announce
 
-https://tracker.cangku.moe:443/announce
+udp://btt.service.gongt.me:43079/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -370,9 +368,11 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+https://tracker.cangku.moe:443/announce
 
 http://smurfsoft.com:6969/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -397,8 +397,6 @@ http://open.tracker.ink:6969/announce
 http://tracker.ykat.xyz:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://tracker.draatman.uk:6969/announce
 
 https://tr.ready4.icu:443/announce
 
@@ -865,6 +863,8 @@ https://tracker.3moredays.com:443/announce
 https://track3r.site:443/announce
 
 http://retracker.seven-sky.net:80/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 http://tinfoil.space:6969/announce
 

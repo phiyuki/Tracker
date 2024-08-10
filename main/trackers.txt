@@ -600,9 +600,9 @@ http://t1.aag.moe:17715/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -662,17 +662,17 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tracker3.t-1.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tracker3.t-1.org:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -680,13 +680,13 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://tracker.enitin.xyz:80/announce
 
-https://t.peer-exchange.download:443/announce
+udp://tracker.t-1.org:6969/announce
 
 https://www.peckservers.com:9443/announce
+
+https://t.peer-exchange.download:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -765,8 +765,6 @@ http://tracker.ykat.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -985,6 +983,8 @@ http://504e163a.host.njalla.net:6969/announce
 udp://private.anonseed.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 
@@ -1427,9 +1427,9 @@ http://t1.aag.moe:17715/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
+
+udp://wepzone.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 

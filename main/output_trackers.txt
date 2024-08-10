@@ -336,9 +336,9 @@ udp://tracker3.t-1.org:6969/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://tracker.t-1.org:6969/announce
 
 https://t.peer-exchange.download:443/announce
 
@@ -403,8 +403,6 @@ http://tracker.ykat.xyz:6969/announce
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
-
-http://p2p.0g.cx:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -619,6 +617,8 @@ http://504e163a.host.njalla.net:6969/announce
 udp://private.anonseed.com:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
 udp://freedom.1776.ga:6969/announce
 

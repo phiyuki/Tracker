@@ -328,11 +328,11 @@ http://tracker.enitin.xyz:80/announce
 
 udp://retracker.lanta.me:2710/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 udp://tracker1.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -340,9 +340,9 @@ https://tracker.loligirl.cn:443/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
 http://tracker.k.vu:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -358,9 +358,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.therarbg.com:6969/announce
-
 http://smurfsoft.com:6969/announce
+
+udp://tracker.therarbg.com:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -368,21 +368,21 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 http://tracker.phoenix.lol:80/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://thetracker.org:80/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://freedomalternative.com:6969/announce
 

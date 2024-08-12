@@ -374,13 +374,13 @@ http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://btt.service.gongt.me:43079/announce
-
 http://tracker.guguan.000.pe:80/announce
 
 http://tracker.phoenix.lol:80/announce
 
 http://tracker.gbitt.info:80/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 http://thetracker.org:80/announce
 
@@ -641,8 +641,6 @@ https://tracker.nitrix.me:443/announce
 udp://chihaya.de:6969/announce
 
 udp://smtp.loki.tel:25/announce
-
-http://multi.open-tracker.cf:8000/announce
 
 http://web.open-tracker.cf:6969/announce
 
@@ -2686,6 +2684,8 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2719,6 +2719,8 @@ http://milliontorrent.pl:80/announce
 http://mixfiend.com:80/announce
 
 http://mkfs.ru:80/announce
+
+http://multi.open-tracker.cf:8000/announce
 
 http://nagios.tks.sumy.ua:80/announce
 
@@ -2884,8 +2886,6 @@ https://ipv6.tracker.m-team.cc:443/announce
 
 https://lima-peru.subventas.com:443/announce
 
-https://mail.martin-gebhardt.com:8443/announce
-
 https://o-unkusrx.cloud.okteto.net:443/announce
 
 https://prestige.minimafia.nl:443/announce
@@ -2949,6 +2949,8 @@ udp://anidex.moe:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -3024,7 +3026,11 @@ udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3111,6 +3117,8 @@ http://www.chouchou.club80/announce
 http://www.loushao.net80/announce
 
 https://gwp2-v19.rinet.ru/announce
+
+https://mail.martin-gebhardt.com:8443/announce
 
 https://o-unkusrx.cloud.okteto.net/announce
 

@@ -358,9 +358,9 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://t.peer-exchange.download:443/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://t.peer-exchange.download:443/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -393,8 +393,6 @@ http://open.tracker.ink:6969/announce
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
-
-http://tracker.ykat.xyz:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -927,6 +925,8 @@ https://torrust.canofsocks.com:443/announce
 https://tracker.madtia.cc:443/announce
 
 https://tracker.amelia.fun:443/announce
+
+http://tracker.ykat.xyz:6969/announce
 
 http://tracker.gbitt.info/announce
 

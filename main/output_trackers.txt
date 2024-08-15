@@ -26,6 +26,8 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
+http://t1.aag.moe:17715/announce
+
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -47,8 +49,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -292,6 +292,8 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
@@ -305,8 +307,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.qu.ax:6969/announce
-
-http://t1.aag.moe:17715/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -324,15 +324,15 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
 https://threads.canofsocks.com:443/announce
 
 udp://wepzone.net:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://tracker.enitin.xyz:80/announce
 
 http://tracker.vraphim.com:6969/announce
-
-http://tracker.enitin.xyz:80/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -340,15 +340,15 @@ udp://tracker1.t-1.org:6969/announce
 
 udp://retracker.lanta.me:2710/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker3.t-1.org:6969/announce
-
-udp://tracker.t-1.org:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tracker.t-1.org:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -362,33 +362,33 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://tracker.vds.nz:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 https://t.peer-exchange.download:443/announce
 
-udp://tracker.therarbg.com:6969/announce
+http://tracker.guguan.000.pe:80/announce
 
 http://thetracker.org:80/announce
 
-http://tracker.guguan.000.pe:80/announce
+udp://tracker.therarbg.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.phoenix.lol:80/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-http://tracker.gbitt.info:80/announce
-
 https://tracker.moeblog.cn:443/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://tracker.skyts.net:6969/announce
 

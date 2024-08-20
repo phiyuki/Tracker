@@ -598,6 +598,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://amigacity.xyz:6969/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -606,13 +608,11 @@ udp://open.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://amigacity.xyz:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.dump.cl:6969/announce
 
 http://isk.richardsw.club:6969/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -620,17 +620,17 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
+https://threads.canofsocks.com:443/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
-https://tracker1.520.jp:443/announce
-
 https://www.peckservers.com:9443/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -654,11 +654,11 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://ryjer.com:6969/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -1421,6 +1421,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://amigacity.xyz:6969/announce
+
 udp://www.torrent.eu.org:451/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
@@ -1429,13 +1431,11 @@ udp://open.publictracker.xyz:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://amigacity.xyz:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.dump.cl:6969/announce
 
 http://isk.richardsw.club:6969/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -1443,17 +1443,17 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
+https://threads.canofsocks.com:443/announce
+
 udp://u4.trakx.crim.ist:1337/announce
 
-https://tracker1.520.jp:443/announce
-
 https://www.peckservers.com:9443/announce
+
+https://tracker1.520.jp:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 

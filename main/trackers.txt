@@ -604,9 +604,9 @@ udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://open.demonoid.ch:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -624,9 +624,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://jutone.com:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1427,9 +1427,9 @@ udp://run.publictracker.xyz:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://open.demonoid.ch:6969/announce
-
 https://tracker1.520.jp:443/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://open.acgtracker.com:1096/announce
 

@@ -338,9 +338,9 @@ http://tracker.k.vu:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -387,6 +387,8 @@ udp://lopatins.ru:5972/announce
 udp://dyndns.xionxiii.ovh:6969/announce
 
 https://bt.080609.xyz:443/announce
+
+http://tracker-rh.zhuqiy.eu.org:80/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -883,8 +885,6 @@ udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
 
 https://trackers.nekosunevr.co.uk:443/announce
-
-http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 

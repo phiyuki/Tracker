@@ -328,17 +328,17 @@ http://tracker.k.vu:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://t.acg.rip:6699/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://u.peer-exchange.download:6969/announce
-
 https://tracker.loligirl.cn:443/announce
+
+udp://u.peer-exchange.download:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 

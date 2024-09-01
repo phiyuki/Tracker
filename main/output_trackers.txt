@@ -290,33 +290,17 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-udp://bt.ktrackers.com:6666/announce
-
-udp://wepzone.net:6969/announce
-
-udp://tracker.qu.ax:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-https://tracker.imgoingto.icu:443/announce
-
-http://wepzone.net:6969/announce
-
 http://tr.kxmp.cf:80/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://freedomalternative.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -326,9 +310,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -352,11 +336,19 @@ udp://open.demonoid.ch:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://wepzone.net:6969/announce
+
 http://tracker.guguan.000.pe:80/announce
 
 http://t.acg.rip:6699/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 https://tracker.cangku.moe:443/announce
+
+udp://bt.ktrackers.com:6666/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -364,15 +356,19 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://thetracker.org:80/announce
 
-http://tracker.phoenix.lol:80/announce
+https://tracker.imgoingto.icu:443/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
+http://tracker.phoenix.lol:80/announce
+
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -383,8 +379,6 @@ https://tr.ready4.icu:443/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://lopatins.ru:5972/announce
-
-udp://dyndns.xionxiii.ovh:6969/announce
 
 https://bt.080609.xyz:443/announce
 
@@ -650,6 +644,8 @@ udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 http://leidenfro.st:6969/announce
 
 http://shogiroom.com:6969/announce
@@ -723,6 +719,8 @@ udp://npge.nprotect.com:6969/announce
 udp://open.8a.is:6969/announce
 
 udp://laszlo130.go.ro:6969/announce
+
+udp://dyndns.xionxiii.ovh:6969/announce
 
 http://home.kray.pw:6969/announce
 
@@ -1765,6 +1763,8 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://datascene.net:80/announce.php
 
 http://51.68.122.172:80/announce
+
+http://wepzone.net:6969/announce
 
 http://www.genesis-sp.org:2710/announce
 
@@ -2948,6 +2948,8 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
@@ -2975,8 +2977,6 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
-
-udp://jp.moeweb.pw:6969/announce
 
 udp://li1406-230.members.linode.com:6969/announce
 
@@ -3027,8 +3027,6 @@ udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
@@ -3199,6 +3197,10 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://jp.moeweb.pw:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

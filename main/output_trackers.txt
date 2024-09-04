@@ -346,9 +346,9 @@ http://tracker.guguan.000.pe:80/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://open.demonoid.ch:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -376,11 +376,11 @@ udp://tracker.t-1.org:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker1.t-1.org:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+udp://tracker1.t-1.org:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -2948,7 +2948,11 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2963,12 +2967,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
-udp://i-p-v-6.tk:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3019,6 +3017,8 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
+
+udp://tracker.moxing.party:6969/announce
 
 udp://tracker.mywaifu.best:6969/announce
 
@@ -3189,6 +3189,12 @@ udp://85.239.33.28:6969/announce
 udp://89.110.76.229:6969/announce
 
 udp://89.234.156.205:451/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

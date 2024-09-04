@@ -24,13 +24,13 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -39,8 +39,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dump.cl:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -56,11 +54,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -83,8 +77,6 @@ https://1337.abcvg.info:443/announce
 https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -210,6 +202,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -304,7 +298,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-http://tr.kxmp.cf:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -312,13 +306,17 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tr.ready4.icu:443/announce
 
+http://tracker.qu.ax:6969/announce
+
+http://t.overflow.biz:6969/announce
+
 http://canardscitrons.nohost.me:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://t.overflow.biz:6969/announce
+http://tracker.dump.cl:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -348,9 +346,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://open.demonoid.ch:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -372,15 +370,13 @@ http://tracker.phoenix.lol:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.t-1.org:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://tracker.t-1.org:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-udp://tracker1.t-1.org:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -910,6 +906,8 @@ https://torrust.canofsocks.com:443/announce
 
 https://tracker.madtia.cc:443/announce
 
+udp://tracker1.t-1.org:6969/announce
+
 udp://tracker3.t-1.org:6969/announce
 
 https://tracker.amelia.fun:443/announce
@@ -965,6 +963,8 @@ http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 
 http://tracker.anirena.com:80/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.tamersunion.org/announce
 

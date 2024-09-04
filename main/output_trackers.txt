@@ -350,23 +350,23 @@ udp://tracker.theoks.net:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://dataforai.com:31332/announce
-
 http://rfc5746.mywaifu.best:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
+udp://dataforai.com:31332/announce
 
 https://tracker.cangku.moe:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://thetracker.org:80/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://track.solcloud.eu:443/announce
-
 udp://freedomalternative.com:6969/announce
 
 http://tracker.phoenix.lol:80/announce
+
+https://track.solcloud.eu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -374,11 +374,9 @@ http://open.tracker.ink:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://tracker-rh.zhuqiy.eu.org:80/announce
-
 https://tr.ready4.icu:443/announce
 
-udp://tracker.t-1.org:6969/announce
+http://tracker-rh.zhuqiy.eu.org:80/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -535,8 +533,6 @@ https://tracker.expli.top:443/announce
 https://tracker.moeblog.cn:443/announce
 
 udp://tracker.joybomb.tw:6969/announce
-
-http://tracker.sakurato.art:23333/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -913,6 +909,8 @@ https://tracker.madtia.cc:443/announce
 udp://tracker1.t-1.org:6969/announce
 
 udp://tracker3.t-1.org:6969/announce
+
+udp://tracker.t-1.org:6969/announce
 
 https://tracker.amelia.fun:443/announce
 
@@ -1757,6 +1755,8 @@ http://116.252.176.125:6969/announce
 http://grifon.info/announce
 
 http://grifon.info:80/announce
+
+http://tracker.sakurato.art:23333/announce
 
 http://li1406-230.members.linode.com:6969/announce
 

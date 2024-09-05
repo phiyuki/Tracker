@@ -326,9 +326,9 @@ http://tracker1.itzmx.com:8080/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-http://isk.richardsw.club:6969/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://isk.richardsw.club:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -350,9 +350,9 @@ http://smurfsoft.com:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://jvavav.com:80/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -364,9 +364,9 @@ udp://open.demonoid.ch:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://dataforai.com:31332/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://dataforai.com:31332/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -2988,6 +2988,8 @@ udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
+udp://jp.moeweb.pw:6969/announce
+
 udp://li1406-230.members.linode.com:6969/announce
 
 udp://li2021-95.members.linode.com:6969/announce
@@ -3037,6 +3039,8 @@ udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

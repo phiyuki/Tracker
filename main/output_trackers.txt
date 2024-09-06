@@ -56,7 +56,13 @@ http://tracker.k.vu:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://tracker.renfei.net:8080/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -308,17 +314,11 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker2.dler.org:80/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -356,9 +356,9 @@ http://smurfsoft.com:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://t.acg.rip:6699/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
@@ -372,9 +372,9 @@ udp://dataforai.com:31332/announce
 
 http://thetracker.org:80/announce
 
-https://tracker.loligirl.cn:443/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+https://tracker.loligirl.cn:443/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -3074,6 +3074,8 @@ ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 
+http://125.227.79.123:6969/announce
+
 http://125.227.79.123:80/announce
 
 http://15.204.57.168:6969/announce
@@ -3086,7 +3088,9 @@ http://177.172.61.236:6969/announce
 
 http://184.61.17.58:9000/announce
 
-http://211.75.210.220:6969/announce
+http://222.84.23.239:6969/announce
+
+http://34.89.51.235:80/announce
 
 http://35.227.59.57:80/announce
 
@@ -3144,21 +3148,17 @@ https://tr.kxmp.cf/announce
 
 https://tracker.quix.cf/announce
 
-udp://104.244.77.14:1337/announce
-
-udp://104.244.77.87:6969/announce
-
 udp://120.36.84.13:2710/announce
 
 udp://120.36.84.13:6969/announce
 
 udp://121.199.16.229:6969/announce
 
+udp://125.227.79.123:6969/announce
+
 udp://125.227.79.123:80/announce
 
 udp://135.125.202.143:6969/announce
-
-udp://138.124.183.78:6969/announce
 
 udp://142.132.183.104:6969/announce
 
@@ -3169,6 +3169,8 @@ udp://15.204.56.171:6969/announce
 udp://15.204.57.168:6969/announce
 
 udp://176.123.1.180:6969/announce
+
+udp://176.56.7.44:6969/announce
 
 udp://176.99.7.59:6969/announce
 
@@ -3186,9 +3188,7 @@ udp://193.42.111.57:9337/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://209.141.59.16:6969/announce
-
-udp://211.75.210.220:6969/announce
+udp://23.140.248.9:1337/announce
 
 udp://23.153.248.83:6969/announce
 
@@ -3196,11 +3196,13 @@ udp://23.157.120.14:6969/announce
 
 udp://23.163.56.66:6969/announce
 
-udp://23.168.232.9:1337/announce
-
 udp://34.89.51.235:6969/announce
 
 udp://34.94.76.146:1337/announce
+
+udp://34.94.76.146:6969/announce
+
+udp://35.227.59.57:1337/announce
 
 udp://5.102.159.190:6969/announce
 
@@ -3208,9 +3210,9 @@ udp://5.181.156.41:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://51.15.41.46:6969/announce
-
 udp://54.39.48.3:6969/announce
+
+udp://62.210.114.129:6969/announce
 
 udp://64.23.195.62:6969/announce
 
@@ -3226,11 +3228,9 @@ udp://88.216.2.71:6969/announce
 
 udp://89.110.76.229:6969/announce
 
-udp://89.234.156.205:451/announce
+udp://91.216.110.53:451/announce
 
-udp://creative.7o7.cx:6969/announce
-
-udp://torrent.hificode.in:6969/announce
+udp://96.126.98.54:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

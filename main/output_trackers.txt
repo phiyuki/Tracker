@@ -350,9 +350,9 @@ https://bittorrent.service.gongt.me:59443/announce
 
 http://tracker.vraphim.com:6969/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 http://jvavav.com:80/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -362,9 +362,9 @@ http://t.acg.rip:6699/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://open.demonoid.ch:6969/announce
-
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://open.demonoid.ch:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -2972,13 +2972,17 @@ udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
-udp://creative.7o7.cx:6969/announce
-
 udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://i-p-v-6.tk:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3014,9 +3018,9 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://torrent.fedoraproject.org:6969/announce
+udp://t.jaekr.sh:6969/announce
 
-udp://torrent.hificode.in:6969/announce
+udp://torrent.fedoraproject.org:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -3039,6 +3043,8 @@ udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3221,6 +3227,10 @@ udp://88.216.2.71:6969/announce
 udp://89.110.76.229:6969/announce
 
 udp://89.234.156.205:451/announce
+
+udp://creative.7o7.cx:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

@@ -22,6 +22,8 @@ http://mc.itscraftsoftware.my.id:8804/announce
 
 http://nyaa.tracker.wf:7777/announce
 
+http://open.tracker.ink:6969/announce
+
 http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
@@ -93,6 +95,8 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -194,8 +198,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -203,6 +205,8 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -216,6 +220,8 @@ udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
@@ -225,8 +231,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://trackarr.org:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -318,19 +322,17 @@ udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://open.tracker.ink:6969/announce
-
 http://t.overflow.biz:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://open.acgtracker.com:1096/announce
+udp://trackarr.org:6969/announce
 
-udp://t.overflow.biz:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -338,9 +340,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+http://tracker.enitin.xyz:80/announce
+
 https://threads.canofsocks.com:443/announce
 
-http://tracker.enitin.xyz:80/announce
+udp://open.u-p.pw:6969/announce
 
 http://jvavav.com:80/announce
 
@@ -353,8 +357,6 @@ http://tracker.guguan.000.pe:80/announce
 http://cn.pcfreetime.com:6969/announce
 
 http://smurfsoft.com:6969/announce
-
-http://canardscitrons.nohost.me:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -643,8 +645,6 @@ udp://tracker.trojangogogo.site:8080/announce
 udp://oh.fuuuuuck.com:6969/announce
 
 udp://ipv6.fuuuuuck.com:6969/announce
-
-https://tracker.ipfsscan.io:443/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -1412,6 +1412,8 @@ http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://bt.beatrice-raws.org/announce
 
 http://www.xwt-classics.net/announce.php
@@ -1467,8 +1469,6 @@ http://34.89.30.59:2710/announce
 http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 http://185.185.40.95:6969/announce
 

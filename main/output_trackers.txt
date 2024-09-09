@@ -342,9 +342,9 @@ http://open.acgtracker.com:1096/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://ipv6.rer.lol:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://ipv6.rer.lol:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -378,13 +378,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://open.demonoid.ch:6969/announce
 
-udp://dataforai.com:31332/announce
-
 udp://free.publictracker.xyz:6969/announce
 
-https://tracker.loligirl.cn:443/announce
+udp://dataforai.com:31332/announce
 
 http://thetracker.org:80/announce
+
+https://tracker.loligirl.cn:443/announce
 
 http://tracker.phoenix.lol:80/announce
 
@@ -2704,8 +2704,6 @@ http://bt.dl1234.com:80/announce
 
 http://btx.anifilm.tv:80/announce
 
-http://connect.swifte.space:2710/announce
-
 http://data-bg.net:80/announce
 
 http://datascene.net:80/announce
@@ -2960,8 +2958,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -3046,8 +3042,6 @@ udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.vraphim.com:6969/announce
-
 udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
@@ -3105,6 +3099,8 @@ http://bt.ali213.net00/announce
 http://bt.ali213.net80/announce
 
 http://bt2.54new.com80/announce
+
+http://connect.swifte.space:2710/announce
 
 http://frp.v2fy.com00/announce
 
@@ -3225,6 +3221,10 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

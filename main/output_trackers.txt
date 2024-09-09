@@ -66,8 +66,6 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -210,6 +208,8 @@ udp://opentracker.io:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -326,8 +326,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 https://tr.ready4.icu:443/announce
 
 http://tracker.skyts.net:6969/announce
@@ -380,8 +378,6 @@ udp://open.demonoid.ch:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
-udp://dataforai.com:31332/announce
-
 http://thetracker.org:80/announce
 
 https://tracker.loligirl.cn:443/announce
@@ -389,6 +385,8 @@ https://tracker.loligirl.cn:443/announce
 http://tracker.phoenix.lol:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://dataforai.com:31332/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -1407,6 +1405,8 @@ http://156.234.201.18/announce
 http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://bt.beatrice-raws.org/announce
 

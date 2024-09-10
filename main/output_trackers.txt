@@ -28,7 +28,7 @@ http://retracker.hotplug.ru:2710/announce
 
 http://retracker.x2k.ru:80/announce
 
-http://t.overflow.biz:6969/announce
+http://t1.aag.moe:17715/announce
 
 http://tk.greedland.net:80/announce
 
@@ -39,8 +39,6 @@ http://tr.kxmp.cf:80/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -61,8 +59,6 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -246,8 +242,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -320,13 +314,17 @@ udp://tracker.theoks.net:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
+udp://tracker.deadorbit.nl:6969/announce
+
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://t1.aag.moe:17715/announce
+http://t.overflow.biz:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -337,6 +335,8 @@ udp://freedomalternative.com:6969/announce
 http://tracker1.itzmx.com:8080/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -386,13 +386,13 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://tracker.loligirl.cn:443/announce
 
+http://wg.mortis.me:6969/announce
+
 http://0205.uptm.ch:6969/announce
 
 https://tr.ready4.icu:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-http://wg.mortis.me:6969/announce
 
 https://track.solcloud.eu:443/announce
 
@@ -1131,6 +1131,8 @@ http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
 
 udp://tracker.auctor.tv:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 udp://theodoric.fr:6969/announce
 

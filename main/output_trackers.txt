@@ -300,35 +300,21 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-https://tracker.imgoingto.icu:443/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.skyts.net:6969/announce
-
-http://open.tracker.ink:6969/announce
-
-udp://tracker.deadorbit.nl:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://t.overflow.biz:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://ipv4.rer.lol:2710/announce
-
-udp://freedomalternative.com:6969/announce
+http://open.tracker.ink:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -346,11 +332,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-https://threads.canofsocks.com:443/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
+https://threads.canofsocks.com:443/announce
+
 http://tracker.enitin.xyz:80/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 http://tracker.guguan.000.pe:80/announce
 
@@ -364,17 +354,23 @@ http://cn.pcfreetime.com:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tracker.theoks.net:6969/announce
 
 http://smurfsoft.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 https://tracker.cangku.moe:443/announce
+
+udp://freedomalternative.com:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -386,9 +382,9 @@ http://tracker.phoenix.lol:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://tracker.loligirl.cn:443/announce
-
 http://wg.mortis.me:6969/announce
+
+https://tracker.loligirl.cn:443/announce
 
 http://0205.uptm.ch:6969/announce
 
@@ -2995,6 +2991,8 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://jp.moeweb.pw:6969/announce
 

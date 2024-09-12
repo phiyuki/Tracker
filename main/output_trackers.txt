@@ -312,19 +312,25 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
+udp://bt.rer.lol:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://t.overflow.biz:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://freedomalternative.com:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -348,8 +354,6 @@ http://tracker.vraphim.com:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://bt.rer.lol:6969/announce
-
 http://rfc5746.mywaifu.best:6969/announce
 
 udp://epider.me:6969/announce
@@ -372,8 +376,6 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://smurfsoft.com:6969/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://thetracker.org:80/announce
 
 http://open.tracker.ink:6969/announce
@@ -390,11 +392,11 @@ http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
+udp://tk1v6.trackerservers.com:8080/announce
+
 https://track.solcloud.eu:443/announce
 
 udp://lopatins.ru:5972/announce
-
-udp://tk1v6.trackerservers.com:8080/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -1129,8 +1131,6 @@ https://tr.bangumi.moe:9696/announce
 http://93.158.213.92:1337/announce
 
 http://www.zone-torrent.net:80/announce.php
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://theodoric.fr:6969/announce
 

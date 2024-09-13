@@ -12,8 +12,6 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -66,7 +64,7 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -95,8 +93,6 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 https://tracker.cloudit.top:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
@@ -150,6 +146,8 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bt.rer.lol:2710/announce
 
+udp://bt.rer.lol:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -164,7 +162,7 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
+udp://freedomalternative.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -196,6 +194,8 @@ udp://open.stealth.si:80/announce
 
 udp://open.tracker.ink:6969/announce
 
+udp://open.u-p.pw:6969/announce
+
 udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
@@ -203,8 +203,6 @@ udp://opentracker.io:6969/announce
 udp://p2p.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -274,6 +272,8 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -285,6 +285,8 @@ udp://tracker.tryhackx.org:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker.xor.st:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -306,37 +308,37 @@ udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://z.mercax.com:53/announce
-
 wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 
-udp://bt.rer.lol:6969/announce
+udp://free.publictracker.xyz:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+https://tracker.imgoingto.icu:443/announce
 
 http://t.overflow.biz:6969/announce
 
 http://ch3oh.ru:6969/announce
 
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://freedomalternative.com:6969/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker1.itzmx.com:8080/announce
 
 udp://t.overflow.biz:6969/announce
 
 http://tracker.auctor.tv:6969/announce
 
 http://open.acgtracker.com:1096/announce
+
+udp://z.mercax.com:53/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -352,8 +354,6 @@ http://tracker.guguan.000.pe:80/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://open.u-p.pw:6969/announce
-
 http://rfc5746.mywaifu.best:6969/announce
 
 udp://epider.me:6969/announce
@@ -362,11 +362,7 @@ https://bittorrent.service.gongt.me:59443/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 https://tracker.cangku.moe:443/announce
-
-udp://tracker.theoks.net:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -1132,6 +1128,8 @@ http://93.158.213.92:1337/announce
 
 http://www.zone-torrent.net:80/announce.php
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://theodoric.fr:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -1777,6 +1775,8 @@ http://carbon-bonsai-621.appspot.com/announce
 http://60-fps.org/bt:80/announce.php
 
 http://104.143.10.186:8000/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 https://tracker.dmhy.pw:443/announce
 

@@ -410,6 +410,8 @@ http://tracker-rh.zhuqiy.eu.org:80/announce
 
 https://track.solcloud.eu:443/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://lopatins.ru:5972/announce
 
 http://t.nyaatracker.com:80/announce
@@ -419,8 +421,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 http://wegkxfcivgx.chickenkiller.com:80/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 

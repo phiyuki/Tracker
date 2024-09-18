@@ -320,33 +320,15 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.imgoingto.icu:443/announce
-
-udp://wepzone.net:6969/announce
-
-udp://jvavav.com:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://jvavav.com:443/announce
-
-http://wepzone.net:6969/announce
-
-http://t.overflow.biz:6969/announce
-
-http://open.tracker.ink:6969/announce
-
-http://canardscitrons.nohost.me:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://tracker1.itzmx.com:8080/announce
 
-http://region.nl1.privex.cc:6969/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -360,9 +342,11 @@ http://open.acgtracker.com:1096/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker.kmzs123.cn:17272/announce
+udp://wepzone.net:6969/announce
 
 http://tracker.1048576.cn:17272/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -380,21 +364,23 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-http://mc.itscraftsoftware.my.id:8804/announce
-
 http://tracker.vraphim.com:6969/announce
 
-udp://ryjer.com:6969/announce
+http://mc.itscraftsoftware.my.id:8804/announce
 
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://ryjer.com:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
 udp://epider.me:6969/announce
 
-https://tracker.cangku.moe:443/announce
+http://canardscitrons.nohost.me:6969/announce
 
 udp://open.tracker.cl:1337/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -408,7 +394,13 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+http://open.tracker.ink:6969/announce
+
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.moeblog.cn:443/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -423,8 +415,6 @@ http://0205.uptm.ch:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-http://smurfsoft.com:6969/announce
 
 https://track.solcloud.eu:443/announce
 
@@ -687,6 +677,8 @@ udp://dmitrynegoda.com:6969/announce
 udp://netmap.top:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://public-tracker.cf:6969/announce
 
@@ -1334,6 +1326,8 @@ https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
 
+http://t.overflow.biz:6969/announce
+
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.tfile.me:80/announce
@@ -1795,6 +1789,8 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 http://datascene.net:80/announce.php
 
 http://51.68.122.172:80/announce
+
+http://wepzone.net:6969/announce
 
 http://www.genesis-sp.org:2710/announce
 

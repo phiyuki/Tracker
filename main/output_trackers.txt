@@ -34,19 +34,15 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-http://tracker.1048576.cn:17272/announce
 
 http://tracker.auctor.tv:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dler.com:6969/announce
 
-http://tracker.dump.cl:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -166,8 +162,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
@@ -270,8 +264,6 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skynetcloud.site:6969/announce
@@ -328,6 +320,8 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
+http://tr.kxmp.cf:80/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://new-line.net:6969/announce
@@ -348,19 +342,29 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://tracker.kmzs123.cf:17272/announce
+
+http://tracker.dump.cl:6969/announce
+
 http://isk.richardsw.club:6969/announce
 
+udp://d13bttrck.duckdns.org:6969/announce
+
 http://open.acgtracker.com:1096/announce
+
+http://tracker.1048576.cn:17272/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 https://tracker.bjut.jp:443/announce
 
+http://tracker.enitin.xyz:80/announce
+
 https://mathkangaroo.jp:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -370,9 +374,9 @@ https://threads.canofsocks.com:443/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 
@@ -421,6 +425,8 @@ http://0205.uptm.ch:6969/announce
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
 https://track.solcloud.eu:443/announce
+
+udp://ftp.pet:2710/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -593,8 +599,6 @@ udp://tracker.openbtba.com:6969/announce
 https://t1.hloli.org:443/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
-
-udp://ftp.pet:2710/announce
 
 udp://sx.xxtor.com:6969/announce
 
@@ -1155,8 +1159,6 @@ http://93.158.213.92:1337/announce
 http://www.zone-torrent.net:80/announce.php
 
 udp://tracker.auctor.tv:6969/announce
-
-http://tracker.dler.com:6969/announce
 
 udp://theodoric.fr:6969/announce
 

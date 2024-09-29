@@ -302,33 +302,31 @@ http://region.nl1.privex.cc:6969/announce
 
 http://jvavav.com:80/announce
 
-https://tracker1.itzmx.com:8080/announce
-
-https://api.ipv4online.uk:443/announce
+http://open.acgtracker.com:1096/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-http://open.acgtracker.com:1096/announce
+https://api.ipv4online.uk:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tk1.trackerservers.com:8080/announce
+https://mathkangaroo.jp:443/announce
 
 https://threads.canofsocks.com:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tracker.kmzs123.com:17272/announce
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.kmzs123.cf:17272/announce
 
-udp://tracker.kmzs123.tk:17272/announce
+udp://tracker.kmzs123.com:17272/announce
 
 http://tr1.aag.moe:2095/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -356,11 +354,13 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-http://tracker.ismaarino.com:8880/announce
-
 http://tracker.guguan.000.pe:80/announce
 
+https://tracker1.itzmx.com:8080/announce
+
 udp://ismaarino.com:1234/announce
+
+http://tracker.ismaarino.com:8880/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -368,25 +368,25 @@ udp://open.publictracker.xyz:6969/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 
-http://t.acg.rip:6699/announce
-
 udp://tracker.kmzs123.top:17272/announce
 
+http://t.acg.rip:6699/announce
+
 http://wg.mortis.me:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://www.2600.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://smurfsoft.com:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.1048576.cn:17272/announce
-
-http://smurfsoft.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
@@ -402,8 +402,6 @@ udp://open.tracker.cl:1337/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-http://tracker.phoenix.lol:80/announce
-
 udp://ftp.pet:2710/announce
 
 http://tracker.skyts.net:6969/announce
@@ -411,8 +409,6 @@ http://tracker.skyts.net:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-udp://epider.me:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -521,6 +517,8 @@ udp://thouvenin.cloud:6969/announce
 udp://astrr.ru:6969/announce
 
 udp://aarsen.me:6969/announce
+
+udp://epider.me:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -738,8 +736,6 @@ http://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://sabross.xyz:6969/announce
-
 udp://tr2.ysagin.top:2715/announce
 
 udp://bigfoot1942.sektori.org:6969/announce
@@ -818,7 +814,7 @@ udp://tracker.picotorrent.one:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
-https://yolo.liberbear.com:443/announce
+https://yolo.liberbear.com:80/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -2832,6 +2828,8 @@ http://tracker.nyacat.pw:7000/announce
 
 http://tracker.openzim.org:80/announce
 
+http://tracker.phoenix.lol:80/announce
+
 http://tracker.pimp4003.net:80/announce
 
 http://tracker.pomf.se:80/announce
@@ -2980,6 +2978,8 @@ https://ttk.pp.ua:443/announce
 
 https://x7x.up.railway.app:443/announce
 
+https://yolo.liberbear.com:443/announce
+
 https://zer0day.000webhostapp.com:443/announce
 
 udp://0205.uptm.ch:6969/announce
@@ -3031,6 +3031,8 @@ udp://open.stealth.si:6969/announce
 udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
+
+udp://sabross.xyz:6969/announce
 
 udp://shogiroom.com:6969/announce
 

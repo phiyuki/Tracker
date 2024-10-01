@@ -290,9 +290,9 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://tracker.kmzs123.cf:17272/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -310,19 +310,19 @@ udp://tracker.kmzs123.com:17272/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-https://p4p.arenabg.com:1337/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+https://p4p.arenabg.com:1337/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://mathkangaroo.jp:443/announce
-
 http://rfc5746.mywaifu.best:6969/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://t.overflow.biz:6969/announce
+
+https://mathkangaroo.jp:443/announce
+
+https://api.ipv4online.uk:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
@@ -330,9 +330,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://tracker.xor.st:6969/announce
-
 udp://ismaarino.com:1234/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -362,9 +362,9 @@ http://mc.itscraftsoftware.my.id:8804/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://wg.mortis.me:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://wg.mortis.me:6969/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -374,9 +374,9 @@ http://tracker.ismaarino.com:8880/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://freedomalternative.com:6969/announce
 

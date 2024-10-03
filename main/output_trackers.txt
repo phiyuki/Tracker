@@ -54,6 +54,8 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -308,9 +310,9 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
 
-http://tracker.enitin.xyz:80/announce
-
 udp://d13bttrck.duckdns.org:6969/announce
+
+http://tracker.enitin.xyz:80/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -322,21 +324,23 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.kmzs123.com:17272/announce
 
+udp://t.overflow.biz:6969/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://t.overflow.biz:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+udp://ismaarino.com:1234/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 https://p4p.arenabg.com:1337/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tracker.xor.st:6969/announce
 
@@ -344,19 +348,17 @@ http://t1.aag.moe:17715/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 http://tracker.vraphim.com:6969/announce
 
 https://trackers.run:443/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -605,8 +607,6 @@ http://tracker.aibt.xyz:900/announce
 http://dht.dhtclub.com:666/announce
 
 udp://chihaya.de:6969/announce
-
-http://web.open-tracker.cf:6969/announce
 
 https://dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org:443/announce
 
@@ -1401,8 +1401,6 @@ http://156.234.201.18/announce
 http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://bt.beatrice-raws.org/announce
 
@@ -2277,6 +2275,8 @@ http://116.9.207.198:6969/announce
 http://83.6.220.156:6969/announce
 
 http://opentracker.io/announce
+
+http://web.open-tracker.cf:6969/announce
 
 https://torrent-tracker.hama3.net:443/announce
 

@@ -1,9 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://207.241.226.111:6969/announce
-
-http://207.241.231.226:6969/announce
-
 http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -36,10 +32,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
-
-http://tracker.edkj.club:6969/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
@@ -58,6 +50,8 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -72,9 +66,11 @@ http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker.x2k.ru:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
+https://sparkle.ghostchu-services.top:443/announce
 
 https://tr.abir.ga:443/announce
 
@@ -105,8 +101,6 @@ https://tracker.yemekyedim.com:443/announce
 https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
-
-https://www.peckservers.com:9443/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -244,6 +238,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
+udp://tracker.kmzs123.cf:17272/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -298,17 +294,13 @@ udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker2.dler.org:80/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://open.xxtor.com:3074/announce
+http://tracker.edkj.club:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-https://pybittrack.retiolus.net:443/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -316,19 +308,17 @@ http://open.acgtracker.com:1096/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+https://www.peckservers.com:9443/announce
+
 http://tracker1.itzmx.com:8080/announce
 
-http://region.nl1.privex.cc:6969/announce
-
-udp://tracker.kmzs123.cf:17272/announce
-
-https://sparkle.ghostchu-services.top:443/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tracker.kmzs123.tk:17272/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -354,15 +344,17 @@ udp://t.overflow.biz:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
-http://cn.pcfreetime.com:6969/announce
+udp://open.xxtor.com:3074/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
-http://jvavav.com:80/announce
+http://cn.pcfreetime.com:6969/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
+
+http://jvavav.com:80/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -390,11 +382,13 @@ udp://www.2600.com:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
+http://region.nl1.privex.cc:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -415,6 +409,8 @@ http://tracker.skyts.net:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://lopatins.ru:5972/announce
 
@@ -1050,6 +1046,8 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker3.ctix.cn:2095/announce
 
+http://207.241.226.111:6969/announce
+
 https://tracker.sakurato.art:23334/announce
 
 http://open.nyap2p.com:8080/announce
@@ -1061,6 +1059,8 @@ https://tracker1.ctix.cn/announce
 https://trackme.theom.nz/announce
 
 https://opentracker.cc/announce
+
+http://207.241.231.226:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 

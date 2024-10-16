@@ -6,6 +6,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://bvarf.tracker.sh:2086/announce
 
+http://canardscitrons.nohost.me:6969/announce
+
 http://ch3oh.ru:6969/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -17,8 +19,6 @@ http://open.tracker.ink:6969/announce
 http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
-
-http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -62,6 +62,8 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
@@ -80,9 +82,13 @@ https://1337.abcvg.info:443/announce
 
 https://p2p.azu.red:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abir.ga:443/announce
 
@@ -107,8 +113,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.pmman.tech:443/announce
 
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
@@ -160,8 +164,6 @@ udp://isk.richardsw.club:6969/announce
 
 udp://jutone.com:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
@@ -200,6 +202,8 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://ryjer.com:6969/announce
 
 udp://seedpeer.net:6969/announce
@@ -209,8 +213,6 @@ udp://serpb.vpsburti.com:6969/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -262,17 +264,15 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 udp://tracker.waaa.moe:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -290,8 +290,6 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://wepzone.net:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://z.mercax.com:53/announce
@@ -300,21 +298,27 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+udp://leet-tracker.moe:1337/announce
+
+udp://wepzone.net:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://tracker.vds.nz:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -334,6 +338,8 @@ https://api.ipv4online.uk:443/announce
 
 https://mathkangaroo.jp:443/announce
 
+https://tracker.uraniumhexafluori.de:443/announce
+
 https://threads.canofsocks.com:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
@@ -346,8 +352,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
@@ -356,13 +360,11 @@ udp://bt2.archive.org:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://tracker.kmzs123.tk:17272/announce
-
 http://rfc5746.mywaifu.best:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
@@ -375,8 +377,6 @@ http://jvavav.com:80/announce
 http://t1.aag.moe:17715/announce
 
 https://tracker.cangku.moe:443/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.farted.net:6969/announce
 

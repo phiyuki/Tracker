@@ -348,13 +348,13 @@ http://tracker.vraphim.com:6969/announce
 
 udp://cq.kmzs123.cn:17272/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker.cloaka.xyz:1337/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 http://rfc5746.mywaifu.best:6969/announce
+
+udp://tracker.cloaka.xyz:1337/announce
 
 udp://new-line.net:6969/announce
 
@@ -368,15 +368,15 @@ udp://open.u-p.pw:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.kmzs123.cf:17272/announce
-
-http://t1.aag.moe:17715/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
+http://t1.aag.moe:17715/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://tracker.kmzs123.cf:17272/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -392,9 +392,9 @@ http://jvavav.com:80/announce
 
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://free.publictracker.xyz:6969/announce
 

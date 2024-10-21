@@ -336,11 +336,11 @@ udp://ismaarino.com:1234/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+https://torrent.tracker.durukanbal.com:443/announce
+
 https://threads.canofsocks.com:443/announce
 
 udp://t.overflow.biz:6969/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 http://smurfsoft.com:6969/announce
 
@@ -374,15 +374,15 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://t1.aag.moe:17715/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://tracker.kmzs123.cf:17272/announce
-
 http://t.acg.rip:6699/announce
+
+udp://tracker.kmzs123.cf:17272/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -3009,6 +3009,8 @@ udp://open.stealth.si:6969/announce
 udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
+
+udp://rfc5746.mywaifu.best:6969/announce
 
 udp://shogiroom.com:6969/announce
 

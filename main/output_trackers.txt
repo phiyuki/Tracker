@@ -376,13 +376,13 @@ udp://tracker.qu.ax:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://jvavav.com:80/announce
+
+udp://tracker.farted.net:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-udp://tracker.farted.net:6969/announce
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -395,10 +395,6 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
-
-udp://tracker.kmzs123.cn:17272/announce
-
-udp://tracker.kmzs123.cf:17272/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -898,7 +894,11 @@ udp://tracker.1048576.cn:17272/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
+udp://tracker.kmzs123.cf:17272/announce
+
 http://tracker.ismaarino.com:8880/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.gbitt.info/announce
 

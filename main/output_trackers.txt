@@ -282,17 +282,15 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tr.kxmp.cf:80/announce
-
-udp://bt.ktrackers.com:6666/announce
-
 http://wepzone.net:6969/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -310,15 +308,15 @@ udp://tracker.torrust-demo.com:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 https://tracker.bjut.jp:443/announce
+
+https://tr2.trkb.ru:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -340,9 +338,9 @@ http://smurfsoft.com:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-udp://tracker.cloaka.xyz:1337/announce
-
 http://tracker.enitin.xyz:80/announce
+
+udp://tracker.cloaka.xyz:1337/announce
 
 udp://tracker.vds.nz:6969/announce
 
@@ -351,6 +349,8 @@ udp://new-line.net:6969/announce
 https://tracker.uraniumhexafluori.de:443/announce
 
 udp://open.u-p.pw:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
@@ -362,9 +362,9 @@ udp://bt1.archive.org:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tracker.qu.ax:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -559,8 +559,6 @@ udp://ftp.pet:2710/announce
 udp://sx.xxtor.com:6969/announce
 
 udp://chouchou.top:8080/announce
-
-http://dn42.smrsh.net:6969/announce
 
 udp://stargrave.org:6969/announce
 
@@ -1924,6 +1922,8 @@ http://38.145.197.79:6961/announce
 
 http://88.99.189.199:6969/announce
 
+http://dn42.smrsh.net:6969/announce
+
 http://uraniumhexafluori.de:1919/announce
 
 http://171.104.110.95:6969/announce
@@ -2977,10 +2977,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 

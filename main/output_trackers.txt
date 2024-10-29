@@ -364,9 +364,9 @@ https://tracker.jobser.eu:443/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker.cloaka.xyz:1337/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.cloaka.xyz:1337/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -376,9 +376,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://yahor.of.by:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 http://t1.aag.moe:17715/announce
 

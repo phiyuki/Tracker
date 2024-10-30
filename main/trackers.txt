@@ -478,8 +478,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -503,6 +501,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://open.demonii.com:1337/announce
 
 https://tracker.lilithraws.org:443/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -552,11 +552,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-http://public.tracker.vraphim.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -574,9 +574,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -586,17 +586,17 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+udp://jutone.com:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -634,11 +634,11 @@ udp://tracker4.itzmx.com:2710/announce
 
 https://threads.canofsocks.com:443/announce
 
+udp://open.dstud.io:6969/announce
+
 https://retracker.x2k.ru:443/announce
 
 udp://tracker.waaa.moe:6969/announce
-
-udp://open.dstud.io:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -656,9 +656,9 @@ http://ch3oh.ru:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.xor.st:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -684,9 +684,9 @@ udp://run.publictracker.xyz:6969/announce
 
 http://rfc5746.mywaifu.best:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://tracker.edkj.club:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -704,11 +704,11 @@ udp://tracker.theoks.net:6969/announce
 
 http://smurfsoft.com:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://open.u-p.pw:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -1269,8 +1269,6 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://evan.im:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
@@ -1294,6 +1292,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://open.demonii.com:1337/announce
 
 https://tracker.lilithraws.org:443/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
@@ -1343,11 +1343,11 @@ udp://p2p.publictracker.xyz:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-http://public.tracker.vraphim.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -1365,9 +1365,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://www.torrent.eu.org:451/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -1377,17 +1377,17 @@ udp://tracker.gigantino.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://tracker.vraphim.com:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
 udp://opentracker.io:6969/announce
 
-udp://jutone.com:6969/announce
-
 udp://tk2v6.trackerservers.com:8080/announce
+
+udp://jutone.com:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 

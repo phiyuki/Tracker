@@ -304,13 +304,13 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 https://api.ipv4online.uk:443/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
 https://tracker.bjut.jp:443/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -318,13 +318,13 @@ https://tracker.uraniumhexafluori.de:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tk2.trackerservers.com:8080/announce
 
-https://threads.canofsocks.com:443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://retracker.x2k.ru:443/announce
 
@@ -348,17 +348,17 @@ http://rfc5746.mywaifu.best:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 http://tracker.enitin.xyz:80/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.files.fm:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-http://smurfsoft.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+http://smurfsoft.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -366,15 +366,15 @@ https://tracker.cangku.moe:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://new-line.net:6969/announce
-
 https://tracker.jobser.eu:443/announce
+
+udp://new-line.net:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://tracker.vds.nz:6969/announce
 
 udp://tracker.cloaka.xyz:1337/announce
 
@@ -388,17 +388,17 @@ http://t1.aag.moe:17715/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://bt1.archive.org:6969/announce
+udp://bt2.archive.org:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+udp://bt1.archive.org:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 

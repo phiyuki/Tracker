@@ -368,19 +368,11 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-http://www.torrentsnipe.info:2701/announce
+udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.skynetcloud.site:6969/announce
 
-http://t.jaekr.sh:6969/announce
-
-http://buny.uk:6969/announce
-
-http://bt1.xxxxbt.cc:6969/announce
-
-http://bt.poletracker.org:2710/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
+http://www.peckservers.com:9000/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -388,11 +380,9 @@ http://open.acgtracker.com:1096/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -406,21 +396,23 @@ udp://tr3.ysagin.top:2715/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-udp://tk2.trackerservers.com:8080/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
+
+udp://tk2.trackerservers.com:8080/announce
 
 https://threads.canofsocks.com:443/announce
 
 https://retracker.x2k.ru:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+udp://bt.rer.lol:2710/announce
 
 https://tr2.trkb.ru:443/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://bt.rer.lol:2710/announce
+udp://d13bttrck.duckdns.org:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -438,8 +430,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 http://t.acg.rip:6699/announce
@@ -450,15 +440,15 @@ http://open.tracker.ink:6969/announce
 
 https://tracker.jobser.eu:443/announce
 
-udp://new-line.net:6969/announce
-
 udp://yahor.of.by:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
-udp://tracker.cloaka.xyz:1337/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://tracker.cloaka.xyz:1337/announce
 
 udp://free.publictracker.xyz:6969/announce
 
@@ -472,11 +462,11 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 http://0205.uptm.ch:6969/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
+
+udp://bt2.archive.org:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1342,6 +1332,8 @@ udp://opentrackr.org:1337/announce
 
 udp://cutscloud.duckdns.org:6969/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://opentracker.xyz:80/announce
 
 udp://yahor.ftp.sh:6969/announce
@@ -1428,6 +1420,8 @@ http://fe.dealclub.de:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
 
+http://buny.uk:6969/announce
+
 http://retracker.joxnet.ru/announce
 
 http://torrent.fedoraproject.org:6969/announce
@@ -1453,6 +1447,8 @@ http://156.234.201.18/announce
 http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://bt.beatrice-raws.org/announce
 
@@ -1762,6 +1758,8 @@ https://tracker.srv00.com/announce
 
 https://tracker.publictorrent.net/announce
 
+http://t.jaekr.sh:6969/announce
+
 https://seeders-paradise.org/announce
 
 http://finbytes.org/announce.php
@@ -1817,6 +1815,8 @@ http://104.143.10.186:8000/announce
 https://tracker.dmhy.pw:443/announce
 
 https://tracker1.loli.co.nz:443/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -2046,8 +2046,6 @@ udp://tracker.istole.it:80/announce
 
 udp://11.rarbg.com:80/announce
 
-http://www.peckservers.com:9000/announce
-
 http://201.43.209.254:6969/announce
 
 http://45.154.253.8/announce
@@ -2065,6 +2063,8 @@ http://bz.tracker.bz/announce
 https://chihaya-heroku.120181311.xyz/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
+
+http://bt.poletracker.org:2710/announce
 
 http://107.189.10.20.sslip.io:7777/announce
 

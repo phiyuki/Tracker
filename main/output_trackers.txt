@@ -414,9 +414,9 @@ https://retracker.x2k.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+https://tr2.trkb.ru:443/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
 
@@ -436,15 +436,15 @@ http://rfc5746.mywaifu.best:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 udp://ryjer.com:6969/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -2986,9 +2986,9 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bttracker.debian.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 
-udp://buny.uk:6969/announce
+udp://bttracker.debian.org:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
 
@@ -3081,8 +3081,6 @@ udp://tracker.ygsub.com:6969/announce
 udp://tracker.ykat.xyz:6969/announce
 
 udp://tracker.yoshi210.com:6969/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 

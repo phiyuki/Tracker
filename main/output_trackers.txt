@@ -422,9 +422,9 @@ https://pybittrack.retiolus.net:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
@@ -436,9 +436,9 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://ryjer.com:6969/announce
 
-udp://api.clasificadosrapidos.com:53/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://api.clasificadosrapidos.com:53/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -2986,9 +2986,9 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
 
@@ -3064,17 +3064,15 @@ udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
+udp://tracker.novaopcj.eu.org:6969/announce
+
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

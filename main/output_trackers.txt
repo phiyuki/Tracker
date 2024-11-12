@@ -442,9 +442,9 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker.xor.st:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.xor.st:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -462,9 +462,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://tracker.netmap.top:6969/announce
+
+http://tracker.files.fm:6969/announce
 
 http://0205.uptm.ch:6969/announce
 

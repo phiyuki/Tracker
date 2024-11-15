@@ -422,13 +422,13 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://d13bttrck.duckdns.org:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
 
-https://tracker.cangku.moe:443/announce
+udp://d13bttrck.duckdns.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -456,19 +456,19 @@ http://open.tracker.ink:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://tracker.waaa.moe:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 http://tracker.skyts.net:6969/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
 udp://api.clasificadosrapidos.com:53/announce
 
-https://tracker.jobser.eu:443/announce
-
 udp://ftp.pet:2710/announce
+
+https://tracker.jobser.eu:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -2992,8 +2992,6 @@ udp://caramelo.ddns.net:8000/announce
 
 udp://ch3oh.ru:6969/announce
 
-udp://chihaya.de:6969/announce
-
 udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
@@ -3076,8 +3074,6 @@ udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
-udp://tracker.vrpnet.org:6969/announce
-
 udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
@@ -3095,8 +3091,6 @@ udp://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://wg.mortis.me:6969/announce
 
 udp://widemus.de:6969/announce
-
-udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
 
@@ -3339,6 +3333,12 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://chihaya.de:6969/announce
+
+udp://tracker.vrpnet.org:6969/announce
+
+udp://www.nartlof.com.br:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

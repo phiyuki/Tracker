@@ -406,13 +406,13 @@ https://retracker.x2k.ru:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 http://tracker.enitin.xyz:80/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker1.myporn.club:9337/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -452,9 +452,9 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://free.publictracker.xyz:6969/announce
-
 http://tracker.skyts.net:6969/announce
+
+udp://free.publictracker.xyz:6969/announce
 
 udp://tracker.netmap.top:6969/announce
 
@@ -470,9 +470,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -3022,8 +3022,6 @@ udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
-udp://jp.moeweb.pw:6969/announce
-
 udp://kiryuu-test.mywaifu.best:6969/announce
 
 udp://li1406-230.members.linode.com:6969/announce
@@ -3062,7 +3060,7 @@ udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
 
-udp://tracker.doko.moe:6969/announce
+udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.etree.org:6969/announce
 
@@ -3339,6 +3337,10 @@ udp://89.110.76.229:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://jp.moeweb.pw:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

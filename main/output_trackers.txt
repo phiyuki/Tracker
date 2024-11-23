@@ -406,9 +406,9 @@ udp://moonburrow.club:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -420,9 +420,9 @@ udp://cq.kmzs123.cn:17272/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://open.tracker.ink:6969/announce
 

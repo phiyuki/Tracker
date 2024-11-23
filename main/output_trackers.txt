@@ -390,11 +390,9 @@ udp://open.deadorbit.nl:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://tracker.renfei.net:8080/announce
+http://ipv4.rer.lol:2710/announce
 
 udp://tk2.trackerservers.com:8080/announce
-
-http://ipv4.rer.lol:2710/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -426,9 +424,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.cangku.moe:443/announce
 

@@ -344,8 +344,6 @@ https://t.213891.xyz:443/announce
 
 http://ipv4.rer.lol:2710/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.breizh.pm:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -361,6 +359,8 @@ http://bt.okmp3.ru:2710/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.kmzs123.tk:17272/announce
+
+udp://www.torrent.eu.org:451/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -378,9 +378,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-https://tr2.trkb.ru:443/announce
-
 http://ipv6.rer.lol:6969/announce
+
+https://tr2.trkb.ru:443/announce
 
 https://retracker.x2k.ru:443/announce
 
@@ -392,9 +392,9 @@ https://www.peckservers.com:9443/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -406,9 +406,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-http://canardscitrons.nohost.me:6969/announce
-
 udp://1c.premierzal.ru:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -418,9 +418,9 @@ http://open.tracker.ink:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://open.u-p.pw:6969/announce
 

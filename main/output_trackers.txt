@@ -386,9 +386,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 https://tr2.trkb.ru:443/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://retracker.x2k.ru:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -412,9 +412,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://moonburrow.club:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -444,11 +444,11 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 

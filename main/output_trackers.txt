@@ -388,9 +388,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -414,9 +414,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://www.peckservers.com:9443/announce
-
 udp://tracker.jamesthebard.net:6969/announce
+
+https://www.peckservers.com:9443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -432,17 +432,17 @@ http://tracker.skyts.net:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://1c.premierzal.ru:6969/announce
 
 udp://ftp.pet:2710/announce
 
-udp://freedomalternative.com:6969/announce
-
 http://0205.uptm.ch:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 

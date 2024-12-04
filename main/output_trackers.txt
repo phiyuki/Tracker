@@ -368,9 +368,9 @@ http://tracker2.itzmx.com:6961/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-http://tracker.enitin.xyz:80/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+http://tracker.enitin.xyz:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -380,11 +380,11 @@ udp://tracker.valete.tf:9999/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tk1.trackerservers.com:8080/announce
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -404,15 +404,15 @@ https://tracker.cangku.moe:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://tracker.jamesthebard.net:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://www.peckservers.com:9443/announce
+
+udp://tracker.jamesthebard.net:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -430,15 +430,13 @@ udp://moonburrow.club:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 udp://ftp.pet:2710/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://1c.premierzal.ru:6969/announce
 
 http://0205.uptm.ch:6969/announce
-
-udp://freedomalternative.com:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -625,6 +623,8 @@ udp://fleira.no:6969/announce
 udp://nullzone.fr:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 

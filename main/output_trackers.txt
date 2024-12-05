@@ -380,9 +380,9 @@ udp://tracker.valete.tf:9999/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+http://ipv6.rer.lol:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -400,11 +400,11 @@ udp://tk1v6.trackerservers.com:8080/announce
 
 udp://yahor.of.by:6969/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 udp://run.publictracker.xyz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -432,9 +432,9 @@ udp://moonburrow.club:6969/announce
 
 udp://ftp.pet:2710/announce
 
-http://0205.uptm.ch:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+http://0205.uptm.ch:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -766,7 +766,7 @@ https://fbiagent.cyou:443/announce
 
 https://shahidrazi.online:443/announce
 
-udp://tracker.dev-null.rocks:6969/announce
+udp://tracker.dev-null.rocks:443/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -3033,6 +3033,8 @@ udp://torrent.ubuntu.com:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://tracker.dev-null.rocks:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 

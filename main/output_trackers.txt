@@ -370,9 +370,9 @@ http://open.acgtracker.com:1096/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://tracker.enitin.xyz:80/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -390,9 +390,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://saltwood.top:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+http://saltwood.top:6969/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -404,11 +404,11 @@ udp://run.publictracker.xyz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://www.peckservers.com:9443/announce
 
@@ -434,9 +434,9 @@ udp://ftp.pet:2710/announce
 
 http://0205.uptm.ch:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 

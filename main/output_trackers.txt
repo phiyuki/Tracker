@@ -384,15 +384,15 @@ http://tracker.enitin.xyz:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://tracker.valete.tf:9999/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -440,9 +440,9 @@ udp://ftp.pet:2710/announce
 
 http://0205.uptm.ch:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -2968,6 +2968,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -3061,6 +3063,8 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
+
+udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
 

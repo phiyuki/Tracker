@@ -364,13 +364,13 @@ https://tracker.tamersunion.org:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -394,9 +394,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -2978,6 +2978,10 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv6.1337.cx:6969/announce
@@ -3003,6 +3007,8 @@ udp://region.nl1.privex.cc:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 
@@ -3065,8 +3071,6 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
-
-ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 

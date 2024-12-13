@@ -368,9 +368,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-http://bvarf.tracker.sh:2086/announce
-
 https://threads.canofsocks.com:443/announce
+
+http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -378,9 +378,9 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -388,9 +388,9 @@ http://kiryuu-test.mywaifu.best:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
-udp://tk1.trackerservers.com:8080/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -416,9 +416,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -2978,10 +2978,6 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv6.1337.cx:6969/announce
@@ -2991,8 +2987,6 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
-
-udp://laszlo130.go.ro:6969/announce
 
 udp://mail.lakameraobscura.com:6969/announce
 

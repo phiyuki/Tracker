@@ -294,8 +294,6 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
@@ -354,11 +352,9 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://rfc5746.mywaifu.best:6969/announce
 
 http://open.acgtracker.com:1096/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -386,9 +382,9 @@ http://tracker.enitin.xyz:80/announce
 
 https://tracker.tamersunion.org:443/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -404,6 +400,8 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 http://tracker.netmap.top:6969/announce
 
 udp://open.tracker.cl:1337/announce
@@ -418,11 +416,11 @@ https://pybittrack.retiolus.net:443/announce
 
 http://saltwood.top:6969/announce
 
-http://t.acg.rip:6699/announce
-
 udp://mikrotik2.draatman.net:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+http://t.acg.rip:6699/announce
 
 http://tracker.guguan.000.pe:80/announce
 
@@ -1402,6 +1400,8 @@ http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://bt.beatrice-raws.org/announce
 
 http://www.xwt-classics.net/announce.php
@@ -1623,6 +1623,8 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
@@ -2660,8 +2662,6 @@ https://tracker.bt4g.com/announce
 
 http://tracker.ccc.de/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 
 http://www.shnflac.net/announce.php
@@ -3080,6 +3080,186 @@ wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
 
+http://109.71.253.37:1096/announce
+
+http://125.227.79.123:6969/announce
+
+http://125.227.79.123:80/announce
+
+http://148.252.75.241:6969/announce
+
+http://15.204.57.168:6969/announce
+
+http://176.32.38.223:6961/announce
+
+http://177.215.67.165:6969/announce
+
+http://211.23.142.127:6969/announce
+
+http://212.60.5.203:2710/announce
+
+http://34.94.76.146:11450/announce
+
+http://34.94.76.146:2701/announce
+
+http://34.94.76.146:2710/announce
+
+http://34.94.76.146:6969/announce
+
+http://34.94.76.146:80/announce.php
+
+http://45.154.96.35:6969/announce
+
+http://5.181.188.172:1337/announce
+
+http://5.182.86.242:6969/announce
+
+http://5.19.182.213:6969/announce
+
+http://51.159.89.93:6969/announce
+
+http://51.79.71.167/announce
+
+http://74.48.17.122:6969/announce
+
+http://83.31.193.194:6969/announce
+
+http://89.110.76.229:6969/announce
+
+http://bt.ali213.net00/announce
+
+http://bt.ali213.net80/announce
+
+http://bt2.54new.com80/announce
+
+http://frp.v2fy.com00/announce
+
+http://jsb.by00/announce
+
+http://laxclax.ddns.net00/announce
+
+http://montreal.nyap2p.com80/announce
+
+http://share.camoe.cn80/announce
+
+http://torrentsmd.com80/announce
+
+http://tr.cili001.com70/announce
+
+http://tracker.ali213.net00/announce
+
+http://tracker.ali213.net80/announce
+
+http://tracker.dmhy.org00/announce
+
+http://tracker.merded.xyz00/announce
+
+http://tracker.minglong.org80/announce
+
+http://tracker.renfei.net80/announce
+
+http://tracker1.itzmx.com80/announce
+
+http://tracker3.ctix.cn80/announce
+
+http://www.chouchou.club80/announce
+
+http://www.loushao.net80/announce
+
+https://gwp2-v19.rinet.ru/announce
+
+https://o-unkusrx.cloud.okteto.net/announce
+
+https://tr.kxmp.cf/announce
+
+https://tracker.quix.cf/announce
+
+udp://125.227.79.123:6969/announce
+
+udp://125.227.79.123:80/announce
+
+udp://130.61.158.165:6969/announce
+
+udp://135.125.202.143:6969/announce
+
+udp://148.113.168.115:6969/announce
+
+udp://176.123.1.180:6969/announce
+
+udp://176.99.7.59:6969/announce
+
+udp://177.215.67.165:6969/announce
+
+udp://18.191.163.220:6969/announce
+
+udp://185.216.179.62:25/announce
+
+udp://185.243.218.213:80/announce
+
+udp://190.146.242.81:6969/announce
+
+udp://193.42.111.57:9337/announce
+
+udp://208.83.20.20:6969/announce
+
+udp://209.141.59.25:6969/announce
+
+udp://211.97.119.84:2710/announce
+
+udp://211.97.119.84:6969/announce
+
+udp://23.153.248.83:6969/announce
+
+udp://23.157.120.14:6969/announce
+
+udp://23.163.56.66:6969/announce
+
+udp://23.168.232.9:1337/announce
+
+udp://37.235.176.37:2710/announce
+
+udp://45.154.96.35:6969/announce
+
+udp://49.13.133.10:6969/announce
+
+udp://5.161.187.83:53/announce
+
+udp://5.181.156.41:6969/announce
+
+udp://5.181.188.172:1337/announce
+
+udp://5.255.124.190:6969/announce
+
+udp://51.159.89.93:6969/announce
+
+udp://51.222.82.36:6969/announce
+
+udp://62.210.114.129:6969/announce
+
+udp://65.108.102.76:6969/announce
+
+udp://68.193.189.231:6969/announce
+
+udp://69.30.224.166:6969/announce
+
+udp://79.116.155.14:1234/announce
+
+udp://83.102.180.21:80/announce
+
+udp://83.146.81.79:6969/announce
+
+udp://83.31.193.194:6969/announce
+
+udp://89.110.76.229:6969/announce
+
+udp://91.208.197.19:6969/announce
+
+udp://91.216.110.53:451/announce
+
+udp://94.23.207.177:6969/announce
+
+udp://96.126.98.54:6969/announce
+
 http://open.nyaatorrents.info:6544/announce
 
 http://t2.popgo.org:7456/annonce
@@ -3149,54 +3329,4 @@ http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 https://yolo.liberbear.com:443/announce
 
 wss://tracker.magnetoo.io/announce
-
-http://51.79.71.167/announce
-
-https://gwp2-v19.rinet.ru/announce
-
-http://jsb.by00/announce
-
-http://share.camoe.cn80/announce
-
-http://torrentsmd.com80/announce
-
-http://tr.cili001.com70/announce
-
-http://tracker1.itzmx.com80/announce
-
-http://montreal.nyap2p.com80/announce
-
-http://bt.ali213.net80/announce
-
-https://tr.kxmp.cf/announce
-
-http://laxclax.ddns.net00/announce
-
-http://tracker.merded.xyz00/announce
-
-http://bt2.54new.com80/announce
-
-http://tracker.renfei.net80/announce
-
-http://tracker.ali213.net80/announce
-
-http://www.chouchou.club80/announce
-
-http://tracker3.ctix.cn80/announce
-
-https://tracker.quix.cf/announce
-
-http://tracker.dmhy.org00/announce
-
-http://tracker.minglong.org80/announce
-
-https://o-unkusrx.cloud.okteto.net/announce
-
-http://bt.ali213.net00/announce
-
-http://frp.v2fy.com00/announce
-
-http://www.loushao.net80/announce
-
-http://tracker.ali213.net00/announce
 

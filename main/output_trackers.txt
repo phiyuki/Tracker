@@ -400,9 +400,9 @@ udp://tk1.trackerservers.com:8080/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tracker.tamersunion.org:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -430,9 +430,9 @@ http://t.acg.rip:6699/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-http://saltwood.top:6969/announce
-
 udp://r.l5.ca:6969/announce
+
+http://saltwood.top:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -440,9 +440,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 udp://open.u-p.pw:6969/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -655,8 +655,6 @@ udp://pxnet.ru:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 
 udp://city21.pk:6969/announce
-
-udp://axell24.ru:6969/announce
 
 udp://su-data.com:6969/announce
 
@@ -2962,8 +2960,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2984,6 +2980,8 @@ udp://home.yxgz.club:6969/announce
 
 udp://hzzwly.gq:6969/announce
 
+udp://incine.ru:6969/announce
+
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv6.1337.cx:6969/announce
@@ -2997,8 +2995,6 @@ udp://ipv6.tracker.harry.lu:6969/announce
 udp://mail.lakameraobscura.com:6969/announce
 
 udp://mixfiend.com:6969/announce
-
-udp://nullzone.fr:6969/announce
 
 udp://open.stealth.si:6969/announce
 
@@ -3034,8 +3030,6 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
@@ -3045,6 +3039,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.sheesh.rip:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
@@ -3255,6 +3251,14 @@ udp://91.216.110.53:451/announce
 udp://94.23.207.177:6969/announce
 
 udp://96.126.98.54:6969/announce
+
+udp://axell24.ru:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://nullzone.fr:6969/announce
+
+udp://tracker.moxing.party:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

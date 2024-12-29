@@ -316,13 +316,7 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://explodie.org:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
@@ -332,27 +326,27 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+http://www.torrentsnipe.info:2701/announce
+
 http://servandroidkino.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
 http://buny.uk:6969/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
 http://bt.poletracker.org:2710/announce
-
-udp://z.mercax.com:53/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
 http://tracker.edkj.club:6969/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -372,33 +366,39 @@ udp://tracker.cyberia.is:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
+udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.draatman.uk:6969/announce
+udp://tr3.ysagin.top:2715/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
+udp://tracker.draatman.uk:6969/announce
+
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://z.mercax.com:53/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://bry-dell-htpc.freeddns.org:6969/announce
-
 https://threads.canofsocks.com:443/announce
 
 udp://rt.tace.ru:6969/announce
 
+udp://bry-dell-htpc.freeddns.org:6969/announce
+
 udp://r.l5.ca:6969/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://jutone.com:6969/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
+
+udp://jutone.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -406,9 +406,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://tracker.silksa.co.za:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -424,15 +424,15 @@ http://fleira.no:6969/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
-udp://tracker.vds.nz:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://tracker.vds.nz:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -447,6 +447,8 @@ udp://open.u-p.pw:6969/announce
 udp://db.koikia.eu:6969/announce
 
 http://0205.uptm.ch:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -507,8 +509,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
-
-udp://open.tracker.cl:1337/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -1146,6 +1146,8 @@ http://opentracker.xyz/announce
 
 https://tracker.4.babico.name.tr/announce
 
+udp://tracker2.dler.org:80/announce
+
 https://xtremex.herokuapp.com:443/announce
 
 udp://app.icon256.com:8000/announce
@@ -1626,6 +1628,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -1675,8 +1679,6 @@ http://45.154.253.5/announce
 http://tracker.internetwarriors.net:1337/announce
 
 https://tracker.torrentsnows.com/announce
-
-udp://tracker.internetwarriors.net:1337/announce
 
 http://45.154.253.6/announce
 
@@ -2660,8 +2662,6 @@ https://tracker.bt4g.com/announce
 
 http://tracker.ccc.de/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 
 http://www.shnflac.net/announce.php
@@ -2962,8 +2962,6 @@ udp://504e163a.host.njalla.net:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt.plc.mx:3074/announce
-
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
@@ -2985,10 +2983,6 @@ udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3279,6 +3273,12 @@ udp://89.234.156.205:451/announce
 udp://91.208.197.19:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://bt.plc.mx:3074/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

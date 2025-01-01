@@ -394,9 +394,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://amigacity.xyz:6969/announce
 
-udp://rt.tace.ru:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
+
+udp://rt.tace.ru:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
@@ -404,21 +404,21 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://brightstar.freeddns.org:6969/announce
-
 udp://z.mercax.com:53/announce
+
+udp://brightstar.freeddns.org:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://jutone.com:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://jutone.com:6969/announce
 
 udp://ftp.pet:2710/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker.enitin.xyz:80/announce
 
@@ -444,11 +444,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.u-p.pw:6969/announce
 
-udp://bry-dell-htpc.freeddns.org:6969/announce
-
 udp://db.koikia.eu:6969/announce
 
 http://tracker.guguan.000.pe:80/announce
+
+udp://bry-dell-htpc.freeddns.org:6969/announce
 
 http://0205.uptm.ch:6969/announce
 

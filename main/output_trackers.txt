@@ -344,11 +344,11 @@ udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
+udp://r.l5.ca:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 http://ipv6.rer.lol:6969/announce
-
-udp://r.l5.ca:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -364,9 +364,9 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://tracker.silksa.co.za:6969/announce
+
+udp://amigacity.xyz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -378,35 +378,35 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://ftp.pet:2710/announce
 
-udp://z.mercax.com:53/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://z.mercax.com:53/announce
 
 udp://jutone.com:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
-udp://brightstar.freeddns.org:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://brightstar.freeddns.org:6969/announce
 
 http://tracker.enitin.xyz:80/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-http://fleira.no:6969/announce
-
 http://t.acg.rip:6699/announce
+
+http://fleira.no:6969/announce
 
 https://1337.abcvg.info:443/announce
 
 udp://freedomalternative.com:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+http://kiryuu-test.mywaifu.best:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -3014,6 +3014,8 @@ udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
 
+udp://rfc5746.mywaifu.best:6969/announce
+
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
@@ -3059,8 +3061,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3283,6 +3283,8 @@ udp://89.234.156.205:451/announce
 udp://91.208.197.19:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

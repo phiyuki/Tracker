@@ -398,9 +398,9 @@ udp://tracker.silksa.co.za:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://amigacity.xyz:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://amigacity.xyz:6969/announce
 
 udp://rt.tace.ru:6969/announce
 
@@ -444,9 +444,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://open.u-p.pw:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://db.koikia.eu:6969/announce
 
@@ -455,6 +455,8 @@ udp://tracker.vds.nz:6969/announce
 http://0205.uptm.ch:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+http://bt.xcty.eu.org:2095/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -721,8 +723,6 @@ udp://y.paranoid.agency:6969/announce
 http://retracker.211.ru:80/announce
 
 https://tracker.fr.eu.org:443/announce
-
-http://bt.xcty.eu.org:2095/announce
 
 udp://touhou.kawaiiarts.com:6969/announce
 

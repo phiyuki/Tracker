@@ -394,9 +394,9 @@ https://threads.canofsocks.com:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
@@ -410,17 +410,17 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://rt.tace.ru:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 udp://tk2.trackerservers.com:8080/announce
 
-udp://jutone.com:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://jutone.com:6969/announce
 
 udp://z.mercax.com:53/announce
 
@@ -2960,9 +2960,9 @@ udp://10.rarbg.com:6969/announce
 
 udp://147job.com:6969/announce
 
-udp://504e163a.host.njalla.net:6969/announce
-
 udp://anidex.moe:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
@@ -3011,8 +3011,6 @@ udp://region.nl1.privex.cc:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
-
-udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 
@@ -3240,6 +3238,8 @@ udp://5.181.188.172:1337/announce
 
 udp://5.255.124.190:6969/announce
 
+udp://504e163a.host.njalla.net:6969/announce
+
 udp://51.159.89.93:6969/announce
 
 udp://51.222.82.36:6969/announce
@@ -3265,6 +3265,8 @@ udp://89.234.156.205:451/announce
 udp://91.208.197.19:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

@@ -1,4 +1,4 @@
-http://0d.kebhana.mx:443/announce
+http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
@@ -12,21 +12,21 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://bt.poletracker.org:2710/announce
+http://buny.uk:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-http://highteahop.top:6960/announce
+http://home.yxgz.club:6969/announce
 
 http://ipv4.rer.lol:2710/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+http://ipv6.rer.lol:6969/announce
+
 http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
-
-http://open.trackerlist.xyz:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -38,9 +38,9 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://seeders-paradise.org:80/announce
 
-http://servandroidkino.ru:80/announce
+http://share.hkg-fansub.info:80/announce.php
 
-http://shubt.net:2710/announce
+http://t.jaekr.sh:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -58,15 +58,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.beeimg.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bz:80/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -76,11 +70,11 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
+http://tracker.lintk.me:2710/announce
+
+http://tracker.moxing.party:6969/announce
+
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -101,8 +95,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-http://tracker810.xyz:11450/announce
 
 http://wepzone.net:6969/announce
 
@@ -338,33 +330,39 @@ udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-http://open.tracker.cl:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.qu.ax:6969/announce
 
-http://tracker.lintk.me:2710/announce
+http://tracker.corpscorp.online:80/announce
 
-http://finbytes.org:80/announce.php
+http://tracker.bt-hash.com:80/announce
 
-http://buny.uk:6969/announce
+http://tracker.bittor.pw:1337/announce
 
-http://t.jaekr.sh:6969/announce
+http://shubt.net:2710/announce
 
-http://home.yxgz.club:6969/announce
+http://highteahop.top:6960/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://0123456789nonexistent.com:80/announce
+http://bt.poletracker.org:2710/announce
+
+http://tracker810.xyz:11450/announce
+
+http://servandroidkino.ru:80/announce
+
+http://open.trackerlist.xyz:80/announce
+
+http://finbytes.org:80/announce.php
+
+http://0d.kebhana.mx:443/announce
 
 http://tracker.dler.com:6969/announce
-
-http://rfc5746.mywaifu.best:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -372,15 +370,13 @@ http://tracker1.itzmx.com:8080/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://ipv6.rer.lol:6969/announce
-
 udp://tracker.valete.tf:9999/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -2664,6 +2660,8 @@ https://tracker.bt4g.com/announce
 
 http://tracker.ccc.de/announce
 
+http://rfc5746.mywaifu.best:6969/announce
+
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 
 http://www.shnflac.net/announce.php
@@ -3076,6 +3074,8 @@ wss://tracker.webtorrent.dev:443/announce
 
 http://109.71.253.37:1096/announce
 
+http://116.8.90.54:6969/announce
+
 http://125.227.79.123:6969/announce
 
 http://125.227.79.123:80/announce
@@ -3090,9 +3090,7 @@ http://211.23.142.127:6969/announce
 
 http://212.60.5.203:2710/announce
 
-http://34.89.91.10:1337/announce
-
-http://34.89.91.10:2701/announce
+http://34.89.91.10:11450/announce
 
 http://34.89.91.10:2710/announce
 
@@ -3100,7 +3098,9 @@ http://34.89.91.10:6969/announce
 
 http://34.89.91.10:80/announce
 
-http://34.94.76.146:11450/announce
+http://34.89.91.10:80/announce.php
+
+http://34.94.76.146:1337/announce
 
 http://34.94.76.146:2710/announce
 
@@ -3108,13 +3108,13 @@ http://34.94.76.146:6969/announce
 
 http://34.94.76.146:80/announce
 
+http://35.227.59.57:2701/announce
+
+http://35.227.59.57:2710/announce
+
 http://35.227.59.57:443/announce
 
-http://35.227.59.57:6960/announce
-
 http://35.227.59.57:6969/announce
-
-http://35.227.59.57:80/announce
 
 http://35.227.59.57:80/announce.php
 
@@ -3198,6 +3198,8 @@ udp://144.126.245.19:6969/announce
 
 udp://148.113.168.115:6969/announce
 
+udp://15.204.57.168:6969/announce
+
 udp://176.123.1.180:6969/announce
 
 udp://176.99.7.59:6969/announce
@@ -3210,13 +3212,11 @@ udp://185.243.218.213:80/announce
 
 udp://191.255.155.138:6969/announce
 
-udp://193.42.111.57:9337/announce
+udp://209.141.59.25:6969/announce
 
 udp://220.200.35.69:2710/announce
 
 udp://220.200.35.69:6969/announce
-
-udp://23.134.88.9:1337/announce
 
 udp://23.153.248.83:6969/announce
 
@@ -3224,23 +3224,21 @@ udp://23.157.120.14:6969/announce
 
 udp://23.163.56.66:6969/announce
 
+udp://23.168.232.9:1337/announce
+
 udp://37.235.176.37:2710/announce
 
 udp://45.154.96.35:6969/announce
 
 udp://49.13.133.10:6969/announce
 
-udp://5.181.156.41:6969/announce
-
 udp://5.181.188.172:1337/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://504e163a.host.njalla.net:6969/announce
-
 udp://51.159.89.93:6969/announce
 
-udp://51.222.82.36:6969/announce
+udp://54.39.48.3:6969/announce
 
 udp://62.171.188.15:6666/announce
 
@@ -3263,8 +3261,6 @@ udp://89.234.156.205:451/announce
 udp://91.208.197.19:6969/announce
 
 udp://94.23.207.177:6969/announce
-
-udp://t.jaekr.sh:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

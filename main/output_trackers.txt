@@ -378,9 +378,9 @@ udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-https://mathkangaroo.jp:443/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+https://mathkangaroo.jp:443/announce
 
 udp://ftp.pet:2710/announce
 
@@ -398,11 +398,11 @@ udp://7p41a8967.wicp.vip:22222/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://darkstarr.kozow.com:6881/announce
-
 udp://betelgeuse.freeddns.org:6969/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+udp://darkstarr.kozow.com:6881/announce
 
 https://tracker.cangku.moe:443/announce
 

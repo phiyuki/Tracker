@@ -366,9 +366,9 @@ http://open.acgtracker.com:1096/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://tracker.draatman.uk:6969/announce
-
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 

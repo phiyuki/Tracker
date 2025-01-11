@@ -376,9 +376,9 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://ftp.pet:2710/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -404,13 +404,13 @@ https://tracker.ipfsscan.io:443/announce
 
 udp://betelgeuse.freeddns.org:6969/announce
 
+udp://darkstarr.kozow.com:6881/announce
+
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
-
-udp://darkstarr.kozow.com:6881/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -430,9 +430,9 @@ http://tracker.enitin.xyz:80/announce
 
 udp://freedomalternative.com:6969/announce
 
-udp://jutone.com:6969/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
+
+udp://jutone.com:6969/announce
 
 http://echostar.ddnsfree.com:8080/announce
 
@@ -446,15 +446,15 @@ http://tracker.skyts.net:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
+http://tinfoil.space:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
+
 udp://db.koikia.eu:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 http://bt.xcty.eu.org:2095/announce
-
-http://tinfoil.space:6969/announce
 
 https://p4p.arenabg.com:1337/announce
 
@@ -2972,8 +2972,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -3026,6 +3024,8 @@ udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 
+udp://tinfoil.space:6969/announce
+
 udp://torrent.fedoraproject.org:6969/announce
 
 udp://torrent.hificode.in:6969/announce
@@ -3035,8 +3035,6 @@ udp://torrent.ubuntu.com:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://tr.movian.eu:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -3057,6 +3055,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.sheesh.rip:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
@@ -3295,6 +3295,10 @@ udp://91.208.197.19:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://tr.movian.eu:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

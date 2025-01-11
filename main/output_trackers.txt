@@ -336,7 +336,11 @@ http://open.tracker.cl:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://www.genesis-sp.org:2710/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
@@ -346,19 +350,23 @@ http://tracker.bz:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
+http://open.trackerlist.xyz:80/announce
+
+udp://tracker.edkj.club:6969/announce
+
+http://www.genesis-sp.org:2710/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker.edkj.club:6969/announce
+
 http://servandroidkino.ru:80/announce
 
-http://open.trackerlist.xyz:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://home.yxgz.club:6969/announce
 
 http://finbytes.org:80/announce.php
-
-http://tracker2.dler.org:80/announce
-
-http://rfc5746.mywaifu.best:6969/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -368,9 +376,9 @@ udp://ftp.pet:2710/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
 udp://tracker-us.silksa.co.za:6969/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -405,8 +413,6 @@ udp://tk2.trackerservers.com:8080/announce
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1306,8 +1312,6 @@ http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 http://retracker.ohys.net:80/announce
 
 http://www.tvnihon.com:6969/announce
@@ -1805,8 +1809,6 @@ udp://aaa.army:8866/announce
 http://aaa.army:8866/announce
 
 http://hzzwly.gq:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -2667,6 +2669,8 @@ http://107.189.7.143:6969/announce
 https://tracker.bt4g.com/announce
 
 http://tracker.ccc.de/announce
+
+http://rfc5746.mywaifu.best:6969/announce
 
 https://tracker.monikadesign.uk/announce/a46be21ab845cc0d534d06fea801f95a
 

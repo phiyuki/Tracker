@@ -306,9 +306,9 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.valete.tf:9999/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -324,13 +324,13 @@ udp://ftp.pet:2710/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
-https://tracker.aburaya.live:443/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+https://tracker.aburaya.live:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -346,9 +346,9 @@ https://mathkangaroo.jp:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://ns1.monolithindustries.com:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://ns1.monolithindustries.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
@@ -356,17 +356,17 @@ udp://tracker.silksa.co.za:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
+udp://tracker.kmzs123.top:17272/announce
+
 udp://tracker.draatman.uk:6969/announce
 
 udp://tracker-us.silksa.co.za:6969/announce
 
-udp://tracker.kmzs123.top:17272/announce
+http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
 http://bvarf.tracker.sh:2086/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -390,9 +390,9 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://tinfoil.space:6969/announce
 
-https://tracker.ipfsscan.io:443/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 udp://darkstarr.kozow.com:6881/announce
 

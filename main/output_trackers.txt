@@ -338,9 +338,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.valete.tf:9999/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -358,11 +358,11 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 http://tr1.aag.moe:2095/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
@@ -370,11 +370,11 @@ https://mathkangaroo.jp:443/announce
 
 https://threads.canofsocks.com:443/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 https://tracker.aburaya.live:443/announce
 
 udp://odd-hd.fr:6969/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -394,9 +394,9 @@ udp://mikrotik2.draatman.net:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 udp://tracker.draatman.uk:6969/announce
 
@@ -414,9 +414,9 @@ udp://tk2.trackerservers.com:8080/announce
 
 http://t.acg.rip:6699/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
@@ -434,13 +434,13 @@ udp://freedomalternative.com:6969/announce
 
 udp://brightstar.freeddns.org:6969/announce
 
-udp://darkstarr.kozow.com:6881/announce
-
 udp://open.u-p.pw:6969/announce
+
+http://s926723.ha016.t.mydomain.zone:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://s926723.ha016.t.mydomain.zone:80/announce
+udp://darkstarr.kozow.com:6881/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -579,8 +579,6 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://www.2600.com:6969/announce
 
 https://tracker.moeblog.cn:443/announce
-
-udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -3033,6 +3031,8 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
+
+udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.kali.org:6969/announce
 

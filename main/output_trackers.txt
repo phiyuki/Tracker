@@ -352,17 +352,17 @@ udp://ftp.pet:2710/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://7p41a8967.wicp.vip:22222/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.kmzs123.top:17272/announce
+
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker3.itzmx.com:6961/announce
-
-http://tracker.ipv6tracker.ru:80/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -372,19 +372,21 @@ udp://serpb.vpsburti.com:6969/announce
 
 https://tracker.aburaya.live:443/announce
 
-udp://trackarr.org:6969/announce
-
 https://mathkangaroo.jp:443/announce
+
+udp://trackarr.org:6969/announce
 
 udp://odd-hd.fr:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+https://threads.canofsocks.com:443/announce
 
 http://tracker.vraphim.com:6969/announce
 
-https://threads.canofsocks.com:443/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://seedpeer.net:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -393,8 +395,6 @@ udp://tracker.silksa.co.za:6969/announce
 udp://ns1.monolithindustries.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -428,9 +428,9 @@ http://tinfoil.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://tracker.ipfsscan.io:443/announce
-
 http://kiryuu-test.mywaifu.best:6969/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 udp://darkstarr.kozow.com:6881/announce
 
@@ -440,9 +440,9 @@ udp://freedomalternative.com:6969/announce
 
 udp://brightstar.freeddns.org:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 udp://open.u-p.pw:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://s926723.ha016.t.mydomain.zone:80/announce
 
@@ -2966,11 +2966,7 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2981,8 +2977,6 @@ udp://ch3oh.ru:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
-
-udp://fleira.no:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
@@ -3064,6 +3058,8 @@ udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3083,8 +3079,6 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
-
-ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 

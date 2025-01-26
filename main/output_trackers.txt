@@ -340,9 +340,9 @@ udp://tracker.kmzs123.tk:17272/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -368,9 +368,9 @@ http://tracker4.itzmx.com:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://mathkangaroo.jp:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://mathkangaroo.jp:443/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -384,15 +384,15 @@ udp://odd-hd.fr:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
-udp://tracker.silksa.co.za:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
-udp://mikrotik2.draatman.net:6969/announce
+udp://tracker.silksa.co.za:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://mikrotik2.draatman.net:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -402,25 +402,25 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.draatman.uk:6969/announce
 
-http://t.acg.rip:6699/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+http://t.acg.rip:6699/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-udp://tracker-us.silksa.co.za:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+udp://tracker-us.silksa.co.za:6969/announce
 
 http://tinfoil.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-https://pybittrack.retiolus.net:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://kiryuu-test.mywaifu.best:6969/announce
 
@@ -428,9 +428,9 @@ udp://tracker.edkj.club:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://trackarr.org:6969/announce
-
 udp://freedomalternative.com:6969/announce
+
+udp://trackarr.org:6969/announce
 
 http://s926723.ha016.t.mydomain.zone:80/announce
 
@@ -2934,6 +2934,8 @@ https://tracker.feb217.tk:443/announce
 
 https://tracker.kawaii.id:443/announce
 
+https://tracker.kmzs123.com:443/announce
+
 https://tracker.loli.co.nz:443/announce
 
 https://tracker.m-team.cc:443/announce
@@ -2976,8 +2978,6 @@ udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
-udp://cq.kmzs123.cn:17272/announce
-
 udp://debuz.com:6969/announce
 
 udp://fleira.no:6969/announce
@@ -2985,10 +2985,6 @@ udp://fleira.no:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3040,8 +3036,6 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.kmzs123.com:17272/announce
-
 udp://tracker.moxing.party:6969/announce
 
 udp://tracker.mywaifu.best:6969/announce
@@ -3083,6 +3077,8 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
+
+ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 

@@ -318,19 +318,13 @@ http://open.tracker.cl:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-http://highteahop.top:6960/announce
-
 http://buny.uk:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker.deadorbit.nl:6969/announce
 
 http://tracker.corpscorp.online:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://highteahop.top:6960/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -342,13 +336,15 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://ftp.pet:2710/announce
 
 https://tr2.trkb.ru:443/announce
 
 udp://tracker.valete.tf:9999/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -388,15 +384,17 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-http://tracker.vraphim.com:6969/announce
-
 http://open.tracker.ink:6969/announce
 
 http://t.acg.rip:6699/announce
 
+http://tracker.vraphim.com:6969/announce
+
 udp://mikrotik2.draatman.net:6969/announce
 
 http://tinfoil.space:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 

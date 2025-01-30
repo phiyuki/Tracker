@@ -330,6 +330,8 @@ http://open.acgtracker.com:1096/announce
 
 http://ch3oh.ru:6969/announce
 
+https://tracker.kmzs123.com:443/announce
+
 https://retracker.x2k.ru:443/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -354,15 +356,15 @@ https://threads.canofsocks.com:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 http://tracker4.itzmx.com:2710/announce
 
-http://cn.pcfreetime.com:6969/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -384,25 +386,25 @@ http://open.tracker.ink:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
 
-udp://serpb.vpsburti.com:6969/announce
+udp://odd-hd.fr:6969/announce
 
 http://tinfoil.space:6969/announce
 
-udp://tracker.silksa.co.za:6969/announce
+udp://serpb.vpsburti.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
+
+udp://tracker.silksa.co.za:6969/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
-http://tracker.vraphim.com:6969/announce
-
 udp://tk2.trackerservers.com:8080/announce
+
+http://tracker.vraphim.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
 
@@ -3016,8 +3018,6 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://tinfoil.space:6969/announce
@@ -3079,8 +3079,6 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
-
-ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 
@@ -3267,6 +3265,8 @@ udp://89.110.76.229:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

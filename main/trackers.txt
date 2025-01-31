@@ -606,19 +606,19 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://wepzone.net:6969/announce
 
-http://tracker.bittor.pw:1337/announce
+udp://tracker.darkness.services:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tracker.darkness.services:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.filemail.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -634,17 +634,17 @@ udp://tracker.dler.com:6969/announce
 
 udp://opentracker.io:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://retracker.x2k.ru:443/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+http://open.acgtracker.com:1096/announce
+
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -678,11 +678,11 @@ udp://open.dstud.io:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -720,9 +720,9 @@ udp://new-line.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://open.tracker.ink:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -1337,19 +1337,19 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 udp://wepzone.net:6969/announce
 
-http://tracker.bittor.pw:1337/announce
+udp://tracker.darkness.services:6969/announce
 
 http://ipv6.rer.lol:6969/announce
 
-udp://tracker.darkness.services:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.filemail.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1364,8 +1364,6 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 udp://tracker.dler.com:6969/announce
 
 udp://opentracker.io:6969/announce
-
-http://open.acgtracker.com:1096/announce
 
 
 http://0123456789nonexistent.com:80/announce

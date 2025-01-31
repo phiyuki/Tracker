@@ -324,9 +324,9 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -350,9 +350,9 @@ https://threads.canofsocks.com:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://tracker3.itzmx.com:6961/announce
 

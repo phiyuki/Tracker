@@ -366,9 +366,9 @@ http://tracker4.itzmx.com:2710/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://mathkangaroo.jp:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 http://tr1.aag.moe:2095/announce
 
@@ -378,9 +378,9 @@ https://trackers.mlsub.net:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://new-line.net:6969/announce
 
@@ -392,9 +392,9 @@ http://tinfoil.space:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://odd-hd.fr:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
+
+udp://odd-hd.fr:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -3017,6 +3017,8 @@ udp://rfc5746.mywaifu.best:6969/announce
 udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 

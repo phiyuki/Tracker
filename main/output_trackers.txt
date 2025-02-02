@@ -326,6 +326,8 @@ http://t.overflow.biz:6969/announce
 
 http://home.yxgz.club:6969/announce
 
+https://tracker.nanoha.org:443/announce
+
 https://tracker.wsaoa.eu.org:443/announce
 
 udp://tracker.kmzs123.cn:17272/announce
@@ -334,17 +336,17 @@ udp://tracker.breizh.pm:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ftp.pet:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 https://tracker.kmzs123.com:443/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -380,9 +382,9 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-http://open.tracker.ink:6969/announce
-
 http://t.acg.rip:6699/announce
+
+http://open.tracker.ink:6969/announce
 
 https://trackers.mlsub.net:443/announce
 
@@ -661,8 +663,6 @@ https://tracker.bangumi.zip:443/announce
 http://tracker.gdp.pw:900/announce
 
 udp://anzix.net:6969/announce
-
-http://retracker.xxtor.com:80/announce
 
 http://tracker.nartlof.com.br:6969/announce
 
@@ -1037,8 +1037,6 @@ https://tracker.lilithraws.org/announce
 http://carbon-bonsai-621.appspot.com:80/announce
 
 https://carbon-bonsai-621.appspot.com:443/announce
-
-https://tracker.nanoha.org:443/announce
 
 http://tracker3.ctix.cn:2095/announce
 
@@ -2749,6 +2747,8 @@ http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 
 http://proaudiotorrents.org:80/announce
+
+http://retracker.xxtor.com:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 

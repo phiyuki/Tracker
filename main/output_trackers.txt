@@ -338,17 +338,17 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ftp.pet:2710/announce
 
-http://open.acgtracker.com:1096/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
+http://open.acgtracker.com:1096/announce
+
 https://tracker.kmzs123.com:443/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.valete.tf:9999/announce
-
-http://cn.pcfreetime.com:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -380,11 +380,11 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-https://trackers.mlsub.net:443/announce
+http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
-http://t.acg.rip:6699/announce
+https://trackers.mlsub.net:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -404,15 +404,13 @@ udp://odd-hd.fr:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
 
-udp://serpb.vpsburti.com:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://serpb.vpsburti.com:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
-
-udp://tracker.draatman.uk:6969/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -749,6 +747,8 @@ https://tracker.3moredays.com:443/announce
 https://track3r.site:443/announce
 
 http://retracker.seven-sky.net:80/announce
+
+udp://tracker.draatman.uk:6969/announce
 
 http://tracker.torrentuje.me:2710/announce
 
@@ -2896,8 +2896,6 @@ https://lima-peru.subventas.com:443/announce
 
 https://o-unkusrx.cloud.okteto.net:443/announce
 
-https://p4p.arenabg.com:1337/announce
-
 https://prestige.minimafia.nl:443/announce
 
 https://private.minimafia.nl:443/announce
@@ -2982,8 +2980,6 @@ udp://home.yxgz.club:6969/announce
 
 udp://hzzwly.gq:6969/announce
 
-udp://incine.ru:6969/announce
-
 udp://ipv4.tracker.harry.lu:6969/announce
 
 udp://ipv6.1337.cx:6969/announce
@@ -3033,6 +3029,8 @@ udp://torrent.ubuntu.com:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.etree.org:6969/announce
 

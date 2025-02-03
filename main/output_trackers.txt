@@ -342,9 +342,9 @@ udp://tracker.breizh.pm:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.kmzs123.com:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ftp.pet:2710/announce
 
@@ -352,9 +352,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tr2.trkb.ru:443/announce
+
+http://open.acgtracker.com:1096/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -372,9 +372,9 @@ https://mathkangaroo.jp:443/announce
 
 http://tr1.aag.moe:2095/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://tracker.cangku.moe:443/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://7p41a8967.wicp.vip:22222/announce
 
@@ -390,11 +390,11 @@ https://trackers.mlsub.net:443/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 udp://tk1.trackerservers.com:8080/announce
 
 udp://tk2.trackerservers.com:8080/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -410,11 +410,11 @@ udp://tracker.silksa.co.za:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
 
+udp://static.54.161.216.95.clients.your-server.de:6969/announce
+
 http://tracker.vraphim.com:6969/announce
 
 udp://mikrotik2.draatman.net:6969/announce
-
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -2748,8 +2748,6 @@ http://open.touki.ru:80/announce
 
 http://proaudiotorrents.org:80/announce
 
-http://retracker.xxtor.com:80/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://share.hkg-fansub.info:80/announce
@@ -2970,8 +2968,6 @@ udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
 
-udp://fleira.no:6969/announce
-
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
@@ -3010,8 +3006,6 @@ udp://region.nl1.privex.cc:6969/announce
 
 udp://rfc5746.mywaifu.best:6969/announce
 
-udp://shogiroom.com:6969/announce
-
 udp://smurfsoft.com:6969/announce
 
 udp://t.jaekr.sh:6969/announce
@@ -3029,8 +3023,6 @@ udp://torrent.ubuntu.com:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.etree.org:6969/announce
 
@@ -3079,6 +3071,8 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
+
+ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 

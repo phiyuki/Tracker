@@ -342,9 +342,9 @@ udp://ftp.pet:2710/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 udp://tracker.valete.tf:9999/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -354,9 +354,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-https://tracker.pmman.tech:443/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -376,13 +376,13 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 http://open.tracker.ink:6969/announce
 
-udp://7p41a8967.wicp.vip:22222/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 https://trackers.mlsub.net:443/announce
+
+udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tk1v6.trackerservers.com:8080/announce
 
@@ -402,11 +402,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
+http://tracker.netmap.top:6969/announce
+
 udp://odd-hd.fr:6969/announce
 
 udp://tracker.silksa.co.za:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 http://tracker.vraphim.com:6969/announce
 
@@ -2952,8 +2952,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -3024,6 +3022,8 @@ udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
+udp://tracker.doko.moe:6969/announce
+
 udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
@@ -3036,19 +3036,9 @@ udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
-
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
@@ -3250,7 +3240,17 @@ udp://89.234.156.205:451/announce
 
 udp://94.23.207.177:6969/announce
 
-udp://tracker.doko.moe:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
+
+udp://tracker.vrpnet.org:6969/announce
 
 http://open.nyaatorrents.info:6544/announce
 

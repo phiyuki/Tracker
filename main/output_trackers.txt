@@ -328,11 +328,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.kmzs123.com:443/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -354,15 +354,17 @@ http://tracker1.itzmx.com:8080/announce
 
 https://tracker.cloudit.top:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://cn.pcfreetime.com:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://mathkangaroo.jp:443/announce
+
+https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -380,11 +382,11 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
+
+udp://tracker.deadorbit.nl:6969/announce
 
 udp://tk2.trackerservers.com:8080/announce
 
@@ -3124,7 +3126,7 @@ gtag('config', 'G-YR9B2BS8D8');
 
 <!-- Umami Analytics -->
 
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="69f5299c-c239-43e3-85fc-daf2ff1507ef"></script>
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
 
 <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
 

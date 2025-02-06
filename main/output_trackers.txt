@@ -312,27 +312,27 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+udp://tracker.breizh.pm:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
-udp://tracker.breizh.pm:6969/announce
-
-udp://tracker.birkenwald.de:6969/announce
+udp://martin-gebhardt.eu:25/announce
 
 udp://ftp.pet:2710/announce
 
-udp://r.l5.ca:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
+
+udp://r.l5.ca:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker.valete.tf:9999/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -340,11 +340,11 @@ https://threads.canofsocks.com:443/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-http://open.acgtracker.com:1096/announce
-
 https://tracker.cloudit.top:443/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -390,15 +390,9 @@ https://trackers.mlsub.net:443/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
-
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
-http://tinfoil.space:6969/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
-
-http://tracker.privateseedbox.xyz:2710/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 https://tracker.cybar.xyz:443/announce
 
@@ -642,6 +636,8 @@ udp://tracker.therarbg.com:6969/announce
 
 https://tracker.bangumi.zip:443/announce
 
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.gdp.pw:900/announce
 
 udp://anzix.net:6969/announce
@@ -733,6 +729,8 @@ https://track3r.site:443/announce
 http://retracker.seven-sky.net:80/announce
 
 udp://tracker.draatman.uk:6969/announce
+
+http://tinfoil.space:6969/announce
 
 http://tracker.torrentuje.me:2710/announce
 
@@ -837,6 +835,8 @@ udp://dataforai.com:31332/announce
 https://track.solcloud.eu:443/announce
 
 http://jvavav.com:80/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://mc.itscraftsoftware.my.id:8804/announce
 

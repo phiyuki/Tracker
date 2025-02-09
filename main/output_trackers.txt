@@ -300,41 +300,33 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+http://www.genesis-sp.org:2710/announce
+
+http://t.jaekr.sh:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
 
 http://www.torrentsnipe.info:2701/announce
 
-http://www.genesis-sp.org:2710/announce
+http://tracker810.xyz:11450/announce
 
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.moxing.party:6969/announce
 
-http://t.jaekr.sh:6969/announce
+http://tracker.bt4g.com:2095/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
 http://finbytes.org:80/announce.php
 
-http://bt1.xxxxbt.cc:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://new-line.net:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-http://tracker810.xyz:11450/announce
-
-http://tracker.bt4g.com:2095/announce
-
 https://bt2.080609.xyz:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 https://tracker.wsaoa.eu.org:443/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ftp.pet:2710/announce
 
@@ -368,6 +360,8 @@ http://open.acgtracker.com:1096/announce
 
 https://mathkangaroo.jp:443/announce
 
+udp://new-line.net:6969/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.cangku.moe:443/announce
@@ -388,9 +382,9 @@ http://cn.pcfreetime.com:6969/announce
 
 https://bt.080609.xyz:443/announce
 
-udp://tk1v6.trackerservers.com:8080/announce
-
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
+
+udp://tk1v6.trackerservers.com:8080/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
@@ -2294,6 +2288,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://stargrave.org:6969/announce
@@ -2305,6 +2301,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 
@@ -2952,6 +2950,8 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2969,10 +2969,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -3022,8 +3018,6 @@ udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
@@ -3041,8 +3035,6 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
@@ -3069,6 +3061,80 @@ udp://www.tvnihon.com:6969/announce
 wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 

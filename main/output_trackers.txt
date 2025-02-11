@@ -306,15 +306,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://tracker.valete.tf:9999/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.kmzs123.com:443/announce
 
-https://tr2.trkb.ru:443/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+https://tr2.trkb.ru:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -326,9 +326,9 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-https://tracker.cloudit.top:443/announce
-
 https://bt.080609.xyz:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -2950,9 +2950,9 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -3000,8 +3000,6 @@ udp://rfc5746.mywaifu.best:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://tinfoil.space:6969/announce
@@ -3023,6 +3021,8 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
+
+udp://tracker.moxing.party:6969/announce
 
 udp://tracker.mywaifu.best:6969/announce
 

@@ -346,9 +346,9 @@ https://bt2.080609.xyz:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -358,13 +358,13 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 udp://new-line.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
+udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.cangku.moe:443/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -378,11 +378,11 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://bt.080609.xyz:443/announce
-
 http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
+
+https://bt.080609.xyz:443/announce
 
 http://tr1.aag.moe:2095/announce
 

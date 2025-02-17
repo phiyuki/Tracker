@@ -290,31 +290,19 @@ http://open.tracker.cl:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
-http://tracker.vanitycore.co:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://share.hkg-fansub.info:80/announce.php
-
 http://servandroidkino.ru:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://0123456789nonexistent.com:80/announce
-
 udp://t.overflow.biz:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -322,27 +310,29 @@ http://tracker.dler.com:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://fosstorrents.com:6969/announce
+http://share.hkg-fansub.info:80/announce.php
 
-https://sparkle.ghostchu-services.top:443/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://ch3oh.ru:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
+http://0123456789nonexistent.com:80/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
-udp://tr3.ysagin.top:2715/announce
+udp://tracker.breizh.pm:6969/announce
 
 https://tracker.wsaoa.eu.org:443/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 https://tracker.aburaya.live:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://ftp.pet:2710/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://ftp.pet:2710/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -353,6 +343,8 @@ https://tr2.trkb.ru:443/announce
 udp://tracker.home.kmzs123.cn:17272/announce
 
 http://tracker.beeimg.com:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 https://bt2.080609.xyz:443/announce
 
@@ -386,11 +378,15 @@ http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 http://open.acgtracker.com:1096/announce
 
 https://tracker.pmman.tech:443/announce
 
 http://tr1.aag.moe:2095/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -2299,6 +2295,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 

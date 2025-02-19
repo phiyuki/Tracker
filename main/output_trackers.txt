@@ -330,9 +330,9 @@ udp://tr3.ysagin.top:2715/announce
 
 https://tracker.kmzs123.com:443/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
@@ -350,9 +350,9 @@ https://tracker.leechshield.link:443/announce
 
 http://tracker.netmap.top:6969/announce
 
-udp://tracker.linvk.com:6969/announce
-
 http://tracker.beeimg.com:6969/announce
+
+udp://tracker.linvk.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -374,19 +374,17 @@ udp://r.l5.ca:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
-
-https://bt2.080609.xyz:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -397,6 +395,8 @@ http://bvarf.tracker.sh:2086/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 http://tr1.aag.moe:2095/announce
+
+https://bt2.080609.xyz:443/announce
 
 https://tracker.pmman.tech:443/announce
 

@@ -1,7 +1,5 @@
 http://0123456789nonexistent.com:80/announce
 
-http://0d.kebhana.mx:443/announce
-
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -16,15 +14,15 @@ http://bt.okmp3.ru:2710/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://buny.uk:6969/announce
 
 http://ch3oh.ru:6969/announce
 
-http://finbytes.org:80/announce.php
-
 http://fleira.no:6969/announce
 
-http://home.yxgz.club:6969/announce
+http://highteahop.top:6960/announce
 
 http://ipv6.rer.lol:6969/announce
 
@@ -43,8 +41,6 @@ http://retracker.spark-rostov.ru:80/announce
 http://seeders-paradise.org:80/announce
 
 http://servandroidkino.ru:80/announce
-
-http://t.jaekr.sh:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -70,7 +66,7 @@ http://tracker.darkness.services:6969/announce
 
 http://tracker.dler.com:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
@@ -82,11 +78,13 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.qu.ax:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.skyts.net:6969/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -96,15 +94,11 @@ http://tracker2.dler.org:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker810.xyz:11450/announce
-
 http://wepzone.net:6969/announce
 
 http://www.all4nothin.net:80/announce.php
 
 http://www.genesis-sp.org:2710/announce
-
-http://www.torrentsnipe.info:2701/announce
 
 http://www.wareztorrent.com:80/announce
 
@@ -115,8 +109,6 @@ https://api.ipv4online.uk:443/announce
 https://retracker.x2k.ru:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -216,8 +208,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -243,6 +233,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -294,43 +286,41 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.sbsub.com:2710/announce
-
-http://tracker.dmcomic.org:2710/announce
+http://t.jaekr.sh:6969/announce
 
 http://shubt.net:2710/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
-http://highteahop.top:6960/announce
+http://home.yxgz.club:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+http://finbytes.org:80/announce.php
 
-udp://tracker.dump.cl:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://www.torrentsnipe.info:2701/announce
+
+http://tracker810.xyz:11450/announce
+
+http://tracker.qu.ax:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://fosstorrents.com:6969/announce
+http://0d.kebhana.mx:443/announce
 
-http://bt1.xxxxbt.cc:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
+udp://brokenhelix.loseyourip.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 https://tracker.wsaoa.eu.org:443/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 https://tracker.kmzs123.com:443/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -370,19 +360,23 @@ https://mathkangaroo.jp:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://r.l5.ca:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://t.acg.rip:6699/announce
 
-udp://tracker.birkenwald.de:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
+
+udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -392,9 +386,9 @@ udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://tr1.aag.moe:2095/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -402,9 +396,11 @@ udp://tracker.edkj.club:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+http://region.nl1.privex.cc:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -933,6 +929,8 @@ http://tracker.anirena.com/announce
 https://tracker.kuroy.me/announce
 
 http://tracker.anirena.com:80/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.tamersunion.org/announce
 
@@ -3077,6 +3075,80 @@ ws://tracker.files.fm:7072/announce
 wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 

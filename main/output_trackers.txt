@@ -348,9 +348,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 http://tracker.netmap.top:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -386,9 +386,9 @@ http://tinfoil.space:6969/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -2992,8 +2992,6 @@ udp://openwrt.lingyurouqing.xyz:6969/announce
 
 udp://parag.rs:6969/announce
 
-udp://pxnet.ru:6969/announce
-
 udp://region.nl1.privex.cc:6969/announce
 
 udp://smurfsoft.com:6969/announce
@@ -3005,8 +3003,6 @@ udp://taciturn-shadow.spb.ru:6969/announce
 udp://tinfoil.space:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -3041,8 +3037,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

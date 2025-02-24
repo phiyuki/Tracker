@@ -296,17 +296,9 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
-
-https://tr.nyacat.pw:443/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -315,10 +307,6 @@ http://tracker.qu.ax:6969/announce
 http://tracker.edkj.club:6969/announce
 
 http://tracker.corpscorp.online:80/announce
-
-http://tr.nyacat.pw:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -332,13 +320,13 @@ udp://tr3.ysagin.top:2715/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://tracker.wsaoa.eu.org:443/announce
-
 udp://tracker.iperson.xyz:6969/announce
 
-https://threads.canofsocks.com:443/announce
+https://tracker.wsaoa.eu.org:443/announce
 
 udp://tracker.breizh.pm:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -350,15 +338,21 @@ udp://ftp.pet:2710/announce
 
 https://tracker.nitrix.me:443/announce
 
-udp://brokenhelix.loseyourip.com:6969/announce
+https://tr.nyacat.pw:443/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://brokenhelix.loseyourip.com:6969/announce
+
 http://tracker.beeimg.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
+
+udp://new-line.net:6969/announce
 
 https://tracker.kmzs123.com:443/announce
 
@@ -372,6 +366,8 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 https://mathkangaroo.jp:443/announce
 
 udp://tracker.linvk.com:6969/announce
@@ -380,15 +376,15 @@ http://fosstorrents.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
-https://tracker.leechshield.link:443/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
+https://tracker.leechshield.link:443/announce
 
 http://torrent.hificode.in:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -1265,6 +1261,8 @@ udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -2771,6 +2769,8 @@ http://torrent.mp3quran.net:80/announce
 http://torrents.linuxmint.com:80/announce
 
 http://tr.bangumi.moe:80/announce
+
+http://tr.nyacat.pw:80/announce
 
 http://tracker-udp.anirena.com:80/announce
 

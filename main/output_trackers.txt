@@ -334,11 +334,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://tracker.wsaoa.eu.org:443/announce
+udp://tracker.breizh.pm:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://tracker.breizh.pm:6969/announce
+https://tracker.wsaoa.eu.org:443/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -348,9 +348,9 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://ftp.pet:2710/announce
 
-https://tracker.nitrix.me:443/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+https://tracker.nitrix.me:443/announce
 
 udp://brokenhelix.loseyourip.com:6969/announce
 
@@ -358,21 +358,21 @@ http://tracker.beeimg.com:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 udp://new-line.net:6969/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-https://tracker.kmzs123.com:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
+
+https://tracker.kmzs123.com:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -388,9 +388,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-https://tracker.leechshield.link:443/announce
-
 http://torrent.hificode.in:6969/announce
+
+https://tracker.leechshield.link:443/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
@@ -404,9 +404,9 @@ http://bvarf.tracker.sh:2086/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-https://tracker.cloudit.top:443/announce
-
 http://region.nl1.privex.cc:6969/announce
+
+https://tracker.cloudit.top:443/announce
 
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
@@ -2946,9 +2946,9 @@ udp://504e163a.host.njalla.net:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bttracker.debian.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 
-udp://buny.uk:6969/announce
+udp://bttracker.debian.org:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 

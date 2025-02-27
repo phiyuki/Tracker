@@ -296,31 +296,23 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
-
-http://share.hkg-fansub.info:80/announce.php
-
-http://servandroidkino.ru:80/announce
-
-http://buny.uk:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
-http://tracker.qu.ax:6969/announce
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://t.overflow.biz:6969/announce
 
+http://share.hkg-fansub.info:80/announce.php
+
+http://servandroidkino.ru:80/announce
+
 http://open.acgtracker.com:1096/announce
+
+http://buny.uk:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -328,9 +320,9 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -356,11 +348,11 @@ http://tinfoil.space:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://brokenhelix.loseyourip.com:6969/announce
+http://tracker.pcfreetime.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker.pcfreetime.com:6969/announce
+udp://brokenhelix.loseyourip.com:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -370,13 +362,15 @@ http://tracker1.itzmx.com:8080/announce
 
 https://tracker.nitrix.me:443/announce
 
+udp://tracker.theoks.net:6969/announce
+
 https://mathkangaroo.jp:443/announce
 
 http://torrent.hificode.in:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
+
+http://fosstorrents.com:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -396,11 +390,11 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+https://tracker.itscraftsoftware.my.id:443/announce
+
 http://bvarf.tracker.sh:2086/announce
 
 http://region.nl1.privex.cc:6969/announce
-
-https://tracker.kmzs123.com:443/announce
 
 http://bt.xcty.eu.org:2095/announce
 
@@ -869,6 +863,8 @@ http://echostar.ddnsfree.com:8080/announce
 udp://darkstarr.kozow.com:6881/announce
 
 https://tracker.cybar.xyz:443/announce
+
+https://tracker.kmzs123.com:443/announce
 
 https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce
 
@@ -2142,6 +2138,8 @@ http://bigfoot1942.sektori.org:6969/announce
 
 https://tracker.tvgc.win/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://171.104.111.250:6969/announce
 
 http://97.117.150.188:9000/announce
@@ -3061,80 +3059,6 @@ ws://tracker.files.fm:7072/announce
 wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
-
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
 
 http://open.nyaatorrents.info:6544/announce
 

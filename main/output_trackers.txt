@@ -298,23 +298,25 @@ udp://explodie.org:6969/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker.bt-hash.com:80/announce
-
 http://tracker.bittor.pw:1337/announce
 
-http://share.hkg-fansub.info:80/announce.php
+http://highteahop.top:6960/announce
 
-http://buny.uk:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+http://tracker.bt-hash.com:80/announce
+
+http://share.hkg-fansub.info:80/announce.php
 
 http://open.acgtracker.com:1096/announce
 
 http://home.yxgz.club:6969/announce
 
-http://highteahop.top:6960/announce
-
 http://ch3oh.ru:6969/announce
+
+http://buny.uk:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -340,15 +342,15 @@ udp://ftp.pet:2710/announce
 
 udp://tracker.home.kmzs123.cn:17272/announce
 
-https://tracker.wsaoa.eu.org:443/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
 
-udp://open.tracker.cl:1337/announce
+https://tracker.wsaoa.eu.org:443/announce
 
 http://tracker.beeimg.com:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -376,11 +378,9 @@ https://mathkangaroo.jp:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+http://open.tracker.ink:6969/announce
 
 https://tracker.nitrix.me:443/announce
-
-http://open.tracker.ink:6969/announce
 
 http://t.acg.rip:6699/announce
 

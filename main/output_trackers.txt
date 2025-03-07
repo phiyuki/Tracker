@@ -282,17 +282,15 @@ http://open.tracker.cl:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://highteahop.top:6960/announce
-
-http://buny.uk:6969/announce
-
-udp://tracker.skynetcloud.site:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://t.overflow.biz:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
@@ -312,17 +310,21 @@ http://open.trackerlist.xyz:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://highteahop.top:6960/announce
+
+http://buny.uk:6969/announce
+
 https://api.ipv4online.uk:443/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 http://tracker.privateseedbox.xyz:2710/announce
 
 http://tinfoil.space:6969/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -330,9 +332,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -344,9 +346,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://wepzone.net:6969/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://tracker.beeimg.com:6969/announce
+
+https://tracker.nanoha.org:443/announce
 
 udp://ftp.pet:2710/announce
 
@@ -362,13 +364,13 @@ https://tracker.wsaoa.eu.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 http://tracker.pcfreetime.com:6969/announce
 

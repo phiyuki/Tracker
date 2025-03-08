@@ -330,21 +330,21 @@ http://tinfoil.space:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://threads.canofsocks.com:443/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 udp://bt.rer.lol:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -358,9 +358,9 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://ftp.pet:2710/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://torrent.hificode.in:6969/announce
+
+https://tracker.nanoha.org:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -400,9 +400,9 @@ udp://tracker.edkj.club:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://region.nl1.privex.cc:6969/announce
 

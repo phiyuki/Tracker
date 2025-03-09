@@ -286,15 +286,13 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 http://tracker810.xyz:11450/announce
 
-http://seeders-paradise.org:80/announce
+http://t.jaekr.sh:6969/announce
 
 http://0d.kebhana.mx:443/announce
+
+http://0123456789nonexistent.com:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -304,25 +302,25 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.bt-hash.com:80/announce
 
-http://t.jaekr.sh:6969/announce
+http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://0123456789nonexistent.com:80/announce
-
 http://tinfoil.space:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
+
+udp://bt-tracker.devnak.win:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://api.ipv4online.uk:443/announce
-
 udp://tracker.kmzs123.top:17272/announce
+
+https://api.ipv4online.uk:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -380,21 +378,21 @@ https://mathkangaroo.jp:443/announce
 
 udp://brokenhelix.loseyourip.com:6969/announce
 
-udp://new-line.net:6969/announce
-
 http://t.acg.rip:6699/announce
+
+udp://new-line.net:6969/announce
 
 udp://tracker.linvk.com:6969/announce
 
-http://fosstorrents.com:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -2286,6 +2284,8 @@ http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://ipv4.tracker.harry.lu/announce
@@ -2948,8 +2948,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2975,6 +2973,8 @@ udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
+
+udp://lucke.fenesisu.moe:6969/announce
 
 udp://mail.lakameraobscura.com:6969/announce
 
@@ -3028,9 +3028,7 @@ udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 

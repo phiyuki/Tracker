@@ -316,11 +316,11 @@ udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.kmzs123.top:17272/announce
 
+udp://bt-tracker.devnak.win:6969/announce
+
 https://retracker.x2k.ru:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-udp://bt-tracker.devnak.win:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -334,9 +334,9 @@ udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://bt.rer.lol:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tr2.trkb.ru:443/announce
 
@@ -344,9 +344,9 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 http://torrent.hificode.in:6969/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
@@ -388,9 +388,9 @@ udp://tracker.linvk.com:6969/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://private.anonseed.com:6969/announce
-
 https://tracker.guguan.us.kg:443/announce
+
+udp://private.anonseed.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -2950,6 +2950,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2994,13 +2996,13 @@ udp://rfc5746.mywaifu.best:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://tinfoil.space:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -3016,8 +3018,6 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
@@ -3029,10 +3029,6 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3059,6 +3055,80 @@ ws://tracker.files.fm:7072/announce
 wss://tracker.magnetoo.io:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 

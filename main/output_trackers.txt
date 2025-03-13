@@ -298,11 +298,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+http://tracker.bittor.pw:1337/announce
 
-udp://tracker.theoks.net:6969/announce
+http://share.hkg-fansub.info:80/announce.php
 
-udp://tracker.bittor.pw:1337/announce
+http://retracker.spark-rostov.ru:80/announce
+
+http://finbytes.org:80/announce.php
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -316,23 +318,13 @@ http://tracker.bz:80/announce
 
 http://tracker.bt-hash.com:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://t.jaekr.sh:6969/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://servandroidkino.ru:80/announce
 
 http://seeders-paradise.org:80/announce
 
-http://retracker.spark-rostov.ru:80/announce
-
 http://open.trackerlist.xyz:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://finbytes.org:80/announce.php
 
 http://ch3oh.ru:6969/announce
 
@@ -343,6 +335,8 @@ http://bt.poletracker.org:2710/announce
 udp://bandito.byterunner.io:6969/announce
 
 http://t.overflow.biz:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://tinfoil.space:6969/announce
 
@@ -368,7 +362,11 @@ https://tracker.cangku.moe:443/announce
 
 https://tracker.nanoha.org:443/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://open.tracker.cl:1337/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -388,9 +386,9 @@ https://tracker.wsaoa.eu.org:443/announce
 
 https://mathkangaroo.jp:443/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://brokenhelix.loseyourip.com:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 https://tracker.guguan.us.kg:443/announce
 
@@ -410,9 +408,9 @@ udp://new-line.net:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
-udp://tracker.linvk.com:6969/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+udp://tracker.linvk.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
@@ -2292,6 +2290,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://stargrave.org:6969/announce
@@ -2968,6 +2968,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2997,8 +2999,6 @@ udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
 
 udp://lucke.fenesisu.moe:6969/announce
-
-udp://mail.lakameraobscura.com:6969/announce
 
 udp://mixfiend.com:6969/announce
 
@@ -3044,15 +3044,9 @@ udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
-
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

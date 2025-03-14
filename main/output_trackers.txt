@@ -398,9 +398,9 @@ https://tracker.wsaoa.eu.org:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-http://t.acg.rip:6699/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://t.acg.rip:6699/announce
 
 udp://brokenhelix.loseyourip.com:6969/announce
 

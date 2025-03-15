@@ -316,31 +316,17 @@ udp://explodie.org:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-http://tracker810.xyz:11450/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.corpscorp.online:80/announce
-
-http://tracker.bz:80/announce
-
 http://tracker.bt-hash.com:80/announce
-
-http://tracker.bittor.pw:1337/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://home.yxgz.club:6969/announce
 
@@ -348,9 +334,21 @@ http://highteahop.top:6960/announce
 
 http://finbytes.org:80/announce.php
 
-http://buny.uk:6969/announce
-
 http://bt.poletracker.org:2710/announce
+
+http://tracker810.xyz:11450/announce
+
+http://tracker.lintk.me:2710/announce
+
+http://tracker.corpscorp.online:80/announce
+
+http://tracker.bz:80/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://buny.uk:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -396,9 +394,9 @@ https://mathkangaroo.jp:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-https://tracker.wsaoa.eu.org:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.wsaoa.eu.org:443/announce
 
 http://t.acg.rip:6699/announce
 
@@ -2966,11 +2964,7 @@ udp://6.tracker.devnak.win:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -3044,6 +3038,10 @@ udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3067,8 +3065,6 @@ udp://www.tvnihon.com:6969/announce
 ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
-
-wss://tracker.webtorrent.dev:443/announce
 
 <!DOCTYPE html>
 

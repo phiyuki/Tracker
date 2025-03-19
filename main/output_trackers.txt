@@ -302,31 +302,25 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.dmcomic.org:2710/announce
-
-http://shubt.net:2710/announce
-
-http://servandroidkino.ru:80/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker.vanitycore.co:6969/announce
+
 http://tracker.qu.ax:6969/announce
 
 http://tracker.lintk.me:2710/announce
 
+http://tracker.dmcomic.org:2710/announce
+
 http://t.jaekr.sh:6969/announce
+
+http://shubt.net:2710/announce
+
+http://servandroidkino.ru:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -335,8 +329,6 @@ http://home.yxgz.club:6969/announce
 http://finbytes.org:80/announce.php
 
 http://bt1.xxxxbt.cc:6969/announce
-
-udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -362,27 +354,31 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
+udp://tracker.theoks.net:6969/announce
+
 http://tracker.skyts.net:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
+udp://utracker.ghostchu-services.top:6969/announce
+
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
-
-https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 udp://open.tracker.cl:1337/announce
 
-http://tracker.pcfreetime.com:6969/announce
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -1227,6 +1223,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -2736,8 +2734,6 @@ http://tk.cubicview.site:80/announce
 
 http://tk1.trackerservers.com:8080/announce
 
-http://tk1v6.trackerservers.com:8080/announce
-
 http://tk2.greedland.net:80/announce
 
 http://tk2.trackerservers.com:8080/announce
@@ -2894,8 +2890,6 @@ https://tracker.feb217.tk:443/announce
 
 https://tracker.kawaii.id:443/announce
 
-https://tracker.kmzs123.com:443/announce
-
 https://tracker.loli.co.nz:443/announce
 
 https://tracker.m-team.cc:443/announce
@@ -2924,8 +2918,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2933,6 +2925,8 @@ udp://buny.uk:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
+
+udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
@@ -2945,6 +2939,8 @@ udp://home.kray.pw:6969/announce
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
+
+udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
@@ -2964,23 +2960,17 @@ udp://rfc5746.mywaifu.best:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://soundmovie.ru:6969/announce
-
 udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://tracker.cubonegro.org:1337/announce
 
 udp://tracker.doko.moe:6969/announce
 
@@ -2990,21 +2980,17 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.linvk.com:6969/announce
-
 udp://tracker.moxing.party:6969/announce
 
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
-
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.sheesh.rip:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
@@ -3035,6 +3021,80 @@ ws://tracker.ghostchu-services.top:80/announce
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 

@@ -350,9 +350,9 @@ http://0123456789nonexistent.com:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-https://tracker.moeking.me:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tracker.moeking.me:443/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -366,13 +366,13 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 http://tracker.skyts.net:6969/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 https://tracker.cangku.moe:443/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -396,9 +396,9 @@ http://t.acg.rip:6699/announce
 
 udp://private.anonseed.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 

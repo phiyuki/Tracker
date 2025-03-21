@@ -382,9 +382,9 @@ udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://tracker4.itzmx.com:2710/announce
+
+https://tracker.nanoha.org:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -410,9 +410,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://files.project-cataclysm.ru:6969/announce
 
-https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 

@@ -302,14 +302,6 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.moxing.party:6969/announce
@@ -334,21 +326,15 @@ http://buny.uk:6969/announce
 
 http://0123456789nonexistent.com:80/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
-
-https://tracker.linvk.com:443/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 http://torrent.hificode.in:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -366,6 +352,8 @@ udp://tracker1.myporn.club:9337/announce
 
 http://tracker.skyts.net:6969/announce
 
+udp://utracker.ghostchu-services.top:6969/announce
+
 http://open.tracker.ink:6969/announce
 
 https://tracker.cangku.moe:443/announce
@@ -380,23 +368,23 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://u6.trakx.crim.ist:1337/announce
-
 http://t.acg.rip:6699/announce
+
+udp://u6.trakx.crim.ist:1337/announce
 
 https://mathkangaroo.jp:443/announce
 
 http://bt.xcty.eu.org:2095/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.nanoha.org:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1564,6 +1552,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -2259,6 +2249,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 

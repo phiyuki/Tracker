@@ -342,9 +342,9 @@ udp://bandito.byterunner.io:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://tracker.vraphim.com:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -390,9 +390,9 @@ http://t.acg.rip:6699/announce
 
 udp://u6.trakx.crim.ist:1337/announce
 
-https://mathkangaroo.jp:443/announce
-
 http://bt.xcty.eu.org:2095/announce
+
+https://mathkangaroo.jp:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -2921,6 +2921,8 @@ udp://anidex.moe:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 

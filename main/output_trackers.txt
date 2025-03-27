@@ -364,9 +364,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://tracker.moeking.me:443/announce
 
@@ -2924,8 +2924,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2941,6 +2939,8 @@ udp://cn.pcfreetime.com:6969/announce
 udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
+
+udp://home.kray.pw:6969/announce
 
 udp://home.yxgz.club:6969/announce
 
@@ -3001,6 +3001,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 

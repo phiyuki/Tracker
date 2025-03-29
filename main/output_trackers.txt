@@ -2924,15 +2924,13 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
-
-udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
@@ -3001,6 +2999,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 

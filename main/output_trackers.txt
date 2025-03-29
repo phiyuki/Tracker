@@ -356,11 +356,11 @@ https://tracker.pmman.tech:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker-v6.opendev.cloud:8000/announce
-
 udp://admin.52ywp.com:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://tracker-v6.opendev.cloud:8000/announce
 
 https://api.ipv4online.uk:443/announce
 
@@ -384,9 +384,9 @@ https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://tracker3.itzmx.com:6961/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -409,8 +409,6 @@ http://tracker.pcfreetime.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 udp://files.project-cataclysm.ru:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1219,6 +1217,8 @@ udp://cutscloud.duckdns.org:6969/announce
 http://opentracker.xyz:80/announce
 
 udp://yahor.ftp.sh:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 https://opentracker.xyz/announce
 

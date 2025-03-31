@@ -396,6 +396,8 @@ https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 udp://files.project-cataclysm.ru:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.btsync.gq:233/announce
@@ -443,8 +445,6 @@ udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 udp://open.xxtor.com:3074/announce
 

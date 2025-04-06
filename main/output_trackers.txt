@@ -364,11 +364,11 @@ http://tracker1.itzmx.com:8080/announce
 
 http://torrent.hificode.in:6969/announce
 
+udp://tracker.nitrix.me:6969/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://tracker.nitrix.me:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -392,19 +392,19 @@ https://tracker.guguan.dpdns.org:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.moeking.me:443/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
+https://tracker.cangku.moe:443/announce
 
-udp://tracker.waaa.moe:6969/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 
 http://bt.xcty.eu.org:2095/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
+
+udp://tracker.waaa.moe:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -3003,6 +3003,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 

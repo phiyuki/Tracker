@@ -388,9 +388,9 @@ https://tracker.guguan.dpdns.org:443/announce
 
 udp://tracker.edkj.club:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://new-line.net:6969/announce
 
@@ -402,9 +402,9 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker3.itzmx.com:6961/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+
+http://tracker3.itzmx.com:6961/announce
 
 http://t.acg.rip:6699/announce
 

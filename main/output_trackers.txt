@@ -384,9 +384,9 @@ http://open.tracker.ink:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-udp://tracker.edkj.club:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://new-line.net:6969/announce
 
@@ -399,8 +399,6 @@ http://cn.pcfreetime.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -419,6 +417,8 @@ udp://opentracker.i2p.rocks:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 udp://tracker.teambelgium.net:6969/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 

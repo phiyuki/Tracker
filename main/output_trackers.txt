@@ -390,11 +390,11 @@ https://tracker.guguan.dpdns.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.edkj.club:6969/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://new-line.net:6969/announce
 

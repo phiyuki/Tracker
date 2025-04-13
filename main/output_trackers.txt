@@ -2664,8 +2664,6 @@ http://10.rarbg.com:80/announce
 
 http://11.rarbg.com:80/announce
 
-http://6.tracker.devnak.win:6969/announce
-
 http://all4nothin.net:80/announce
 
 http://anisource.spb.ru:80/announce
@@ -2691,8 +2689,6 @@ http://datascene.net:80/announce
 http://finbytes.org:80/announce
 
 http://i.bandito.org:80/announce
-
-http://ipv4.rer.lol:2710/announce
 
 http://ipv6.tracker.harry.lu:80/announce
 
@@ -2894,8 +2890,6 @@ https://tracker.dnlab.net:443/announce
 
 https://tracker.feb217.tk:443/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 https://tracker.kawaii.id:443/announce
 
 https://tracker.loli.co.nz:443/announce
@@ -2903,8 +2897,6 @@ https://tracker.loli.co.nz:443/announce
 https://tracker.m-team.cc:443/announce
 
 https://tracker.nyaa.tk:443/announce
-
-https://tracker.opendev.cloud:443/announce
 
 https://tracker.pterclub.com:443/announce
 
@@ -2928,15 +2920,13 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
-
-udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
@@ -2945,6 +2935,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -2996,11 +2990,9 @@ udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
 
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
-
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 

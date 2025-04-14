@@ -2910,6 +2910,8 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2918,6 +2920,8 @@ udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
 
+udp://ch3oh.ru:6969/announce
+
 udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
@@ -2925,10 +2929,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -2956,19 +2956,17 @@ udp://rfc5746.mywaifu.best:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
 
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
-
-udp://tracker-v6.opendev.cloud:8000/announce
 
 udp://tracker.etree.org:6969/announce
 
@@ -5388,15 +5386,11 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
-
-udp://ch3oh.ru:6969/announce
 
 udp://chihaya.de:6969/announce
 
@@ -5442,7 +5436,11 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
 udp://hz.is:1337/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://i-p-v-6.tk:6969/announce
 
@@ -5556,6 +5554,8 @@ udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://t.nyaatracker.com:80/announce
 
 udp://t.publictracker.xyz:6969/announce
@@ -5580,8 +5580,6 @@ udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrent.gresille.org:80/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://torrentclub.tech:6969/announce
@@ -5589,6 +5587,8 @@ udp://torrentclub.tech:6969/announce
 udp://tr.movian.eu:6969/announce
 
 udp://tr2.cubonegro.lol:6969/announce
+
+udp://tracker-v6.opendev.cloud:8000/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 

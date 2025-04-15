@@ -348,17 +348,17 @@ http://0123456789nonexistent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://6.tracker.devnak.win:6969/announce
+
 http://torrent.hificode.in:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://6.tracker.devnak.win:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://torrent.i.ng:6969/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -382,9 +382,9 @@ http://fleira.no:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 

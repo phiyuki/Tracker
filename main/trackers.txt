@@ -560,8 +560,6 @@ http://chihaya.de:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -581,6 +579,8 @@ https://tr.zukizuki.org:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 https://tracker.aburaya.live:443/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -630,15 +630,15 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.ghostchu-services.top:443/announce
-
 http://tracker.23794.top:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+https://tracker.ghostchu-services.top:443/announce
+
+udp://opentracker.io:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://opentracker.io:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -670,9 +670,9 @@ udp://admin.52ywp.com:6969/announce
 
 https://tracker.linvk.com:443/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://thouvenin.cloud:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -710,9 +710,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -1197,8 +1197,6 @@ http://chihaya.de:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -1218,6 +1216,8 @@ https://tr.zukizuki.org:443/announce
 udp://udp.tracker.projectk.org:23333/announce
 
 https://tracker.aburaya.live:443/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -1267,15 +1267,15 @@ http://ipv6.rer.lol:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-https://tracker.ghostchu-services.top:443/announce
-
 http://tracker.23794.top:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
+https://tracker.ghostchu-services.top:443/announce
+
+udp://opentracker.io:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
-udp://opentracker.io:6969/announce
+udp://tracker.home.kmzs123.cn:17272/announce
 
 
 http://0d.kebhana.mx:443/announce
@@ -11805,6 +11805,7 @@ http://123.245.62.37:6969/announce
 http://123.245.62.3:6969/announce
 http://123.245.62.41:6969/announce
 http://123.245.62.47:6969/announce
+http://123.245.62.53:6969/announce
 http://123.245.62.58:6969/announce
 http://123.245.62.75:6969/announce
 http://123.245.62.95:6969/announce
@@ -11945,6 +11946,7 @@ http://195.123.209.37:1337/announce
 http://198.251.84.144/announce
 http://1c.premierzal.ru:6969/announce
 http://200.170.109.89:6969/announce
+http://200.170.110.108:6969/announce
 http://200.170.113.35:6969/announce
 http://200.232.254.1:6969/announce
 http://201.42.214.55:6969/announce
@@ -11997,6 +11999,7 @@ http://222.84.20.42:6969/announce
 http://222.84.22.60:6969/announce
 http://222.84.22.86:6969/announce
 http://222.84.23.109:6969/announce
+http://222.84.23.141:6969/announce
 http://27.197.187.78:6969/announce
 http://34.89.30.59/announce
 http://34.89.30.59:2710/announce
@@ -12114,6 +12117,7 @@ http://80.246.243.18:6969/announce
 http://81.200.2.231/announce
 http://83.31.187.118:6969/announce
 http://83.31.190.19:6969/announce
+http://83.31.191.39:6969/announce
 http://83.31.191.97:6969/announce
 http://83.31.193.194:6969/announce
 http://83.31.194.235:6969/announce
@@ -13238,6 +13242,7 @@ udp://195.123.209.37:1337/announce
 udp://195.123.209.40:80/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.170.110.108:6969/announce
 udp://200.170.113.35:6969/announce
 udp://201.92.179.79:6969/announce
 udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
@@ -13447,6 +13452,7 @@ udp://83.146.105.110:6969/announce
 udp://83.146.81.79:6969/announce
 udp://83.146.98.78:6969/announce
 udp://83.31.187.118:6969/announce
+udp://83.31.191.39:6969/announce
 udp://83.31.193.194:6969/announce
 udp://83.31.194.235:6969/announce
 udp://83.31.194.79:6969/announce

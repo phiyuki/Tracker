@@ -3322,6 +3322,8 @@ http://128.199.70.66:5944/announce
 
 http://138.124.183.78:6969/announce
 
+http://138.199.241.244/announce
+
 http://139.202.228.28:6969/announce
 
 http://139.202.228.61:6969/announce
@@ -3343,6 +3345,8 @@ http://139.202.231.249:6969/announce
 http://139.202.231.55:6969/announce
 
 http://141.11.240.19/announce
+
+http://142.171.85.76:6969/announce
 
 http://148.252.75.241:6969/announce
 
@@ -4667,6 +4671,8 @@ udp://130.61.158.165:6969/announce
 udp://135.125.202.143:6969/announce
 
 udp://138.124.183.78:6969/announce
+
+udp://138.199.241.244:6969/announce
 
 udp://139.202.228.28:6969/announce
 

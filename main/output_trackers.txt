@@ -372,9 +372,9 @@ udp://ftp.pet:2710/announce
 
 http://fosstorrents.com:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -384,9 +384,9 @@ http://open.tracker.ink:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.edkj.club:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 http://bt.xcty.eu.org:2095/announce
 

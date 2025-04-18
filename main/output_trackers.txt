@@ -376,9 +376,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-http://open.tracker.ink:6969/announce
-
 udp://new-line.net:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -2912,13 +2912,15 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bttracker.debian.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 
-udp://buny.uk:6969/announce
+udp://bttracker.debian.org:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
+
+udp://ch3oh.ru:6969/announce
 
 udp://cn.pcfreetime.com:6969/announce
 
@@ -2928,13 +2930,11 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
+
+udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
@@ -2952,9 +2952,9 @@ udp://parag.rs:6969/announce
 
 udp://region.nl1.privex.cc:6969/announce
 
-udp://smurfsoft.com:6969/announce
+udp://rfc5746.mywaifu.best:6969/announce
 
-udp://t.jaekr.sh:6969/announce
+udp://smurfsoft.com:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 
@@ -2984,7 +2984,11 @@ udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.xiaoduola.xyz:6969/announce
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
+
+udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -5408,15 +5412,13 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
+udp://buny.uk:6969/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
-
-udp://ch3oh.ru:6969/announce
 
 udp://cloud.arzanmodern.ir:6969/announce
 
@@ -5458,7 +5460,11 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
 udp://hz.is:1337/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://i-p-v-6.tk:6969/announce
 
@@ -5473,8 +5479,6 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://ipv6.bt-tracker.devnak.win:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
-
-udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
@@ -5556,8 +5560,6 @@ udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://rfc5746.mywaifu.best:6969/announce
-
 udp://sabross.xyz:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
@@ -5579,6 +5581,8 @@ udp://storage.groupees.com:6969/announce
 udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 
 udp://t.nyaatracker.com:80/announce
 
@@ -5738,13 +5742,9 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
-
 udp://tracker.wellknownclub.net:8100/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 

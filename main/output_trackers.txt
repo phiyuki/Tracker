@@ -2896,11 +2896,7 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2915,6 +2911,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -2971,8 +2971,6 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -5412,6 +5410,10 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://buny.uk:6969/announce
+
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
@@ -5460,13 +5462,9 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
 udp://hz.is:1337/announce
 
 udp://hz.is:3000/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://i-p-v-6.tk:6969/announce
 
@@ -5743,6 +5741,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.wellknownclub.net:8100/announce
 

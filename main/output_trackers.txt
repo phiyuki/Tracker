@@ -364,9 +364,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-http://fosstorrents.com:6969/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 udp://ftp.pet:2710/announce
 

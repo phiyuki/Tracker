@@ -332,10 +332,6 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.dmcomic.org:2710/announce
@@ -386,9 +382,9 @@ udp://ftp.pet:2710/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+https://threads.canofsocks.com:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1536,6 +1532,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -2227,6 +2225,8 @@ udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
@@ -4729,6 +4729,8 @@ udp://176.56.4.199:6969/announce
 udp://176.56.6.77:6969/announce
 
 udp://176.56.7.44:6969/announce
+
+udp://176.56.7.89:6969/announce
 
 udp://176.99.7.59:6969/announce
 

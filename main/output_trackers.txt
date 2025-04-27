@@ -378,11 +378,11 @@ https://tracker.guguan.dpdns.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+http://fosstorrents.com:6969/announce
+
 udp://new-line.net:6969/announce
 
 udp://tracker.edkj.club:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 

@@ -316,10 +316,6 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
@@ -343,8 +339,6 @@ http://finbytes.org:80/announce.php
 http://buny.uk:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -371,6 +365,8 @@ http://tracker.lyretain.site:2710/announce
 http://ch3oh.ru:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -5128,6 +5124,8 @@ udp://78.30.254.12:2710/announce
 
 udp://78.40.116.12:6969/announce
 
+udp://79.112.45.138:1234/announce
+
 udp://79.116.13.63:1234/announce
 
 udp://79.116.148.61:1234/announce
@@ -5386,6 +5384,8 @@ udp://daveking.com:6969/announce
 
 udp://dex.email:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://dmitrynegoda.com:6969/announce
 
 udp://dns.xxtor.com:53/announce
@@ -5433,6 +5433,8 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://jeremylee.sh:6969/announce
 

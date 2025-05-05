@@ -622,9 +622,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.trackarr.org:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://tracker.trackarr.org:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -660,9 +660,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 udp://opentracker.io:6969/announce
 
@@ -690,15 +690,15 @@ udp://open.dstud.io:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://wepzone.net:6969/announce
 
-https://tr.nyacat.pw:443/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
 http://tracker.lyretain.site:2710/announce
+
+https://tr.nyacat.pw:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
@@ -714,21 +714,21 @@ udp://exodus.desync.com:6969/announce
 
 udp://trackarr.org:6969/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.linvk.com:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker.moeblog.cn:443/announce
+http://fosstorrents.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-http://fosstorrents.com:6969/announce
-
 https://torrent.tracker.durukanbal.com:443/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -1245,9 +1245,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.trackarr.org:6969/announce
-
 http://tracker.tritan.gg:8080/announce
+
+udp://tracker.trackarr.org:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -1283,9 +1283,9 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-http://torrent.hificode.in:6969/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
+
+http://torrent.hificode.in:6969/announce
 
 
 http://1337.abcvg.info:80/announce
@@ -11894,6 +11894,7 @@ http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
 http://177.139.44.145:6969/announce
 http://177.139.47.236:6969/announce
+http://177.139.47.40:6969/announce
 http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.62.185:6969/announce

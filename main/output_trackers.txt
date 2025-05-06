@@ -328,15 +328,31 @@ udp://explodie.org:6969/announce
 
 http://www.torrentsnipe.info:2701/announce
 
+http://tracker810.xyz:11450/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.dmcomic.org:2710/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.corpscorp.online:80/announce
+
+http://tracker.bz:80/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://t.overflow.biz:6969/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
 http://home.yxgz.club:6969/announce
 
 http://highteahop.top:6960/announce
+
+http://fosstorrents.com:6969/announce
 
 http://finbytes.org:80/announce.php
 
@@ -345,22 +361,6 @@ http://0d.kebhana.mx:443/announce
 http://0123456789nonexistent.com:80/announce
 
 udp://bandito.byterunner.io:6969/announce
-
-http://tracker810.xyz:11450/announce
-
-http://tracker2.dler.org:80/announce
-
-http://tracker.sbsub.com:2710/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.bz:80/announce
-
-http://tracker.bittor.pw:1337/announce
-
-http://t.overflow.biz:6969/announce
-
-http://fosstorrents.com:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -395,6 +395,8 @@ https://tracker.guguan.dpdns.org:443/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -535,8 +537,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 
 udp://freedomalternative.com:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -2906,8 +2906,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2922,6 +2920,8 @@ udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
 
+udp://fosstorrents.com:6969/announce
+
 udp://home.kray.pw:6969/announce
 
 udp://home.yxgz.club:6969/announce
@@ -2931,8 +2931,6 @@ udp://hzzwly.gq:6969/announce
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
-
-udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
@@ -2954,11 +2952,11 @@ udp://rfc5746.mywaifu.best:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -2984,8 +2982,6 @@ udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
@@ -3010,13 +3006,85 @@ udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
 
-ws://tracker.files.fm:7072/announce
-
 ws://tracker.ghostchu-services.top:80/announce
 
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 
@@ -5384,6 +5452,8 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
@@ -5428,8 +5498,6 @@ udp://files.samtechnic.ir:6969/announce
 
 udp://fleira.no:6969/announce
 
-udp://fosstorrents.com:6969/announce
-
 udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
@@ -5451,6 +5519,8 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://ipv6.bt-tracker.devnak.win:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
+
+udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
@@ -5552,8 +5622,6 @@ udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://t.nyaatracker.com:80/announce
 
 udp://t.publictracker.xyz:6969/announce
@@ -5577,6 +5645,8 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrent.gresille.org:80/announce
+
+udp://torrent.hificode.in:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -5711,6 +5781,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.wellknownclub.net:8100/announce
 

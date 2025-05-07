@@ -378,9 +378,9 @@ https://api.ipv4online.uk:443/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -2656,8 +2656,6 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2906,6 +2904,8 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2924,13 +2924,11 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
+
+udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
 
@@ -2950,6 +2948,8 @@ udp://region.nl1.privex.cc:6969/announce
 
 udp://rfc5746.mywaifu.best:6969/announce
 
+udp://shogiroom.com:6969/announce
+
 udp://smurfsoft.com:6969/announce
 
 udp://t.jaekr.sh:6969/announce
@@ -2957,6 +2957,8 @@ udp://t.jaekr.sh:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -2982,9 +2984,13 @@ udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -2993,8 +2999,6 @@ udp://tracker.ykat.xyz:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
-
-udp://unknownsite.de:6969/announce
 
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
@@ -3005,6 +3009,8 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
+
+ws://tracker.files.fm:7072/announce
 
 ws://tracker.ghostchu-services.top:80/announce
 
@@ -3813,6 +3819,8 @@ http://all4nothin.net/announce
 http://big-boss-tracker.net/announce
 
 http://bithq.org/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://blackz.ro/announce
 
@@ -5458,8 +5466,6 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
@@ -5508,9 +5514,13 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
 udp://hz.is:1337/announce
 
 udp://hz.is:3000/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://i-p-v-6.tk:6969/announce
 
@@ -5525,8 +5535,6 @@ udp://ipv6.babico.name.tr:8000/announce
 udp://ipv6.bt-tracker.devnak.win:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
-
-udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
@@ -5614,8 +5622,6 @@ udp://shadowshq.eddie4.nl:6969/announce
 
 udp://shadowshq.yi.org:6969/announce
 
-udp://shogiroom.com:6969/announce
-
 udp://smtp.loki.tel:25/announce
 
 udp://soundmovie.ru:6969/announce
@@ -5651,8 +5657,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrent.gresille.org:80/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -5788,11 +5792,7 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
 udp://tracker.wellknownclub.net:8100/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
@@ -5843,6 +5843,8 @@ udp://u.peer-exchange.download:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://udp.yarr.pt:1337/announce
+
+udp://unknownsite.de:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 

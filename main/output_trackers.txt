@@ -3278,6 +3278,8 @@ http://116.8.90.54:6969/announce
 
 http://116.8.90.57:6969/announce
 
+http://116.8.90.79:6969/announce
+
 http://116.8.91.159:6969/announce
 
 http://116.8.91.220:6969/announce
@@ -4753,6 +4755,8 @@ udp://176.56.6.77:6969/announce
 udp://176.56.7.44:6969/announce
 
 udp://176.56.7.89:6969/announce
+
+udp://176.79.98.66:6969/announce
 
 udp://176.99.7.59:6969/announce
 

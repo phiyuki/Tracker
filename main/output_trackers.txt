@@ -318,7 +318,7 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://www.torrentsnipe.info:2701/announce
+http://www.genesis-sp.org:2710/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -328,37 +328,27 @@ http://tracker.bittor.pw:1337/announce
 
 http://t.jaekr.sh:6969/announce
 
-http://buny.uk:6969/announce
-
-http://bt1.xxxxbt.cc:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-http://www.genesis-sp.org:2710/announce
-
-http://tracker.dler.com:6969/announce
-
-http://tracker.23794.top:6969/announce
-
 http://share.hkg-fansub.info:80/announce.php
 
-http://retracker.spark-rostov.ru:80/announce
+http://buny.uk:6969/announce
 
 http://bt.poletracker.org:2710/announce
 
-https://tr.nyacat.pw:443/announce
+http://www.torrentsnipe.info:2701/announce
+
+http://tracker.dler.com:6969/announce
+
+http://retracker.spark-rostov.ru:80/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tr.nyacat.pw:80/announce
-
-http://region.nl1.privex.cc:6969/announce
+http://tracker.23794.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -369,6 +359,8 @@ http://open.acgtracker.com:1096/announce
 http://tracker.lyretain.site:2710/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+https://tr.nyacat.pw:443/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -387,6 +379,8 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -1205,6 +1199,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -2240,6 +2236,8 @@ http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://ipv4.tracker.harry.lu/announce
@@ -2732,6 +2730,8 @@ http://torrents.linuxmint.com:80/announce
 
 http://tr.bangumi.moe:80/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tracker-udp.anirena.com:80/announce
 
 http://tracker-udp.gbitt.info:80/announce
@@ -3011,6 +3011,80 @@ ws://tracker.ghostchu-services.top:80/announce
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 

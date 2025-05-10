@@ -14,6 +14,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bt1.xxxxbt.cc:6969/announce
 
 http://buny.uk:6969/announce
@@ -21,8 +23,6 @@ http://buny.uk:6969/announce
 http://chihaya.de:80/announce
 
 http://finbytes.org:80/announce.php
-
-http://fosstorrents.com:6969/announce
 
 http://highteahop.top:6960/announce
 
@@ -44,9 +44,7 @@ http://public.tracker.vraphim.com:6969/announce
 
 http://retracker.hotplug.ru:2710/announce
 
-http://seeders-paradise.org:80/announce
-
-http://servandroidkino.ru:80/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
@@ -58,13 +56,15 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tracker.beeimg.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -76,15 +76,9 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.darkness.services:6969/announce
 
-http://tracker.dler.com:6969/announce
-
-http://tracker.dler.org:6969/announce
-
-http://tracker.ipv6tracker.org:80/announce
+http://tracker.dmcomic.org:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-http://tracker.lintk.me:2710/announce
 
 http://tracker.lyretain.site:2710/announce
 
@@ -100,6 +94,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
@@ -112,11 +108,7 @@ http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.zhuqiy.top:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker2.itzmx.com:6961/announce
-
-http://tracker810.xyz:11450/announce
 
 http://wepzone.net:6969/announce
 
@@ -125,8 +117,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.genesis-sp.org:2710/announce
 
 http://www.torrentsnipe.info:2701/announce
-
-http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -151,6 +141,8 @@ https://tracker.expli.top:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.gcrenwp.top:443/announce
+
+https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -244,8 +236,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://thouvenin.cloud:6969/announce
 
 udp://torrent.i.ng:6969/announce
@@ -338,39 +328,47 @@ udp://explodie.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://tracker.sbsub.com:2710/announce
+http://tracker810.xyz:11450/announce
 
-http://tracker.dmcomic.org:2710/announce
+http://tracker.lintk.me:2710/announce
 
-http://tracker.bittor.pw:1337/announce
+http://tracker.ipv6tracker.org:80/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://servandroidkino.ru:80/announce
+
+http://seeders-paradise.org:80/announce
 
 http://home.yxgz.club:6969/announce
 
-http://bt.poletracker.org:2710/announce
+http://fosstorrents.com:6969/announce
 
 udp://trackarr.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://bandito.byterunner.io:6969/announce
 
-https://tracker.ghostchu-services.top:443/announce
-
 https://sparkle.ghostchu-services.top:443/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
+http://tracker.dler.org:6969/announce
+
+http://tracker.dler.com:6969/announce
+
+http://tracker.23794.top:6969/announce
+
 http://t.overflow.biz:6969/announce
 
-http://torrent.hificode.in:6969/announce
+udp://tr3.ysagin.top:2715/announce
 
 udp://tracker.trackarr.org:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -911,6 +909,8 @@ https://w.wwwww.wtf/announce
 https://carbon-bonsai-621.appspot.com/announce
 
 https://cernet-tracker.appspot.com:443/announce
+
+http://www.wareztorrent.com:80/announce
 
 udp://960303.xyz:6969/announce
 
@@ -3017,80 +3017,6 @@ udp://www.tvnihon.com:6969/announce
 ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
-
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
 
 http://open.nyaatorrents.info:6544/announce
 

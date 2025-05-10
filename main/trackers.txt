@@ -674,9 +674,9 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -692,25 +692,25 @@ udp://opentracker.io:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
+
+http://tracker.netmap.top:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.rer.lol:6969/announce
 
+udp://tracker.torrust-demo.com:6969/announce
+
 http://tracker.23794.top:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tr3.ysagin.top:2715/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tr3.ysagin.top:2715/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.trackarr.org:6969/announce
 
@@ -718,9 +718,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 udp://tracker.deadorbit.nl:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -730,11 +730,11 @@ udp://admin.52ywp.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://tracker.lyretain.site:2710/announce
-
 https://tr.nyacat.pw:443/announce
 
 udp://trackarr.org:6969/announce
+
+http://tracker.lyretain.site:2710/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -746,9 +746,9 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 https://tracker.moeblog.cn:443/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -1299,9 +1299,9 @@ udp://thouvenin.cloud:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-http://tracker.tritan.gg:8080/announce
-
 https://tracker.leechshield.link:443/announce
+
+http://tracker.tritan.gg:8080/announce
 
 udp://ismaarino.com:1234/announce
 
@@ -12040,6 +12040,7 @@ http://211.75.205.188:6969/announce
 http://211.75.205.189/announce
 http://211.75.205.189:6969/announce
 http://211.75.205.190/announce
+http://211.75.205.192:6969/announce
 http://211.75.210.121/announce
 http://211.75.210.121:6969/announce
 http://211.75.210.122/announce
@@ -12163,6 +12164,7 @@ http://5rt.tace.ru:60889/announce
 http://6.tracker.devnak.win:6969/announce
 http://60.249.37.20/announce
 http://60.249.37.20:6969/announce
+http://60.249.37.21:6969/announce
 http://61.216.109.95:6969/announce
 http://61.216.149.33:6969/announce
 http://61.216.165.60/announce
@@ -12207,6 +12209,7 @@ http://83.31.30.28:6969/announce
 http://83.31.32.122:6969/announce
 http://83.31.33.142:6969/announce
 http://83.31.33.73:6969/announce
+http://83.31.64.155:6969/announce
 http://83.31.64.195:6969/announce
 http://83.5.10.83:6969/announce
 http://83.5.56.81:6969/announce
@@ -13343,6 +13346,7 @@ udp://211.75.205.188:80/announce
 udp://211.75.205.189:6969/announce
 udp://211.75.205.189:80/announce
 udp://211.75.205.190:80/announce
+udp://211.75.205.192:6969/announce
 udp://211.75.210.121:6969/announce
 udp://211.75.210.121:80/announce
 udp://211.75.210.122:6969/announce
@@ -13559,6 +13563,7 @@ udp://83.31.219.138:6969/announce
 udp://83.31.30.28:6969/announce
 udp://83.31.32.122:6969/announce
 udp://83.31.33.142:6969/announce
+udp://83.31.64.155:6969/announce
 udp://83.31.64.195:6969/announce
 udp://83.5.10.83:6969/announce
 udp://83.5.56.81:6969/announce
@@ -13738,6 +13743,7 @@ udp://escalaenbernal.com:3074/announce
 udp://evan.im:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
+udp://extracker.dahrkael.net:6969/announce
 udp://f1sh.de:6969/announce
 udp://fe.dealclub.de:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce

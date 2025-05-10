@@ -3460,6 +3460,8 @@ http://211.75.205.189:6969/announce
 
 http://211.75.205.190/announce
 
+http://211.75.205.192:6969/announce
+
 http://211.75.210.121/announce
 
 http://211.75.210.121:6969/announce
@@ -3616,6 +3618,8 @@ http://60.249.37.20/announce
 
 http://60.249.37.20:6969/announce
 
+http://60.249.37.21:6969/announce
+
 http://61.216.165.60/announce
 
 http://61.216.165.60:6969/announce
@@ -3665,6 +3669,8 @@ http://83.31.30.28:6969/announce
 http://83.31.32.122:6969/announce
 
 http://83.31.33.142:6969/announce
+
+http://83.31.64.155:6969/announce
 
 http://83.31.64.195:6969/announce
 
@@ -4854,6 +4860,8 @@ udp://211.75.205.189:80/announce
 
 udp://211.75.205.190:80/announce
 
+udp://211.75.205.192:6969/announce
+
 udp://211.75.210.121:6969/announce
 
 udp://211.75.210.121:80/announce
@@ -5241,6 +5249,8 @@ udp://83.31.30.28:6969/announce
 udp://83.31.32.122:6969/announce
 
 udp://83.31.33.142:6969/announce
+
+udp://83.31.64.155:6969/announce
 
 udp://83.31.64.195:6969/announce
 

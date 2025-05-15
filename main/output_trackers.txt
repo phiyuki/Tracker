@@ -340,17 +340,9 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://0123456789nonexistent.com:80/announce
-
 udp://tracker.dump.cl:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
@@ -358,13 +350,19 @@ http://tracker.lintk.me:2710/announce
 
 http://tracker.bz:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://servandroidkino.ru:80/announce
 
-udp://ismaarino.com:1234/announce
+http://0123456789nonexistent.com:80/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://tracker.trackarr.org:6969/announce
 
@@ -2948,8 +2946,6 @@ udp://open.stealth.si:6969/announce
 
 udp://parag.rs:6969/announce
 
-udp://pirate.hz.is:1337/announce
-
 udp://region.nl1.privex.cc:6969/announce
 
 udp://rfc5746.mywaifu.best:6969/announce
@@ -2963,6 +2959,8 @@ udp://t.jaekr.sh:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -5500,6 +5498,8 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://jeremylee.sh:6969/announce
 
 udp://johnrosen1.com:6969/announce
@@ -5564,6 +5564,8 @@ udp://peerfect.org:6969/announce
 
 udp://peru.subventas.com:53/announce
 
+udp://pirate.hz.is:1337/announce
+
 udp://public-tracker.ml:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
@@ -5617,8 +5619,6 @@ udp://tk1v6.trackerservers.com:8080/announce
 udp://tk2v6.trackerservers.com:8080/announce
 
 udp://torrent.gresille.org:80/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrentclub.online:54123/announce
 

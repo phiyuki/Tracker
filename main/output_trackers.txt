@@ -2648,8 +2648,6 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2822,8 +2820,6 @@ https://bt.nfshost.com:443/announce
 
 https://carapax.net:443/announce
 
-https://chihaya.de:443/announce
-
 https://docker-tracker-production.up.railway.app:443/announce
 
 https://evening-badlands-6215.herokuapp.com:443/announce
@@ -2900,8 +2896,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bt.rer.lol:2710/announce
-
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
@@ -2922,13 +2916,7 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
-
 udp://incine.ru:6969/announce
-
-udp://ipv4.rer.lol:2710/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
@@ -2987,8 +2975,6 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
 
@@ -3081,6 +3067,8 @@ udp://tracker.cubonegro.lol:6969/announce
 http://1c.premierzal.ru:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -3767,6 +3755,8 @@ http://all4nothin.net/announce
 http://big-boss-tracker.net/announce
 
 http://bithq.org/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://blackz.ro/announce
 
@@ -5434,6 +5424,8 @@ udp://bt-tracker.devnak.win:6969/announce
 
 udp://bt.plc.mx:3074/announce
 
+udp://bt.rer.lol:2710/announce
+
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -5484,9 +5476,13 @@ udp://globalwave.no-ip.org:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
 udp://hz.is:1337/announce
 
 udp://hz.is:3000/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://i-p-v-6.tk:6969/announce
 
@@ -5767,6 +5763,8 @@ udp://tracker.vraphim.com:6969/announce
 udp://tracker.vrpnet.org:6969/announce
 
 udp://tracker.wellknownclub.net:8100/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

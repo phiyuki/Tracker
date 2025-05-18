@@ -338,9 +338,9 @@ http://chihaya.de:80/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://ismaarino.com:1234/announce
-
 http://fosstorrents.com:6969/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://trackarr.org:6969/announce
 
@@ -362,17 +362,15 @@ http://region.nl1.privex.cc:6969/announce
 
 https://api.ipv4online.uk:443/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
-
-http://ch3oh.ru:6969/announce
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
@@ -531,6 +529,8 @@ udp://public-tracker.cf:6969/announce
 http://canardscitrons.nohost.me:6969/announce
 
 udp://su-data.com:6969/announce
+
+http://ch3oh.ru:6969/announce
 
 http://wg.mortis.me:6969/announce
 
@@ -2892,8 +2892,6 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://bigfoot1942.sektori.org:6969/announce
-
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
@@ -2978,6 +2976,12 @@ udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
+
+udp://tracker.vrpnet.org:6969/announce
+
 udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -2999,10 +3003,6 @@ udp://www.nartlof.com.br:6969/announce
 udp://www.tvnihon.com:6969/announce
 
 ws://tracker.files.fm:7072/announce
-
-ws://tracker.ghostchu-services.top:80/announce
-
-wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
 
@@ -5500,6 +5500,8 @@ udp://axell24.ru:6969/announce
 
 udp://bclearning.top:6969/announce
 
+udp://bigfoot1942.sektori.org:6969/announce
+
 udp://blokas.io:6969/announce
 
 udp://bobbialbano.com:6969/announce
@@ -5842,12 +5844,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
-
 udp://tracker.wellknownclub.net:8100/announce
 
 udp://tracker.ygsub.com:6969/announce
@@ -5933,6 +5929,8 @@ udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
 
 udp://zer0day.to:1337/announce
+
+wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.webtorrent.dev:443/announce
 

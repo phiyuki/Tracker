@@ -316,17 +316,11 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
 
 http://tracker.lintk.me:2710/announce
 
@@ -342,13 +336,15 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-udp://bandito.byterunner.io:6969/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
+http://tracker.vanitycore.co:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -356,9 +352,9 @@ http://chihaya.de:80/announce
 
 http://fosstorrents.com:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 udp://admin.52ywp.com:6969/announce
+
+udp://ismaarino.com:1234/announce
 
 udp://trackarr.org:6969/announce
 
@@ -384,11 +380,11 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
-
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 http://tracker.gbitt.info:80/announce
+
+udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -2218,6 +2214,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.cubonegro.xyz:6969/announce
 
 udp://stargrave.org:6969/announce
@@ -3052,6 +3050,20 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.cubonegro.lol:6969/announce
+
+http://1c.premierzal.ru:6969/announce
+
+https://tracker.gcrreen.xyz:443/announce
+
+http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+
+https://yolo.liberbear.com:443/announce
+
+udp://tracker.anima.nz:6969/announce
+
 wss://tracker.magnetoo.io/announce
 
 http://51.79.71.167/announce
@@ -3395,8 +3407,6 @@ http://193.53.126.6:6961/announce
 http://194.106.216.222/announce
 
 http://195.123.209.37:1337/announce
-
-http://1c.premierzal.ru:6969/announce
 
 http://200.170.109.89:6969/announce
 
@@ -3779,8 +3789,6 @@ http://datascene.net/announce
 http://denis.stalker.h3q.com:6969/announce
 
 http://derpyradio.net:6969/announce
-
-http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 http://explodie.org:6969/announce
 
@@ -5654,8 +5662,6 @@ udp://tracker.aletorrenty.pl:2710/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.anima.nz:6969/announce
-
 udp://tracker.arcbox.cc:6969/announce
 
 udp://tracker.babico.name.tr:8000/announce
@@ -5663,8 +5669,6 @@ udp://tracker.babico.name.tr:8000/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.christianbro.pw:6969/announce
-
-udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.cubonegro.org:1337/announce
 
@@ -5679,6 +5683,8 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
 
@@ -5733,8 +5739,6 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.moxing.party:6969/announce
 

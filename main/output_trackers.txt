@@ -296,35 +296,15 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-http://www.torrentsnipe.info:2701/announce
-
 http://www.genesis-sp.org:2710/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.qu.ax:6969/announce
-
 http://tracker.dmcomic.org:2710/announce
-
-http://tracker.corpscorp.online:80/announce
 
 http://tracker.bz:80/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://t.jaekr.sh:6969/announce
-
-http://shubt.net:2710/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
@@ -334,27 +314,37 @@ http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://highteahop.top:6960/announce
 
 http://finbytes.org:80/announce.php
 
 http://bt.poletracker.org:2710/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+http://www.torrentsnipe.info:2701/announce
 
-udp://ipv4.rer.lol:2710/announce
+http://tracker.vanitycore.co:6969/announce
 
-udp://bt.rer.lol:2710/announce
+http://tracker.qu.ax:6969/announce
+
+http://tracker.corpscorp.online:80/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://shubt.net:2710/announce
+
+http://open.trackerlist.xyz:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker.waaa.moe:6969/announce
+
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
@@ -363,6 +353,8 @@ udp://tr3.ysagin.top:2715/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.lilithraws.org:443/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -3080,6 +3072,8 @@ http://1c.premierzal.ru:6969/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
+udp://ipv4.rer.lol:2710/announce
+
 http://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
 https://yolo.liberbear.com:443/announce
@@ -3733,6 +3727,8 @@ http://83.6.210.47:6969/announce
 http://83.6.210.60:6969/announce
 
 http://83.6.210.62:6969/announce
+
+http://83.6.212.121:6969/announce
 
 http://83.6.218.103:6969/announce
 
@@ -5360,6 +5356,8 @@ udp://83.6.210.60:6969/announce
 
 udp://83.6.210.62:6969/announce
 
+udp://83.6.212.121:6969/announce
+
 udp://83.6.218.103:6969/announce
 
 udp://83.6.220.36:6969/announce
@@ -5488,6 +5486,8 @@ udp://bt-tracker.devnak.win:6969/announce
 
 udp://bt.plc.mx:3074/announce
 
+udp://bt.rer.lol:2710/announce
+
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://buny.uk:6969/announce
@@ -5519,6 +5519,8 @@ udp://cutiegirl.ru:6969/announce
 udp://daveking.com:6969/announce
 
 udp://dex.email:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://dmitrynegoda.com:6969/announce
 
@@ -5579,6 +5581,8 @@ udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kristof.bartanet.cz:6969/announce
 
 udp://laszlo130.go.ro:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://leet-tracker.moe:23861/announce
 

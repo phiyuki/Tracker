@@ -368,11 +368,11 @@ http://tracker.lyretain.site:2710/announce
 
 http://chihaya.de:80/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 http://fosstorrents.com:6969/announce
 
 udp://ismaarino.com:1234/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -391,8 +391,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://cn.pcfreetime.com:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
-
-http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -651,6 +649,8 @@ udp://hbsy.zhuqiy.eu.org:6666/announce
 udp://tcq.zhuqiy.eu.org:25091/announce
 
 https://trackers.nekosunevr.co.uk:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 

@@ -306,17 +306,17 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://explodie.org:6969/announce
 
 http://tracker810.xyz:11450/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
 http://highteahop.top:6960/announce
 
-http://bt.poletracker.org:2710/announce
-
-udp://tracker.ololosh.space:6969/announce
+http://0123456789nonexistent.com:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -324,27 +324,21 @@ udp://bandito.byterunner.io:6969/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://0123456789nonexistent.com:80/announce
-
-udp://tracker.ddunlimited.net:6969/announce
+http://bt.poletracker.org:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
 http://torrent.hificode.in:6969/announce
-
-udp://explodie.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -354,9 +348,9 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 udp://tracker.hifimarket.in:2710/announce
+
+http://lucke.fenesisu.moe:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -374,9 +368,9 @@ http://fosstorrents.com:6969/announce
 
 udp://www.2600.com:6969/announce
 
-udp://ismaarino.com:1234/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://ismaarino.com:1234/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -1275,6 +1269,8 @@ http://fe.dealclub.de:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -2233,6 +2229,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 
@@ -5593,6 +5591,8 @@ udp://ipv6.govt.hu:6969/announce
 udp://ipv6.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://jeremylee.sh:6969/announce
 

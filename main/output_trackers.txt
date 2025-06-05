@@ -310,27 +310,25 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://tracker.dump.cl:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
 udp://explodie.org:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker.bz:80/announce
-
-http://seeders-paradise.org:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
-http://0d.kebhana.mx:443/announce
-
-http://www.torrentsnipe.info:2701/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.bz:80/announce
 
 http://tracker.bt-hash.com:80/announce
 
@@ -338,13 +336,19 @@ http://shubt.net:2710/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
+http://seeders-paradise.org:80/announce
+
+http://retracker.spark-rostov.ru:80/announce
+
 http://finbytes.org:80/announce.php
 
-udp://bandito.byterunner.io:6969/announce
+http://0d.kebhana.mx:443/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
@@ -360,9 +364,9 @@ udp://thouvenin.cloud:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 http://tracker.lyretain.site:2710/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -378,13 +382,11 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://chihaya.de:80/announce
-
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
+http://chihaya.de:80/announce
 
-http://fosstorrents.com:6969/announce
+https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -435,6 +437,8 @@ udp://free.publictracker.xyz:6969/announce
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -5612,8 +5616,6 @@ udp://kristof.bartanet.cz:6969/announce
 
 udp://laszlo130.go.ro:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://leet-tracker.moe:23861/announce
 
 udp://leet-tracker.moe:38151/announce
@@ -5757,8 +5759,6 @@ udp://tracker.dix.tf:6969/announce
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.dump.cl:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
 

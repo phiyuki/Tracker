@@ -368,15 +368,17 @@ udp://tracker.hifimarket.in:2710/announce
 
 http://joczo.duckdns.org:6969/announce
 
+udp://tracker.rescuecrew7.com:1337/announce
+
 udp://www.2600.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 

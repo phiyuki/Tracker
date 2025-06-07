@@ -312,10 +312,6 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
-http://tracker2.dler.org:80/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -326,15 +322,9 @@ http://tracker.moxing.party:6969/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://tracker.dler.com:6969/announce
-
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.bt-hash.com:80/announce
-
-http://tracker.bittor.pw:1337/announce
-
-http://shubt.net:2710/announce
 
 http://servandroidkino.ru:80/announce
 
@@ -343,6 +333,14 @@ http://home.yxgz.club:6969/announce
 http://0d.kebhana.mx:443/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker.dler.com:6969/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://shubt.net:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -364,11 +362,11 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
+http://tracker.lyretain.site:2710/announce
+
 udp://thouvenin.cloud:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
-
-http://tracker.lyretain.site:2710/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -2239,6 +2237,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 

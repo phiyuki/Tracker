@@ -380,13 +380,13 @@ http://joczo.duckdns.org:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -5067,6 +5067,8 @@ udp://220.200.35.72:6969/announce
 udp://220.200.35.97:2710/announce
 
 udp://220.200.35.97:6969/announce
+
+udp://222.216.138.237:6969/announce
 
 udp://222.216.139.217:6969/announce
 

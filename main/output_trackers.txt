@@ -352,9 +352,9 @@ udp://torrent.i.ng:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -368,9 +368,9 @@ udp://thouvenin.cloud:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://www.2600.com:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 http://joczo.duckdns.org:6969/announce
 
@@ -380,13 +380,13 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-udp://tracker.rescuecrew7.com:1337/announce
-
 http://cn.pcfreetime.com:6969/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
+udp://tracker.rescuecrew7.com:1337/announce
 
 https://tracker.guguan.dpdns.org:443/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -535,8 +535,6 @@ udp://ns1.monolithindustries.com:6969/announce
 udp://1c.premierzal.ru:6969/announce
 
 http://smurfsoft.com:6969/announce
-
-udp://public-tracker.cf:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
 
@@ -2543,6 +2541,8 @@ https://k3tracker.cc/announce/0b0b5b2bb71770aa0df56f80a4863f07
 udp://mail.segso.net:6969/announce
 
 udp://market-re.quest:6969/announce
+
+udp://public-tracker.cf:6969/announce
 
 udp://ssb14.nohost.me:6969/announce
 

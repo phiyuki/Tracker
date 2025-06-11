@@ -382,11 +382,11 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://open.acgtracker.com:1096/announce
 

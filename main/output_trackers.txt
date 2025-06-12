@@ -358,9 +358,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://open.demonii.si:1337/announce
-
 udp://torrent.i.ng:6969/announce
+
+udp://open.demonii.si:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -368,11 +368,11 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
-udp://tracker.deadorbit.nl:6969/announce
+udp://www.2600.com:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://www.2600.com:6969/announce
+udp://tracker.deadorbit.nl:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -2772,6 +2772,8 @@ http://tracker.torrentbytes.net:80/announce
 
 http://tracker.trancetraffic.com:80/announce
 
+http://tracker.waaa.moe:6969/announce
+
 http://tracker1.torrentino.com:80/announce
 
 http://tracker2.dler.com:80/announce
@@ -2906,6 +2908,8 @@ udp://147job.com:6969/announce
 
 udp://anidex.moe:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
@@ -2954,8 +2958,6 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
@@ -2975,6 +2977,8 @@ udp://tracker.etree.org:6969/announce
 udp://tracker.files.fm:6969/announce
 
 udp://tracker.kali.org:6969/announce
+
+udp://tracker.moxing.party:6969/announce
 
 udp://tracker.mywaifu.best:6969/announce
 
@@ -4085,8 +4089,6 @@ http://tracker.trancetraffic.com/announce
 http://tracker.trojangogogo.site:8080/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu/announce
 
@@ -5538,8 +5540,6 @@ udp://bt.plc.mx:3074/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://buny.uk:6969/announce
 
 udp://c-71-227-163-17.hsd1.wa.comcast.net:6969/announce
@@ -5714,6 +5714,8 @@ udp://sx.xxtor.com:6969/announce
 
 udp://t.133335.xyz:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://t.nyaatracker.com:80/announce
 
 udp://t.publictracker.xyz:6969/announce
@@ -5829,8 +5831,6 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
-
-udp://tracker.moxing.party:6969/announce
 
 udp://tracker.nitrix.me:6969/announce
 

@@ -360,9 +360,9 @@ udp://torrent.i.ng:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://open.demonii.si:1337/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://open.demonii.si:1337/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -376,9 +376,9 @@ udp://tracker.deadorbit.nl:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-https://tracker.lilithraws.org:443/announce
-
 http://joczo.duckdns.org:6969/announce
+
+https://tracker.lilithraws.org:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 

@@ -306,25 +306,9 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.moxing.party:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.qu.ax:6969/announce
-
-http://tracker.bz:80/announce
-
 http://tracker.bittor.pw:1337/announce
-
-http://tr.kxmp.cf:80/announce
-
-http://t.overflow.biz:6969/announce
-
-http://shubt.net:2710/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
@@ -332,15 +316,31 @@ http://servandroidkino.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://highteahop.top:6960/announce
-
 http://0d.kebhana.mx:443/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.qu.ax:6969/announce
+
+http://tracker.moxing.party:6969/announce
+
+http://tracker.dler.org:6969/announce
+
+http://tracker.bz:80/announce
+
+http://tr.kxmp.cf:80/announce
+
+http://t.overflow.biz:6969/announce
+
+http://shubt.net:2710/announce
+
+http://highteahop.top:6960/announce
 
 http://0123456789nonexistent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.beeimg.com:6969/announce
 
@@ -356,9 +356,9 @@ udp://torrent.i.ng:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 

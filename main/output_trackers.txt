@@ -3308,6 +3308,8 @@ http://118.163.198.106:6969/announce
 
 http://118.25.157.230:6969/announce
 
+http://123.245.62.106:6969/announce
+
 http://123.245.62.16:6969/announce
 
 http://123.245.62.21:6969/announce

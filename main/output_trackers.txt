@@ -350,9 +350,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -376,17 +376,19 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.demonii.si:1337/announce
 
-udp://torrent.i.ng:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+udp://torrent.i.ng:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+https://track3r.site:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -611,8 +613,6 @@ udp://pirate.t-1.org:1337/announce
 https://yolo.liberbear.com:80/announce
 
 https://tracker.3moredays.com:443/announce
-
-https://track3r.site:443/announce
 
 http://retracker.seven-sky.net:80/announce
 

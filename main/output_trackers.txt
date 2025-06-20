@@ -382,9 +382,9 @@ http://joczo.duckdns.org:6969/announce
 
 udp://www.2600.com:6969/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.demonii.si:1337/announce
 

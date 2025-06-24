@@ -374,9 +374,9 @@ udp://tracker.hifimarket.in:2710/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://www.2600.com:6969/announce
 
@@ -2966,11 +2966,11 @@ udp://shogiroom.com:6969/announce
 
 udp://smurfsoft.com:6969/announce
 
+udp://t.jaekr.sh:6969/announce
+
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
-
-udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -2997,6 +2997,8 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3353,4 +3355,6 @@ udp://83.31.208.224:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 

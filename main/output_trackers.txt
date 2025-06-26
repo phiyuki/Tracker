@@ -332,27 +332,33 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://tracker.skyts.net:6969/announce
+
 http://tracker.lintk.me:2710/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://t.overflow.biz:6969/announce
 
 http://open.trackerlist.xyz:80/announce
 
 http://buny.uk:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.23794.top:6969/announce
-
-http://t.overflow.biz:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.jdx3.org:443/announce
 
@@ -378,9 +384,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://www.2600.com:6969/announce
-
 http://joczo.duckdns.org:6969/announce
+
+udp://www.2600.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -3272,13 +3278,7 @@ udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
 udp://kiryuu-test.mywaifu.best:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://li1406-230.members.linode.com:6969/announce
 

@@ -328,19 +328,17 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.moxing.party:6969/announce
+
+http://buny.uk:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.bz:80/announce
 
@@ -350,13 +348,9 @@ http://shubt.net:2710/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://buny.uk:6969/announce
-
 http://bt1.xxxxbt.cc:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -377,6 +371,8 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.lyretain.site:2710/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -2242,6 +2238,8 @@ http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://ipv4.tracker.harry.lu/announce
@@ -3351,6 +3349,8 @@ udp://83.31.208.224:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://fosstorrents.com:6969/announce
 

@@ -314,31 +314,19 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 http://www.genesis-sp.org:2710/announce
 
 http://tracker810.xyz:11450/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
-
-http://highteahop.top:6960/announce
-
-http://finbytes.org:80/announce.php
-
-http://bt1.xxxxbt.cc:6969/announce
-
-http://bt.poletracker.org:2710/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -362,7 +350,15 @@ http://servandroidkino.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
+http://highteahop.top:6960/announce
+
+http://finbytes.org:80/announce.php
+
 http://buny.uk:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+http://bt.poletracker.org:2710/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -374,15 +370,17 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr.zukizuki.org:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -1538,8 +1536,6 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -2231,6 +2227,8 @@ udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
@@ -3365,6 +3363,8 @@ udp://83.31.208.224:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://tracker.moxing.party:6969/announce
 

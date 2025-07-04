@@ -336,9 +336,9 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -370,9 +370,9 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.kmzs123.top:17272/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+udp://tracker.kmzs123.top:17272/announce
 
 http://tracker.skyts.net:6969/announce
 

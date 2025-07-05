@@ -340,7 +340,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -349,8 +355,6 @@ http://www.torrentsnipe.info:2701/announce
 http://tracker810.xyz:11450/announce
 
 http://tracker.bt-hash.com:80/announce
-
-http://tracker.23794.top:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -368,6 +372,8 @@ http://0d.kebhana.mx:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker.23794.top:6969/announce
+
 udp://tracker.kmzs123.top:17272/announce
 
 http://tracker.skyts.net:6969/announce
@@ -377,8 +383,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
-
-udp://tracker.qu.ax:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
@@ -3291,10 +3295,6 @@ udp://83.31.208.224:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
 

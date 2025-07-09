@@ -690,9 +690,9 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-udp://t.overflow.biz:6969/announce
-
 http://0123456789nonexistent.com:80/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -704,9 +704,9 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-https://tracker.aburaya.live:443/announce
-
 https://threads.canofsocks.com:443/announce
+
+https://tracker.aburaya.live:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -728,9 +728,9 @@ udp://tracker.darkness.services:6969/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.23794.top:6969/announce
 
@@ -778,9 +778,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 udp://tracker.hifimarket.in:2710/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
@@ -1319,9 +1319,11 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
+http://0123456789nonexistent.com:80/announce
+
 udp://t.overflow.biz:6969/announce
 
-http://0123456789nonexistent.com:80/announce
+http://torrent.hificode.in:6969/announce
 
 
 http://0123456789nonexistent.com:80/announce

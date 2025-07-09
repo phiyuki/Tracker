@@ -350,13 +350,7 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -384,11 +378,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-https://tracker.guguan.us.kg:443/announce
+udp://tracker1.myporn.club:9337/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
+https://tracker.guguan.us.kg:443/announce
+
 https://tracker.uraniumhexafluori.de:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -591,8 +589,6 @@ udp://tracker.mirrorbay.org:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 
 http://00.alarmasqueretaro.com:443/announce
-
-udp://tracker.hentai.gg:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -2991,6 +2987,8 @@ udp://tracker.6.babico.name.tr:6969/announce
 udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
+
+udp://tracker.hentai.gg:6969/announce
 
 udp://tracker.kali.org:6969/announce
 

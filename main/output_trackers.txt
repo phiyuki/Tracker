@@ -332,37 +332,31 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://explodie.org:6969/announce
-
-http://www.torrentsnipe.info:2701/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-http://tracker.moxing.party:6969/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://servandroidkino.ru:80/announce
-
-http://seeders-paradise.org:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
+http://www.torrentsnipe.info:2701/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker.moxing.party:6969/announce
+
+http://tracker.lintk.me:2710/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
+http://servandroidkino.ru:80/announce
+
+http://seeders-paradise.org:80/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+https://tracker.cutie.dating:443/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -383,6 +377,8 @@ http://tracker.skyts.net:6969/announce
 https://tracker.moeking.me:443/announce
 
 http://tracker.lyretain.site:2710/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
@@ -1528,6 +1524,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -2235,6 +2233,8 @@ udp://185.44.82.25:1337/announce
 http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://http://www.peckservers.com:9000/announce
 

@@ -366,9 +366,9 @@ https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
 udp://tr3.ysagin.top:2715/announce
+
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -384,9 +384,9 @@ http://tracker.lyretain.site:2710/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
@@ -2814,8 +2814,6 @@ http://xtremewrestlingtorrents.net:80/announce
 
 http://yolo.liberbear.com:80/announce
 
-https://00.alarmasqueretaro.com:443/announce
-
 https://00.mercax.com:443/announce
 
 https://00.xxtor.com:443/announce
@@ -2912,11 +2910,7 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2929,10 +2923,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3004,6 +2994,8 @@ udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3027,6 +3019,80 @@ udp://www.tvnihon.com:6969/announce
 ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
+
+<!DOCTYPE html>
+
+<html lang="">
+
+<head>
+
+<title>GitHub Proxy 最新地址发布</title>
+
+<!-- <title>vue</title> -->
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<link rel="icon" href="/favicon.ico">
+
+<!-- Twitter Cards -->
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:site" content="@stilleshan" />
+
+<meta name="twitter:creator" content="@stilleshan" />
+
+<meta property="og:url" content="https://ghp.ci" />
+
+<meta property="og:title" content="GitHub Proxy 代理加速" />
+
+<meta property="og:description"
+
+content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
+
+<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
+
+<!-- Google tag (gtag.js) -->
+
+<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
+
+<script>
+
+window.dataLayer = window.dataLayer || [];
+
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+gtag('config', 'G-YR9B2BS8D8');
+
+</script> -->
+
+<!-- Umami Analytics -->
+
+<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
+
+<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
+
+<body>
+
+<noscript>
+
+<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+
+</noscript>
+
+<div id="app"></div>
+
+<!-- built files will be auto injected -->
+
+</body>
+
+</html>
 
 http://open.nyaatorrents.info:6544/announce
 
@@ -3216,6 +3282,8 @@ http://opentracker.skank.i2p/a
 
 http://tracker.eeptorrent.i2p/a
 
+https://00.alarmasqueretaro.com:443/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://107.189.2.131:1337/announce
@@ -3283,4 +3351,12 @@ udp://83.31.187.170:6969/announce
 udp://89.234.156.205:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 

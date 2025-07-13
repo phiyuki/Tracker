@@ -364,9 +364,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 http://tracker.skyts.net:6969/announce
 

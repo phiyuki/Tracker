@@ -358,6 +358,8 @@ http://t.overflow.biz:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://tracker.home.kmzs123.cn:17272/announce
+
 https://tracker.bjut.jp:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
@@ -394,9 +396,9 @@ https://tracker.guguan.us.kg:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 

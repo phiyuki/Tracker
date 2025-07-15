@@ -318,16 +318,6 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://leet-tracker.moe:1337/announce
-
-http://tracker.bittor.pw:1337/announce
-
-udp://tracker.dump.cl:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker.lintk.me:2710/announce
@@ -335,6 +325,8 @@ http://tracker.lintk.me:2710/announce
 http://tracker.dler.org:6969/announce
 
 http://tracker.bt-hash.com:80/announce
+
+http://tracker.bittor.pw:1337/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -378,31 +370,31 @@ udp://admin.52ywp.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-udp://tracker.darkness.services:6969/announce
-
 http://asiatorrent.ddns.net:51413/announce
+
+udp://tracker.darkness.services:6969/announce
 
 https://tracker.moeking.me:443/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-https://ttracker.just-h.party:443/announce
-
 http://tracker.lyretain.site:2710/announce
+
+https://ttracker.just-h.party:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -1205,6 +1197,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -2231,6 +2225,8 @@ udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
 
@@ -3357,4 +3353,8 @@ udp://91.216.110.53:451/announce
 udp://94.23.207.177:6969/announce
 
 udp://bt1.xxxxbt.cc:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://tracker.dump.cl:6969/announce
 

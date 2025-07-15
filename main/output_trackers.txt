@@ -358,15 +358,13 @@ https://tracker.bjut.jp:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tracker.cutie.dating:443/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
@@ -375,6 +373,8 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://admin.52ywp.com:6969/announce
+
+http://asiatorrent.ddns.net:51413/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -2918,8 +2918,6 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -3031,8 +3029,6 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
-
-ws://tracker.files.fm:7072/announce
 
 wss://tracker.magnetoo.io:443/announce
 
@@ -3285,4 +3281,6 @@ udp://83.31.187.170:6969/announce
 udp://91.216.110.53:451/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
 

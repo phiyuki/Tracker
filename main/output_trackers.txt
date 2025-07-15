@@ -394,11 +394,11 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 http://tracker.gbitt.info:80/announce
 

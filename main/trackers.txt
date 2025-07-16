@@ -626,15 +626,15 @@ udp://tracker.skillindia.site:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.aburaya.live:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://open.trackerlist.xyz:80/announce
 
-https://tracker.bjut.jp:443/announce
-
 http://shubt.net:2710/announce
+
+https://tracker.bjut.jp:443/announce
 
 udp://tracker.valete.tf:9999/announce
 
@@ -668,17 +668,17 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+udp://open.dstud.io:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-udp://open.dstud.io:6969/announce
+udp://p2p.publictracker.xyz:6969/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -702,15 +702,15 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
 https://tracker.itscraftsoftware.my.id:443/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.darkness.services:6969/announce
+http://asiatorrent.ddns.net:51413/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -1255,15 +1255,15 @@ udp://tracker.skillindia.site:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.aburaya.live:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://open.trackerlist.xyz:80/announce
 
-https://tracker.bjut.jp:443/announce
-
 http://shubt.net:2710/announce
+
+https://tracker.bjut.jp:443/announce
 
 udp://tracker.valete.tf:9999/announce
 

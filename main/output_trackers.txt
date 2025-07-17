@@ -356,13 +356,13 @@ https://tracker.cutie.dating:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-udp://p2p.publictracker.xyz:6969/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://p2p.publictracker.xyz:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
@@ -400,9 +400,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://tracker.gbitt.info:80/announce
 

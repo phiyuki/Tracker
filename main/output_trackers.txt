@@ -324,11 +324,9 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://explodie.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
-
-udp://explodie.org:6969/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -383,6 +381,8 @@ http://tracker.skyts.net:6969/announce
 https://tracker.moeking.me:443/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 

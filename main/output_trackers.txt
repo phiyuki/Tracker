@@ -318,10 +318,6 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
@@ -364,17 +360,17 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tracker.cutie.dating:443/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://threads.canofsocks.com:443/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://admin.52ywp.com:6969/announce
+https://tracker.cutie.dating:443/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://admin.52ywp.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -1201,6 +1197,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 

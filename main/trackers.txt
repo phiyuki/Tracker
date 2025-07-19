@@ -598,6 +598,8 @@ https://tracker.jdx3.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://open.stealth.si:80/announce
@@ -607,8 +609,6 @@ udp://open.demonii.com:1337/announce
 udp://tracker.fnix.net:6969/announce
 
 http://ipv6.rer.lol:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -632,17 +632,17 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
@@ -650,9 +650,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
-
 http://0123456789nonexistent.com:80/announce
+
+http://shubt.net:2710/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -670,15 +670,15 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-udp://opentracker.io:6969/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://opentracker.io:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -718,15 +718,15 @@ udp://tracker.rescuecrew7.com:1337/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://wepzone.net:6969/announce
-
 udp://admin.52ywp.com:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://asiatorrent.ddns.net:51413/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -738,17 +738,17 @@ udp://exodus.desync.com:6969/announce
 
 https://1337.abcvg.info:443/announce
 
-udp://tracker.darkness.services:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.darkness.services:6969/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tracker.lyretain.site:2710/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -764,11 +764,13 @@ https://tr.zukizuki.org:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 http://tracker.gbitt.info:80/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -905,8 +907,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 
 udp://freedomalternative.com:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -1225,6 +1225,8 @@ https://tracker.jdx3.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 udp://tracker.kmzs123.cn:17272/announce
 
 udp://open.stealth.si:80/announce
@@ -1234,8 +1236,6 @@ udp://open.demonii.com:1337/announce
 udp://tracker.fnix.net:6969/announce
 
 http://ipv6.rer.lol:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -1259,17 +1259,17 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
@@ -1277,9 +1277,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://shubt.net:2710/announce
-
 http://0123456789nonexistent.com:80/announce
+
+http://shubt.net:2710/announce
 
 http://torrent.hificode.in:6969/announce
 

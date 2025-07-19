@@ -396,11 +396,13 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 http://tracker.gbitt.info:80/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -535,8 +537,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 
 udp://freedomalternative.com:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 

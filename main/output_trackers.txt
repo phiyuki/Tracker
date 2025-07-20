@@ -390,21 +390,23 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 https://ttracker.just-h.party:443/announce
 
 https://tracker.guguan.us.kg:443/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://tracker.gbitt.info:80/announce
+
+https://torrent.tracker.durukanbal.com:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -651,8 +653,6 @@ https://t.peer-exchange.download:443/announce
 udp://tracker-cn.zhuqiy.eu.org:6969/announce
 
 https://torrent.opiums.eu:443/announce
-
-https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 

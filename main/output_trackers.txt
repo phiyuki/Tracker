@@ -360,6 +360,8 @@ http://0d.kebhana.mx:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://asiatorrent.giize.com:51413/announce
+
 https://t.213891.xyz:443/announce
 
 udp://tr3.ysagin.top:2715/announce
@@ -380,9 +382,9 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://threads.canofsocks.com:443/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 udp://admin.52ywp.com:6969/announce
 

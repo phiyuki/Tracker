@@ -362,6 +362,10 @@ http://tracker1.itzmx.com:8080/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
+udp://tracker.home.kmzs123.cn:17272/announce
+
+https://tracker.cangku.moe:443/announce
+
 https://tracker.bjut.jp:443/announce
 
 https://tracker.linvk.com:443/announce
@@ -370,9 +374,9 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 http://tracker.23794.top:6969/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -380,11 +384,11 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
+https://threads.canofsocks.com:443/announce
+
 https://t.213891.xyz:443/announce
 
 http://asiatorrent.giize.com:51413/announce
-
-https://threads.canofsocks.com:443/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
@@ -398,9 +402,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.darkness.services:6969/announce
 
@@ -1997,8 +2001,6 @@ http://tracker.yoshi210.com:6969/announce
 https://tracker.cangku.moe/announce
 
 http://tracker.computel.fr/announce
-
-https://tracker.cangku.moe:443/announce
 
 http://tracker.computel.fr:80/announce
 

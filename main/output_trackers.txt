@@ -366,9 +366,9 @@ http://tracker.internetwarriors.net:1337/announce
 
 https://tracker.bjut.jp:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://tracker.linvk.com:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -392,9 +392,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://asiatorrent.giize.com:51413/announce
 
 udp://p2p.publictracker.xyz:6969/announce
 

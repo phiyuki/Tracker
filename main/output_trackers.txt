@@ -392,9 +392,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://tracker.lyretain.site:2710/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
@@ -410,11 +410,11 @@ http://cn.pcfreetime.com:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
+http://lucke.fenesisu.moe:6969/announce
+
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://lucke.fenesisu.moe:6969/announce
 
 http://open.acgtracker.com:1096/announce
 

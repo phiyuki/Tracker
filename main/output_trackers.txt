@@ -382,9 +382,9 @@ https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 https://tracker.linvk.com:443/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
@@ -428,8 +428,6 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://open.acgtracker.com:1096/announce
@@ -471,6 +469,8 @@ udp://tracker.publictracker.xyz:6969/announce
 udp://z.mercax.com:53/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://free.publictracker.xyz:6969/announce
 

@@ -356,19 +356,13 @@ http://open.tracker.cl:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.qu.ax:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://glotorrents.pw:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.bz:80/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -390,9 +384,9 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 udp://admin.52ywp.com:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -412,6 +406,8 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker.skyts.net:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 http://tracker.tricitytorrents.com:2710/announce
 
 http://tracker.lyretain.site:2710/announce
@@ -424,15 +420,13 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://region.nl1.privex.cc:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-https://tracker.moeking.me:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -757,6 +751,8 @@ udp://tracker4.leechshield.link:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tk4.leechshield.link:6969/announce
+
+https://tracker.moeking.me:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -1115,6 +1111,8 @@ http://tracker.gcvchp.com:2710/announce
 udp://bt.oiyo.tk:6969/announce
 
 http://open.trackerlist.xyz/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.acgnx.se:80/announce
 
@@ -2936,6 +2934,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -3015,8 +3015,6 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3399,4 +3397,8 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://glotorrents.pw:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 

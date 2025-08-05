@@ -640,8 +640,6 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -651,6 +649,8 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker.netmap.top:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+https://tr.nyacat.pw:443/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -684,11 +684,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 http://0123456789nonexistent.com:80/announce
 
 http://shubt.net:2710/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -706,17 +706,17 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 https://tracker.leechshield.link:443/announce
-
-udp://tracker.kmzs123.cn:17272/announce
-
-https://tracker.cutie.dating:443/announce
 
 udp://bt.ktrackers.com:6666/announce
 
 udp://bt.rer.lol:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tracker.kmzs123.cn:17272/announce
+
+https://tracker.cutie.dating:443/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -726,15 +726,15 @@ udp://tracker.iperson.xyz:6969/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 udp://t.overflow.biz:6969/announce
 
-https://tr.zukizuki.org:443/announce
+https://tracker.linvk.com:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
-
-https://tracker.linvk.com:443/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -748,6 +748,8 @@ http://ns3109441.mypdns.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.bontal.net:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -758,9 +760,9 @@ http://open.tracker.cl:1337/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 
-udp://explodie.org:6969/announce
-
 http://asiatorrent.giize.com:51413/announce
+
+udp://explodie.org:6969/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
@@ -768,17 +770,17 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
+https://1337.abcvg.info:443/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://threads.canofsocks.com:443/announce
 
-https://1337.abcvg.info:443/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 https://shahidrazi.online:443/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -790,11 +792,9 @@ http://tracker.tricitytorrents.com:2710/announce
 
 udp://v74853.hosted-by-vdsina.com:6969/announce
 
-udp://tracker.bontal.net:6969/announce
+http://tracker.lyretain.site:2710/announce
 
 udp://exodus.desync.com:6969/announce
-
-http://tracker.lyretain.site:2710/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -1271,8 +1271,6 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-https://tr.nyacat.pw:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -1282,6 +1280,8 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker.netmap.top:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+https://tr.nyacat.pw:443/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -1315,11 +1315,11 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 http://0123456789nonexistent.com:80/announce
 
 http://shubt.net:2710/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.tryhackx.org:6969/announce
 

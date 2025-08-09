@@ -380,13 +380,13 @@ udp://bt.ktrackers.com:6666/announce
 
 https://tracker.linvk.com:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://tracker.bjut.jp:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
 https://opentracker.8880085.xyz:443/announce
+
+https://t.213891.xyz:443/announce
 
 udp://tracker.bontal.net:6969/announce
 
@@ -398,11 +398,11 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
+http://tracker.zhuqiy.dgj055.icu:80/announce
+
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://tracker.itscraftsoftware.my.id:443/announce
 

@@ -366,9 +366,9 @@ udp://tracker.tryhackx.org:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://tracker.yume-hatsuyuki.moe:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 https://tracker.linvk.com:443/announce
 
@@ -400,13 +400,13 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tracker.cangku.moe:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
@@ -414,9 +414,9 @@ https://t.213891.xyz:443/announce
 
 http://tracker.lyretain.site:2710/announce
 
-udp://trl-zhuqiy.dgj055.icu:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 

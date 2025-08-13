@@ -394,9 +394,9 @@ http://tracker.skyts.net:6969/announce
 
 udp://tracker.bontal.net:6969/announce
 
-udp://vps-dd0a0715.vps.ovh.net:6969/announce
-
 https://threads.canofsocks.com:443/announce
+
+udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
@@ -414,9 +414,9 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://tracker.tricitytorrents.com:2710/announce
-
 http://tracker.lyretain.site:2710/announce
+
+http://tracker.tricitytorrents.com:2710/announce
 
 https://t.213891.xyz:443/announce
 

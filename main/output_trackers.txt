@@ -398,9 +398,9 @@ udp://tracker.bontal.net:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -414,9 +414,9 @@ http://tracker.lyretain.site:2710/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 https://t.213891.xyz:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 

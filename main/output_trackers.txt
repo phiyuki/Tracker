@@ -376,9 +376,9 @@ http://tracker.netmap.top:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 https://shahidrazi.online:443/announce
+
+udp://tracker.iperson.xyz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -386,13 +386,13 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
-https://pybittrack.retiolus.net:443/announce
+udp://ibksturm.synology.me:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
 

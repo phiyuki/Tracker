@@ -348,11 +348,19 @@ http://tracker.opentrackr.org:1337/announce
 
 http://open.tracker.cl:1337/announce
 
+udp://explodie.org:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.bittor.pw:1337/announce
+
+http://t.overflow.biz:6969/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -385,8 +393,6 @@ udp://bt.ktrackers.com:6666/announce
 http://tracker.internetwarriors.net:1337/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-udp://explodie.org:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -422,9 +428,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://tracker.lyretain.site:2710/announce
 
-https://t.213891.xyz:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://t.213891.xyz:443/announce
 
 udp://open.demonii.si:80/announce
 
@@ -1028,8 +1034,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 https://t.quic.ws/announce
 
-http://tracker.dler.org:6969/announce
-
 http://fxtt.ru/announce
 
 https://tr.bangumi.moe:9696/announce
@@ -1223,8 +1227,6 @@ udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
-
-http://t.overflow.biz:6969/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -1565,8 +1567,6 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 

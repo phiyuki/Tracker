@@ -386,9 +386,9 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 https://pybittrack.retiolus.net:443/announce
 
@@ -412,11 +412,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
+https://tracker.cangku.moe:443/announce
+
 udp://tracker.bontal.net:6969/announce
 
 https://threads.canofsocks.com:443/announce
-
-https://tracker.cangku.moe:443/announce
 
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
@@ -435,6 +435,8 @@ udp://open.demonii.si:80/announce
 http://tracker.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -559,8 +561,6 @@ udp://ipv6.fuuuuuck.com:6969/announce
 https://tracker.ipfsscan.io:443/announce
 
 udp://freedomalternative.com:6969/announce
-
-http://region.nl1.privex.cc:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -2954,6 +2954,8 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2969,6 +2971,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3002,8 +3008,6 @@ udp://smurfsoft.com:6969/announce
 
 udp://speedtest.iperson.xyz:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
@@ -3025,6 +3029,10 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
@@ -3329,4 +3337,6 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://t.jaekr.sh:6969/announce
 

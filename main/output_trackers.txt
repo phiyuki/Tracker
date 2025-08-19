@@ -432,9 +432,9 @@ http://cn.pcfreetime.com:6969/announce
 
 udp://open.demonii.si:80/announce
 
-http://tracker.lyretain.site:2710/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://tracker.lyretain.site:2710/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -3006,8 +3006,6 @@ udp://smurfsoft.com:6969/announce
 
 udp://speedtest.iperson.xyz:6969/announce
 
-udp://t.jaekr.sh:6969/announce
-
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
@@ -3037,8 +3035,6 @@ udp://tracker.netmap.top:6969/announce
 udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3421,4 +3417,8 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://t.jaekr.sh:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 

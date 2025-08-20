@@ -386,9 +386,9 @@ https://tr.zukizuki.org:443/announce
 
 https://tracker.linvk.com:443/announce
 
-https://tracker.bjut.jp:443/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+https://tracker.bjut.jp:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -426,13 +426,11 @@ https://threads.canofsocks.com:443/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://t.213891.xyz:443/announce
-
 udp://open.demonii.si:80/announce
 
-http://cn.pcfreetime.com:6969/announce
+https://t.213891.xyz:443/announce
 
-http://tracker.lyretain.site:2710/announce
+http://cn.pcfreetime.com:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
 
@@ -793,6 +791,8 @@ udp://torrent.i.ng:6969/announce
 https://tracker.guguan.dpdns.org:443/announce
 
 udp://files.project-cataclysm.ru:6969/announce
+
+http://tracker.lyretain.site:2710/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 

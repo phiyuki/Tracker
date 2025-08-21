@@ -362,13 +362,15 @@ http://tracker.23794.top:6969/announce
 
 udp://tracker.kmzs123.cn:17272/announce
 
+https://tracker.alaskantf.com:443/announce
+
 udp://tracker.qu.ax:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
-
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tr3.ysagin.top:2715/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -376,9 +378,9 @@ https://3.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
 
-udp://tracker.breizh.pm:6969/announce
-
 https://1.tracker.eu.org:443/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -386,9 +388,9 @@ https://tracker.linvk.com:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
 udp://tracker.theoks.net:6969/announce
+
+http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
@@ -398,21 +400,21 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://opentracker.8880085.xyz:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://pybittrack.retiolus.net:443/announce
+udp://ibksturm.synology.me:6969/announce
+
+https://opentracker.8880085.xyz:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://tracker.cangku.moe:443/announce
+https://pybittrack.retiolus.net:443/announce
 
 udp://tracker.bontal.net:6969/announce
 
@@ -426,9 +428,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://open.demonii.si:80/announce
 
-https://threads.canofsocks.com:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://threads.canofsocks.com:443/announce
 
 https://t.213891.xyz:443/announce
 

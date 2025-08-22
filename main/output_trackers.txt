@@ -404,15 +404,15 @@ udp://bt.ktrackers.com:6666/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://ibksturm.synology.me:6969/announce
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://opentracker.8880085.xyz:443/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -2752,6 +2752,8 @@ http://open.touki.ru:80/announce
 
 http://proaudiotorrents.org:80/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://share.hkg-fansub.info:80/announce
@@ -2956,6 +2958,8 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2971,6 +2975,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 

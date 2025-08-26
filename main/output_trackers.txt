@@ -380,13 +380,13 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -400,9 +400,9 @@ udp://tracker.bontal.net:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-https://opentracker.8880085.xyz:443/announce
-
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
+
+https://opentracker.8880085.xyz:443/announce
 
 udp://open.demonii.si:80/announce
 
@@ -2966,6 +2966,10 @@ udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
 
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
@@ -3021,6 +3025,10 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 

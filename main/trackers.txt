@@ -588,6 +588,8 @@ http://tracker.renfei.net:8080/announce
 
 https://tracker.expli.top:443/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker.ducks.party:1984/announce
 
 http://ipv4.rer.lol:2710/announce
@@ -618,13 +620,13 @@ https://tracker.moeblog.cn:443/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -666,9 +668,9 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 https://2.tracker.eu.org:443/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -682,15 +684,15 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 https://shahidrazi.online:443/announce
 
-http://speedtest.iperson.xyz:6969/announce
-
 udp://tracker.hifimarket.in:2710/announce
-
-https://1.tracker.eu.org:443/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+https://1.tracker.eu.org:443/announce
+
 udp://udp.tracker.projectk.org:23333/announce
+
+http://speedtest.iperson.xyz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -706,8 +708,6 @@ udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://tr3.ysagin.top:2715/announce
 
-https://tr.nyacat.pw:443/announce
-
 udp://open.dstud.io:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
@@ -718,9 +718,9 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 https://tracker.aburaya.live:443/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -754,9 +754,9 @@ https://tracker.bjut.jp:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-udp://explodie.org:6969/announce
-
 http://open.tracker.cl:1337/announce
+
+udp://explodie.org:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -770,11 +770,11 @@ udp://ibksturm.synology.me:6969/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-http://tracker.zhuqiy.dgj055.icu:80/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
@@ -790,15 +790,15 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
-udp://tracker.bontal.net:6969/announce
-
 udp://open.demonii.si:80/announce
+
+udp://tracker.bontal.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://opentracker.8880085.xyz:443/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+https://opentracker.8880085.xyz:443/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -1233,6 +1233,8 @@ http://tracker.renfei.net:8080/announce
 
 https://tracker.expli.top:443/announce
 
+https://tr.nyacat.pw:443/announce
+
 udp://tracker.ducks.party:1984/announce
 
 http://ipv4.rer.lol:2710/announce
@@ -1263,13 +1265,13 @@ https://tracker.moeblog.cn:443/announce
 
 udp://tracker.valete.tf:9999/announce
 
+udp://retracker01-msk-virt.corbina.net:80/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -1311,9 +1313,9 @@ udp://tracker.bitcoinindia.space:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
-
 https://2.tracker.eu.org:443/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 

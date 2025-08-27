@@ -658,9 +658,9 @@ udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker.bitcoinindia.space:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -684,9 +684,9 @@ udp://tracker.hifimarket.in:2710/announce
 
 https://1.tracker.eu.org:443/announce
 
-udp://udp.tracker.projectk.org:23333/announce
-
 http://speedtest.iperson.xyz:6969/announce
+
+udp://udp.tracker.projectk.org:23333/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -762,11 +762,11 @@ http://asiatorrent.giize.com:51413/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -795,8 +795,6 @@ https://t1.hloli.org:443/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://tracker.bontal.net:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -1194,6 +1192,8 @@ http://tracker.tricitytorrents.com:2710/announce
 
 https://opentracker.8880085.xyz:443/announce
 
+udp://tracker.bontal.net:6969/announce
+
 https://t.213891.xyz:443/announce
 
 
@@ -1303,9 +1303,9 @@ udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
-
 udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker.bitcoinindia.space:6969/announce
 
 https://2.tracker.eu.org:443/announce
 

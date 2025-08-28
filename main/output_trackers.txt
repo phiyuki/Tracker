@@ -386,9 +386,9 @@ http://asiatorrent.giize.com:51413/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -2948,6 +2948,8 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2965,10 +2967,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3022,15 +3020,9 @@ udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
 
-udp://tracker.moxing.party:6969/announce
-
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
-
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
@@ -3039,6 +3031,8 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3329,4 +3323,14 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://tracker.moxing.party:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 

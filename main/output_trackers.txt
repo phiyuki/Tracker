@@ -386,11 +386,11 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -398,13 +398,13 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://open.demonii.si:80/announce
 
 udp://vps-dd0a0715.vps.ovh.net:6969/announce
 
 https://t1.hloli.org:443/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -415,6 +415,10 @@ udp://utracker.ghostchu-services.top:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+https://mathkangaroo.jp:443/announce
+
+https://api.ipv4online.uk:443/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -705,10 +709,6 @@ http://jvavav.com:80/announce
 http://mc.itscraftsoftware.my.id:8804/announce
 
 udp://d13bttrck.duckdns.org:6969/announce
-
-https://mathkangaroo.jp:443/announce
-
-https://api.ipv4online.uk:443/announce
 
 udp://tracker.1048576.cn:17272/announce
 

@@ -408,9 +408,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
@@ -424,11 +424,11 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
+http://tracker.pcfreetime.com:6969/announce
+
 udp://open.demonii.si:80/announce
 
 https://mathkangaroo.jp:443/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 

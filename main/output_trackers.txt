@@ -382,9 +382,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 https://tracker.linvk.com:443/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -398,9 +398,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 

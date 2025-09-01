@@ -394,9 +394,9 @@ udp://tracker.breizh.pm:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-udp://tracker.home.kmzs123.cn:17272/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+udp://tracker.home.kmzs123.cn:17272/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -412,9 +412,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
@@ -2970,6 +2970,8 @@ udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
 
+udp://ch3oh.ru:6969/announce
+
 udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
@@ -2977,6 +2979,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3035,10 +3041,6 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 
 udp://tracker.nartlof.com.br:6969/announce
-
-udp://tracker.netmap.top:6969/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
@@ -3351,4 +3353,8 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://tracker.netmap.top:6969/announce
+
+udp://tracker.novaopcj.eu.org:6969/announce
 

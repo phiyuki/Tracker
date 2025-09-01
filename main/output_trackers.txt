@@ -344,13 +344,7 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://t.overflow.biz:6969/announce
-
 udp://bandito.byterunner.io:6969/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -362,31 +356,21 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.bz:80/announce
 
-http://tr.kxmp.cf:80/announce
-
-http://t.overflow.biz:6969/announce
-
 http://servandroidkino.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://open.tracker.cl:1337/announce
-
-udp://wepzone.net:6969/announce
-
-udp://tracker.wepzone.net:6969/announce
-
-http://wepzone.net:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker.wepzone.net:6969/announce
 
 http://tracker.netmap.top:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
 http://speedtest.iperson.xyz:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://t.overflow.biz:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -403,6 +387,8 @@ https://tracker.linvk.com:443/announce
 https://tracker.bjut.jp:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
+
+http://open.tracker.cl:1337/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
@@ -434,11 +420,15 @@ https://mathkangaroo.jp:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
+udp://wepzone.net:6969/announce
+
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://region.nl1.privex.cc:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -615,8 +605,6 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.vds.nz:6969/announce
 
 https://tr.qfruiti.com:443/announce
-
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://r.l5.ca:6969/announce
 
@@ -1138,6 +1126,8 @@ udp://bt.oiyo.tk:6969/announce
 
 http://open.trackerlist.xyz/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tracker.acgnx.se:80/announce
 
 http://tracker.corpscorp.online/announce
@@ -1235,6 +1225,8 @@ udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -1713,6 +1705,8 @@ http://parag.rs:6969/announce
 http://datascene.net:80/announce.php
 
 http://51.68.122.172:80/announce
+
+http://wepzone.net:6969/announce
 
 http://carbon-bonsai-621.appspot.com/announce
 
@@ -3346,6 +3340,10 @@ http://opentracker.simp.i2p/a
 
 http://opentracker.skank.i2p/a
 
+http://tracker.wepzone.net:6969/announce
+
+https://tracker.gcrenwp.top:443/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://107.189.2.131:1337/announce
@@ -3431,4 +3429,6 @@ udp://94.23.207.177:6969/announce
 udp://tracker.netmap.top:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
+
+udp://tracker.wepzone.net:6969/announce
 

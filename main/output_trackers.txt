@@ -392,9 +392,9 @@ http://speedtest.iperson.xyz:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -406,9 +406,9 @@ https://tracker.bjut.jp:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://open.tracker.cl:1337/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+http://open.tracker.cl:1337/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 

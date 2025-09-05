@@ -356,15 +356,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://hificode.in:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -390,8 +388,6 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.linvk.com:443/announce
@@ -412,17 +408,17 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.internetwarriors.net:1337/announce
 
 http://open.tracker.cl:1337/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://trl-zhuqiy.dgj055.icu:6969/announce
-
 udp://open.demonii.si:80/announce
+
+udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -1037,6 +1033,8 @@ udp://tracker.army:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 
 https://t.quic.ws/announce
+
+http://tracker.dler.org:6969/announce
 
 http://fxtt.ru/announce
 

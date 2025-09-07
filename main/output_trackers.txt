@@ -370,11 +370,7 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -398,15 +394,17 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.linvk.com:443/announce
 
-https://tr-zhuqiy-1.dgj055.icu:443/announce
+udp://tracker.theoks.net:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tracker.bjut.jp:443/announce
+http://ns3109441.mypdns.org:6969/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
+
+https://tracker.bjut.jp:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -459,8 +457,6 @@ udp://bt2.archive.org:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-udp://tracker.teambelgium.net:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -2752,8 +2748,6 @@ http://open.stealth.si:80/announce
 
 http://open.touki.ru:80/announce
 
-http://passpulse.net:8000/announce
-
 http://proaudiotorrents.org:80/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
@@ -3004,15 +2998,11 @@ udp://open.stealth.si:6969/announce
 
 udp://parag.rs:6969/announce
 
-udp://passpulse.net:8000/announce
-
 udp://region.nl1.privex.cc:6969/announce
 
 udp://reisub.nsupdate.info:6969/announce
 
 udp://rfc5746.mywaifu.best:6969/announce
-
-udp://saltwood.top:6969/announce
 
 udp://shogiroom.com:6969/announce
 
@@ -3025,6 +3015,8 @@ udp://t.jaekr.sh:6969/announce
 udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 
 udp://torrent.ubuntu.com:6969/announce
 
@@ -3047,6 +3039,8 @@ udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
@@ -3075,8 +3069,6 @@ udp://widemus.de:6969/announce
 udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
-
-ws://passpulse.net:8000/announce
 
 ws://tracker.files.fm:7072/announce
 
@@ -3360,6 +3352,8 @@ http://opentracker.simp.i2p/a
 
 http://opentracker.skank.i2p/a
 
+http://passpulse.net:8000/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://107.189.2.131:1337/announce
@@ -3443,4 +3437,10 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://passpulse.net:8000/announce
+
+udp://saltwood.top:6969/announce
 

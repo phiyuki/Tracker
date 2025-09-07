@@ -406,17 +406,17 @@ udp://tracker.theoks.net:6969/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -430,9 +430,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 https://mathkangaroo.jp:443/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 

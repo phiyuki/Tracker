@@ -406,9 +406,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -420,9 +420,9 @@ http://open.tracker.cl:1337/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://open.demonii.si:80/announce
-
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+
+udp://open.demonii.si:80/announce
 
 https://mathkangaroo.jp:443/announce
 

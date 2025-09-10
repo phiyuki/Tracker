@@ -688,8 +688,6 @@ https://tracker.zhuqiy.top:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 http://shubt.net:2710/announce
@@ -697,8 +695,6 @@ http://shubt.net:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.cloudbase.store:1333/announce
-
-https://tracker.alaskantf.com:443/announce
 
 udp://tracker.startwork.cv:1337/announce
 
@@ -708,19 +704,23 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.zupix.online:1333/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.alaskantf.com:443/announce
 
 udp://opentracker.io:6969/announce
 
 https://tr.zukizuki.org:443/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -732,11 +732,11 @@ udp://tracker.hifitechindia.com:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
+https://tracker.leechshield.link:443/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 https://1.tracker.eu.org:443/announce
-
-https://tracker.leechshield.link:443/announce
 
 udp://tracker.gigantino.net:6969/announce
 
@@ -754,11 +754,11 @@ udp://tr3.ysagin.top:2715/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+udp://t.overflow.biz:6969/announce
+
 http://tracker.netmap.top:6969/announce
 
 https://tracker.cutie.dating:443/announce
-
-udp://t.overflow.biz:6969/announce
 
 https://shahidrazi.online:443/announce
 
@@ -782,9 +782,9 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -812,9 +812,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.bjut.jp:443/announce
 
@@ -830,9 +830,9 @@ udp://v74853.hosted-by-vdsina.com:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://open.demonii.si:80/announce
-
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+
+udp://open.demonii.si:80/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -1325,8 +1325,6 @@ https://tracker.zhuqiy.top:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 udp://1c.premierzal.ru:6969/announce
 
 http://shubt.net:2710/announce
@@ -1334,8 +1332,6 @@ http://shubt.net:2710/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 udp://tracker.cloudbase.store:1333/announce
-
-https://tracker.alaskantf.com:443/announce
 
 udp://tracker.startwork.cv:1337/announce
 
@@ -1345,19 +1341,23 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.zupix.online:1333/announce
 
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
+
+https://tracker.alaskantf.com:443/announce
 
 udp://opentracker.io:6969/announce
 
 https://tr.zukizuki.org:443/announce
+
+https://tracker.aburaya.live:443/announce
 
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-https://tracker.aburaya.live:443/announce
 
 https://2.tracker.eu.org:443/announce
 

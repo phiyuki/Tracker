@@ -348,21 +348,31 @@ wss://tracker.openwebtorrent.com:443/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.wepzone.net:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://bandito.byterunner.io:6969/announce
 
 http://wepzone.net:6969/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.wepzone.net:6969/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://public.tracker.vraphim.com:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.tritan.gg:8080/announce
 
-https://tracker.alaskantf.com:443/announce
-
 https://2.tracker.eu.org:443/announce
+
+https://tracker.alaskantf.com:443/announce
 
 https://4.tracker.eu.org:443/announce
 
@@ -383,8 +393,6 @@ udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
-
-http://tr.highstar.shop:80/announce
 
 https://tracker.linvk.com:443/announce
 
@@ -409,6 +417,8 @@ http://tracker.internetwarriors.net:1337/announce
 http://ns3109441.mypdns.org:6969/announce
 
 http://open.tracker.cl:1337/announce
+
+http://tr.highstar.shop:80/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -1385,8 +1395,6 @@ http://34.89.30.59:2710/announce
 http://212.6.3.67/announce
 
 http://185.70.187.79:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 http://185.185.40.95:6969/announce
 
@@ -2740,8 +2748,6 @@ http://open.touki.ru:80/announce
 
 http://proaudiotorrents.org:80/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://retracker01-msk-virt.corbina.net:80/announce
 
 http://share.hkg-fansub.info:80/announce
@@ -2811,10 +2817,6 @@ http://tracker.tambovnet.org:80/announce
 http://tracker.torrentbytes.net:80/announce
 
 http://tracker.trancetraffic.com:80/announce
-
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.wepzone.net:6969/announce
 
 http://tracker1.torrentino.com:80/announce
 
@@ -3033,12 +3035,6 @@ udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 
@@ -3413,4 +3409,8 @@ udp://94.136.190.183:1337/announce
 udp://94.136.190.183:2710/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://tracker.vraphim.com:6969/announce
+
+udp://tracker.vrpnet.org:6969/announce
 

@@ -330,41 +330,33 @@ udp://www.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
-http://tracker810.xyz:11450/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://open.trackerlist.xyz:80/announce
-
-http://buny.uk:6969/announce
-
-http://0d.kebhana.mx:443/announce
-
-udp://tracker.gigantino.net:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-http://tracker.bt-hash.com:80/announce
+http://tracker810.xyz:11450/announce
 
 http://tr.kxmp.cf:80/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
-http://home.yxgz.club:6969/announce
+http://open.trackerlist.xyz:80/announce
+
+http://buny.uk:6969/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.valete.tf:9999/announce
+http://tracker.lintk.me:2710/announce
+
+http://tracker.bt-hash.com:80/announce
+
+http://home.yxgz.club:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 https://tracker.alaskantf.com:443/announce
 
@@ -384,9 +376,9 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
@@ -404,11 +396,11 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-http://open.tracker.cl:1337/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://open.tracker.cl:1337/announce
 
 udp://open.demonii.si:80/announce
 
@@ -1558,6 +1550,8 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -2257,6 +2251,8 @@ udp://89.36.216.8:6969/announce
 http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://thinking.duckdns.org:6969/announce
 
@@ -3238,6 +3234,8 @@ http://opentracker.simp.i2p/a
 
 http://opentracker.skank.i2p/a
 
+http://tracker.valete.tf:9999/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://107.189.2.131:1337/announce
@@ -3321,6 +3319,8 @@ udp://fosstorrents.com:6969/announce
 udp://home.yxgz.club:6969/announce
 
 udp://hzzwly.gq:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://tracker.xiaoduola.xyz:6969/announce
 

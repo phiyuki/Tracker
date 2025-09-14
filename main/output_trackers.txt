@@ -372,9 +372,9 @@ http://tracker.netmap.top:6969/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://k.avc.cx:443/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+https://k.avc.cx:443/announce
 
 http://speedtest.iperson.xyz:6969/announce
 
@@ -412,9 +412,9 @@ https://mathkangaroo.jp:443/announce
 
 https://api.ipv4online.uk:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 http://tr.highstar.shop:80/announce
 

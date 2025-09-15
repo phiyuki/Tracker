@@ -388,11 +388,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://k.avc.cx:443/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 udp://tracker.theoks.net:6969/announce
+
+https://k.avc.cx:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -406,11 +406,11 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://open.tracker.cl:1337/announce
 

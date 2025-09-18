@@ -316,13 +316,7 @@ udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://hificode.in:6969/announce
-
-udp://glotorrents.pw:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -360,10 +354,6 @@ http://bt.poletracker.org:2710/announce
 
 http://0123456789nonexistent.com:80/announce
 
-udp://tracker.gigantino.net:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.tritan.gg:8080/announce
@@ -374,9 +364,11 @@ https://tracker.expli.top:443/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://shahidrazi.online:443/announce
+udp://tracker.gigantino.net:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
+https://shahidrazi.online:443/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -386,9 +378,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -416,9 +408,9 @@ udp://open.demonii.si:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://open.tracker.cl:1337/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 https://mathkangaroo.jp:443/announce
 
@@ -2954,6 +2946,8 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
+udp://bt1.xxxxbt.cc:6969/announce
+
 udp://bttracker.debian.org:6969/announce
 
 udp://buny.uk:6969/announce
@@ -2971,10 +2965,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3012,8 +3002,6 @@ udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -3045,6 +3033,8 @@ udp://tracker.vrpnet.org:6969/announce
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
+
+udp://tracker.yoshi210.com:6969/announce
 
 udp://ulfbrueggemann.no-ip.org:6969/announce
 
@@ -3317,4 +3307,18 @@ udp://94.136.190.183:1337/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
+
+udp://glotorrents.pw:6969/announce
+
+udp://hificode.in:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://torrent.hificode.in:6969/announce
 

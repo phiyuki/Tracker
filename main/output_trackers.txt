@@ -408,9 +408,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://ns3109441.mypdns.org:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 https://shahidrazi.online:443/announce
 
@@ -3034,8 +3034,6 @@ udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
-udp://tracker.xiaoduola.xyz:6969/announce
-
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3323,4 +3321,6 @@ udp://94.136.190.183:1337/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 

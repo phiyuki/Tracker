@@ -658,6 +658,8 @@ udp://tracker.ducks.party:1984/announce
 
 http://ipv4.rer.lol:2710/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -665,8 +667,6 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.srv00.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -696,11 +696,11 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://yuki.bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -762,13 +762,13 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 https://t1.hloli.org:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tnl.one:8000/announce
 
@@ -1297,6 +1297,8 @@ udp://tracker.ducks.party:1984/announce
 
 http://ipv4.rer.lol:2710/announce
 
+udp://bandito.byterunner.io:6969/announce
+
 udp://tracker.rescuecrew7.com:1337/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -1304,8 +1306,6 @@ udp://tracker-de-2.cutie.dating:1337/announce
 udp://tracker.srv00.com:6969/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
-
-udp://bandito.byterunner.io:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -1335,11 +1335,11 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://yuki.bt.bontal.net:6969/announce
 
 http://tracker.bt4g.com:2095/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
 
@@ -4864,48 +4864,6 @@ wss://tracker.files.fm:7073/announce
 wss://tracker.ghostchu-services.top:443/announce
 wss://tracker.magnetoo.io:443/announce
 wss://tracker.openwebtorrent.com:443/announce
-
-<!DOCTYPE html>
-<html lang="">
-  <head>
-    <title>GitHub Proxy 最新地址发布</title>
-    <!-- <title>vue</title> -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="/favicon.ico">
-    <!-- Twitter Cards -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@stilleshan" />
-    <meta name="twitter:creator" content="@stilleshan" />
-    <meta property="og:url" content="https://ghp.ci" />
-    <meta property="og:title" content="GitHub Proxy 代理加速" />
-    <meta property="og:description"
-      content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-    <meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-	  <!-- Twitter Cards -->
-    
-    <!-- Google tag (gtag.js) -->
-    <!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-YR9B2BS8D8');
-    </script> -->
-
-    <!-- Umami Analytics -->
-    <script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-  <script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-  <body>
-    <noscript>
-      <strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-  </body>
-</html>
 
 http://nyaa.tracker.wf:7777/announce
 

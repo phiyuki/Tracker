@@ -388,9 +388,9 @@ udp://bt.bontal.net:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-http://tracker.privateseedbox.xyz:2710/announce
-
 udp://admin.52ywp.com:6969/announce
+
+http://tracker.privateseedbox.xyz:2710/announce
 
 https://t1.hloli.org:443/announce
 
@@ -426,9 +426,9 @@ https://k.avc.cx:443/announce
 
 https://tracker.bjut.jp:443/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
-
 udp://open.demonii.si:80/announce
+
+http://wegkxfcivgx.ydns.eu:80/announce
 
 http://tracker.netmap.top:6969/announce
 
@@ -438,9 +438,9 @@ http://speedtest.iperson.xyz:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -2948,8 +2948,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2963,6 +2961,10 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3055,80 +3057,6 @@ ws://tracker.ghostchu-services.top:80/announce
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
-
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
 
 http://open.nyaatorrents.info:6544/announce
 
@@ -3385,4 +3313,6 @@ udp://94.136.190.183:1337/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://buny.uk:6969/announce
 

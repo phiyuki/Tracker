@@ -3004,8 +3004,6 @@ udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -3034,6 +3032,8 @@ udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
+udp://tracker.xiaoduola.xyz:6969/announce
+
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3047,8 +3047,6 @@ udp://unknownsite.de:6969/announce
 udp://wg.mortis.me:6969/announce
 
 udp://widemus.de:6969/announce
-
-udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
 
@@ -3319,4 +3317,8 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://torrent.hificode.in:6969/announce
+
+udp://www.nartlof.com.br:6969/announce
 

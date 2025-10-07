@@ -3010,6 +3010,8 @@ udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
+udp://torrent.hificode.in:6969/announce
+
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -3053,6 +3055,8 @@ udp://unknownsite.de:6969/announce
 udp://wg.mortis.me:6969/announce
 
 udp://widemus.de:6969/announce
+
+udp://www.nartlof.com.br:6969/announce
 
 udp://www.tvnihon.com:6969/announce
 

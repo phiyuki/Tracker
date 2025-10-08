@@ -2820,8 +2820,6 @@ http://tracker.torrentbytes.net:80/announce
 
 http://tracker.trancetraffic.com:80/announce
 
-http://tracker.zhuqiy.top:80/announce
-
 http://tracker1.torrentino.com:80/announce
 
 http://tracker2.dler.com:80/announce
@@ -2975,10 +2973,6 @@ udp://debuz.com:6969/announce
 udp://fosstorrents.com:6969/announce
 
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -3334,6 +3328,8 @@ http://opentracker.simp.i2p/a
 
 http://opentracker.skank.i2p/a
 
+http://tracker.zhuqiy.top:80/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://107.189.2.131:1337/announce
@@ -3405,6 +3401,10 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 

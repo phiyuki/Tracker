@@ -442,11 +442,11 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tracker.expli.top:443/announce
+http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.demonii.si:80/announce
 
-http://wegkxfcivgx.ydns.eu:80/announce
+https://tracker.expli.top:443/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
@@ -2700,8 +2700,6 @@ http://big-boss-tracker.net:80/announce
 
 http://bithq.org:80/announce
 
-http://bjlt.zhuqiy.eu.org:6666/announce
-
 http://blackz.ro:80/announce
 
 http://bluebird-hd.org:80/announce
@@ -2815,8 +2813,6 @@ http://tracker.tambovnet.org:80/announce
 http://tracker.torrentbytes.net:80/announce
 
 http://tracker.trancetraffic.com:80/announce
-
-http://tracker.zhuqiy.eu.org:36107/announce
 
 http://tracker1.torrentino.com:80/announce
 
@@ -2956,8 +2952,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2970,9 +2964,11 @@ udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
-udp://hbsy.zhuqiy.eu.org:6666/announce
-
 udp://home.kray.pw:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -2994,8 +2990,6 @@ udp://open.stealth.si:6969/announce
 
 udp://parag.rs:6969/announce
 
-udp://pirate.t-1.org:1337/announce
-
 udp://region.nl1.privex.cc:6969/announce
 
 udp://reisub.nsupdate.info:6969/announce
@@ -3009,8 +3003,6 @@ udp://speedtest.iperson.xyz:6969/announce
 udp://t.jaekr.sh:6969/announce
 
 udp://taciturn-shadow.spb.ru:6969/announce
-
-udp://tcq.zhuqiy.eu.org:25091/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
@@ -3320,6 +3312,8 @@ http://62.60.157.92:6969/announce
 
 http://82.67.44.197:9999/announce
 
+http://bjlt.zhuqiy.eu.org:6666/announce
+
 http://opentracker.dg2.i2p/a
 
 http://opentracker.eeptorrent.i2p/a
@@ -3331,6 +3325,8 @@ http://opentracker.r4sas.i2p/a
 http://opentracker.simp.i2p/a
 
 http://opentracker.skank.i2p/a
+
+http://tracker.zhuqiy.eu.org:36107/announce
 
 udp://103.251.166.126:6969/announce
 
@@ -3409,4 +3405,12 @@ udp://94.136.190.183:2710/announce
 udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://hbsy.zhuqiy.eu.org:6666/announce
+
+udp://pirate.t-1.org:1337/announce
+
+udp://tcq.zhuqiy.eu.org:25091/announce
 

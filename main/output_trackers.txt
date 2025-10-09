@@ -342,27 +342,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://explodie.org:6969/announce
 
-udp://yuki.bt.bontal.net:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://leet-tracker.moe:1337/announce
-
-udp://bt.bontal.net:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
-https://yuki.bt.bontal.net:443/announce
-
-https://bt.bontal.net:443/announce
-
 http://wepzone.net:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
-http://tracker.lintk.me:2710/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -370,21 +356,19 @@ http://tracker.bittor.pw:1337/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://retracker.spark-rostov.ru:80/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
 http://home.yxgz.club:6969/announce
 
-http://buny.uk:6969/announce
-
 http://bt.poletracker.org:2710/announce
 
-udp://hificode.in:6969/announce
+udp://bt.bontal.net:6969/announce
 
-http://region.nl1.privex.cc:6969/announce
+http://tracker.lintk.me:2710/announce
+
+http://buny.uk:6969/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
@@ -394,7 +378,11 @@ https://4.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 https://1.tracker.eu.org:443/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -426,9 +414,9 @@ udp://ibksturm.synology.me:6969/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+http://asiatorrent.giize.com:51413/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -450,11 +438,13 @@ https://tracker.bjut.jp:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://k.avc.cx:443/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
+https://k.avc.cx:443/announce
+
 udp://tracker1.myporn.club:9337/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -1012,8 +1002,6 @@ udp://torrents.artixlinux.org:6969/announce
 
 https://t.quic.ws/announce
 
-http://tracker.dler.org:6969/announce
-
 http://fxtt.ru/announce
 
 https://tr.bangumi.moe:9696/announce
@@ -1209,6 +1197,8 @@ udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker.tfile.me:80/announce
 

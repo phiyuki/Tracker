@@ -400,9 +400,9 @@ http://lucke.fenesisu.moe:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -444,15 +444,15 @@ https://tracker.guguan.dpdns.org:443/announce
 
 https://k.avc.cx:443/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 http://region.nl1.privex.cc:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-https://tracker.bjut.jp:443/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://cn.pcfreetime.com:6969/announce
+
+https://tracker.bjut.jp:443/announce
 
 http://open.acgtracker.com:1096/announce
 

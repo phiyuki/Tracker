@@ -384,9 +384,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 https://tracker.pmman.tech:443/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -404,9 +404,9 @@ http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-https://tracker.linvk.com:443/announce
-
 https://tracker.cangku.moe:443/announce
+
+https://tracker.linvk.com:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 

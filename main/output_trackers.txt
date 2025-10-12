@@ -362,6 +362,8 @@ http://tracker.corpscorp.online:80/announce
 
 http://t.overflow.biz:6969/announce
 
+http://tracker.chaoz.li:2710/announce
+
 https://2.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
@@ -410,27 +412,29 @@ https://tracker.linvk.com:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://open.demonii.si:80/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://open.demonii.si:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://region.nl1.privex.cc:6969/announce
 
 https://k.avc.cx:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -475,8 +479,6 @@ udp://tracker.ccp.ovh:6969/announce
 http://fosstorrents.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
-
-http://tracker.pcfreetime.com:6969/announce
 
 udp://open.xxtor.com:3074/announce
 

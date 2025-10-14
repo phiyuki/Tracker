@@ -446,13 +446,13 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-https://tr-zhuqiy-2.dgj055.icu:443/announce
-
 https://k.avc.cx:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -511,8 +511,6 @@ udp://tracker.farted.net:6969/announce
 https://tracker1.ctix.cn:443/announce
 
 udp://thouvenin.cloud:6969/announce
-
-udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
@@ -2936,6 +2934,8 @@ udp://147job.com:6969/announce
 
 udp://504e163a.host.njalla.net:6969/announce
 
+udp://aarsen.me:6969/announce
+
 udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
@@ -2943,6 +2943,8 @@ udp://bobbialbano.com:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
+
+udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 

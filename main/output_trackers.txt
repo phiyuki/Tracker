@@ -384,13 +384,13 @@ https://1.tracker.eu.org:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-http://tracker.chaoz.li:2710/announce
-
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
+
+http://tracker.chaoz.li:2710/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
@@ -398,9 +398,9 @@ udp://admin.52ywp.com:6969/announce
 
 udp://tracker.iperson.xyz:6969/announce
 
-https://tracker.pmman.tech:443/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+https://tracker.pmman.tech:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -441,6 +441,8 @@ https://k.avc.cx:443/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+http://open.tracker.cl:1337/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -775,8 +777,6 @@ https://ttracker.just-h.party:443/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.tricitytorrents.com:2710/announce
-
-http://open.tracker.cl:1337/announce
 
 https://opentracker.8880085.xyz:443/announce
 

@@ -388,8 +388,6 @@ http://buny.uk:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://tracker.chaoz.li:2710/announce
-
 https://2.tracker.eu.org:443/announce
 
 https://4.tracker.eu.org:443/announce
@@ -397,6 +395,8 @@ https://4.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce
 
 https://1.tracker.eu.org:443/announce
+
+http://tracker.chaoz.li:2710/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
@@ -434,23 +434,23 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://open.demonii.si:80/announce
 
-https://tracker.linvk.com:443/announce
-
 http://open.acgtracker.com:1096/announce
+
+https://tracker.linvk.com:443/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
-
-https://tr-rh-zhuqiy.dgj055.icu:443/announce
-
-https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://k.avc.cx:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -3058,80 +3058,6 @@ wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
 
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
-
 http://open.nyaatorrents.info:6544/announce
 
 http://t2.popgo.org:7456/annonce
@@ -3262,29 +3188,23 @@ http://tracker.ali213.net00/announce
 
 http://107.189.2.131:1337/announce
 
-http://123.245.62.84:6969/announce
-
 http://138.124.183.78:6969/announce
 
 http://140.235.237.23:6969/announce
 
 http://142.171.85.76:6969/announce
 
-http://167.253.78.20:8080/announce
+http://152.243.213.163:6969/announce
 
-http://189.79.13.107:6969/announce
+http://167.253.78.20:8080/announce
 
 http://193.31.26.113:6969/announce
 
-http://211.75.205.188:80/announce
+http://211.75.205.189:80/announce
 
 http://220.200.35.40:2710/announce
 
-http://34.94.76.146:11450/announce
-
 http://34.94.76.146:1337/announce
-
-http://34.94.76.146:2701/announce
 
 http://34.94.76.146:2710/announce
 
@@ -3294,19 +3214,25 @@ http://34.94.76.146:80/announce
 
 http://34.94.76.146:80/announce.php
 
+http://35.227.59.57:11450/announce
+
+http://35.227.59.57:2701/announce
+
+http://35.227.59.57:2710/announce
+
 http://35.227.59.57:443/announce
 
 http://35.227.59.57:6969/announce
 
 http://35.227.59.57:80/announce
 
+http://44.30.4.4:6969/announce
+
 http://45.13.119.213:6969/announce
 
 http://45.146.254.59:80/announce
 
 http://62.60.157.92:6969/announce
-
-http://82.67.44.197:9999/announce
 
 http://opentracker.dg2.i2p/a
 
@@ -3332,7 +3258,7 @@ udp://135.125.236.64:6969/announce
 
 udp://144.126.245.19:6969/announce
 
-udp://151.243.109.163:6969/announce
+udp://152.243.213.163:6969/announce
 
 udp://152.53.152.105:1984/announce
 
@@ -3352,15 +3278,15 @@ udp://193.233.161.213:6969/announce
 
 udp://194.62.248.73:15480/announce
 
-udp://209.141.59.16:6969/announce
+udp://208.83.20.20:6969/announce
 
 udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
-udp://211.75.205.187:6969/announce
+udp://211.75.205.189:80/announce
 
-udp://211.75.205.188:80/announce
+udp://211.75.210.221:6969/announce
 
 udp://220.200.35.40:6969/announce
 
@@ -3372,9 +3298,9 @@ udp://23.157.120.14:6969/announce
 
 udp://23.175.184.30:23333/announce
 
-udp://34.94.76.146:6969/announce
-
 udp://37.235.176.37:2710/announce
+
+udp://44.30.4.4:6969/announce
 
 udp://45.13.119.213:6969/announce
 
@@ -3385,8 +3311,6 @@ udp://5.255.124.190:6969/announce
 udp://5.45.69.185:6969/announce
 
 udp://54.36.179.216:6969/announce
-
-udp://54.39.48.3:6969/announce
 
 udp://62.60.157.92:6969/announce
 

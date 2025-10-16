@@ -350,6 +350,10 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://explodie.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -376,15 +380,17 @@ http://share.hkg-fansub.info:80/announce.php
 
 http://public.tracker.vraphim.com:6969/announce
 
+http://open.tracker.cl:1337/announce
+
 http://servandroidkino.ru:80/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.tnl.one:8000/announce
 
-https://tracker.zhuqiy.top:443/announce
-
 udp://admin.52ywp.com:6969/announce
+
+https://tracker.zhuqiy.top:443/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -396,11 +402,7 @@ udp://tracker.iperson.xyz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://explodie.org:6969/announce
-
 http://tracker.chaoz.li:2710/announce
-
-udp://tracker.theoks.net:6969/announce
 
 https://tracker.pmman.tech:443/announce
 
@@ -414,27 +416,25 @@ udp://ibksturm.synology.me:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+http://asiatorrent.ddns.net:51413/announce
+
 https://t1.hloli.org:443/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
-
-http://asiatorrent.ddns.net:51413/announce
 
 http://asiatorrent.giize.com:51413/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 https://tracker.cangku.moe:443/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
 http://open.acgtracker.com:1096/announce
 
 udp://open.demonii.si:80/announce
-
-http://open.tracker.cl:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 

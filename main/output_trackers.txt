@@ -420,17 +420,17 @@ http://tracker.chaoz.li:2710/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://asiatorrent.giize.com:51413/announce
+
+https://tracker.cangku.moe:443/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 http://open.tracker.cl:1337/announce
 
@@ -446,13 +446,13 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-https://tracker.linvk.com:443/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 http://tracker.pcfreetime.com:6969/announce
+
+https://tracker.linvk.com:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 

@@ -374,9 +374,9 @@ udp://explodie.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://bt.bontal.net:6969/announce
+udp://ns-1.x-fins.com:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
+udp://bt.bontal.net:6969/announce
 
 https://bt.bontal.net:443/announce
 
@@ -388,19 +388,21 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://home.yxgz.club:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.sbsub.com:2710/announce
 
+http://t.overflow.biz:6969/announce
+
 http://servandroidkino.ru:80/announce
+
+http://home.yxgz.club:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -428,9 +430,9 @@ http://tracker.chaoz.li:2710/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-http://tracker.guguan.000.pe:80/announce
-
 http://tracker.internetwarriors.net:1337/announce
+
+http://tracker.guguan.000.pe:80/announce
 
 http://open.tracker.cl:1337/announce
 
@@ -447,8 +449,6 @@ http://tracker.pcfreetime.com:6969/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-http://open-v6.demonoid.ch:6969/announce
 
 https://tracker.linvk.com:443/announce
 
@@ -505,6 +505,8 @@ http://tracker.k.vu:6969/announce
 udp://tracker.farted.net:6969/announce
 
 https://tracker1.ctix.cn:443/announce
+
+http://open-v6.demonoid.ch:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -1547,8 +1549,6 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
@@ -3031,6 +3031,8 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

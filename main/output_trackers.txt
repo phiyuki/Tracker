@@ -3264,7 +3264,7 @@ http://tracker.ali213.net00/announce
 
 http://107.189.2.131:1337/announce
 
-http://123.245.62.99:6969/announce
+http://123.245.62.100:6969/announce
 
 http://138.124.183.78:6969/announce
 
@@ -3278,8 +3278,6 @@ http://189.18.162.54:6969/announce
 
 http://193.31.26.113:6969/announce
 
-http://211.75.205.189:80/announce
-
 http://220.200.35.40:2710/announce
 
 http://34.94.76.146:11450/announce
@@ -3289,6 +3287,8 @@ http://34.94.76.146:2710/announce
 http://34.94.76.146:6969/announce
 
 http://34.94.76.146:80/announce
+
+http://34.94.76.146:80/announce.php
 
 http://35.227.59.57:1337/announce
 
@@ -3302,13 +3302,13 @@ http://35.227.59.57:6969/announce
 
 http://35.227.59.57:80/announce
 
-http://35.227.59.57:80/announce.php
-
 http://44.30.4.4:6969/announce
 
 http://45.13.119.213:6969/announce
 
 http://45.146.254.59:80/announce
+
+http://60.249.37.20:80/announce
 
 http://62.60.157.92:6969/announce
 
@@ -3338,6 +3338,10 @@ udp://107.189.2.131:1337/announce
 
 udp://111.90.151.241:6969/announce
 
+udp://135.125.236.64:6969/announce
+
+udp://144.126.245.19:6969/announce
+
 udp://151.243.109.110:6969/announce
 
 udp://152.53.152.105:1984/announce
@@ -3345,6 +3349,8 @@ udp://152.53.152.105:1984/announce
 udp://152.53.152.105:54123/announce
 
 udp://176.99.7.59:6969/announce
+
+udp://178.128.94.74:6969/announce
 
 udp://185.189.13.108:6969/announce
 
@@ -3358,21 +3364,19 @@ udp://193.233.161.213:6969/announce
 
 udp://194.62.248.73:15480/announce
 
+udp://208.83.20.20:6969/announce
+
 udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
-udp://211.75.205.188:6969/announce
-
-udp://211.75.205.189:80/announce
+udp://211.75.205.187:6969/announce
 
 udp://220.200.35.40:6969/announce
 
 udp://23.134.88.9:1337/announce
 
 udp://23.134.88.9:6969/announce
-
-udp://23.157.120.14:6969/announce
 
 udp://23.175.184.30:23333/announce
 
@@ -3388,9 +3392,11 @@ udp://5.255.124.190:6969/announce
 
 udp://5.45.69.185:6969/announce
 
-udp://51.222.82.36:6969/announce
-
 udp://54.36.179.216:6969/announce
+
+udp://54.39.48.3:6969/announce
+
+udp://60.249.37.20:80/announce
 
 udp://62.60.157.92:6969/announce
 
@@ -3415,6 +3421,4 @@ udp://94.23.207.177:6969/announce
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
-
-udp://tracker.xiaoduola.xyz:6969/announce
 

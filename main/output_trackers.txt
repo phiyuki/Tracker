@@ -446,9 +446,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 https://tracker.linvk.com:443/announce
 

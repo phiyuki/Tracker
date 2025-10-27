@@ -368,13 +368,13 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
-udp://tracker.valete.tf:9999/announce
-
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://explodie.org:6969/announce
+
 udp://bt.bontal.net:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 https://bt.bontal.net:443/announce
 
@@ -382,19 +382,13 @@ http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://tracker.waaa.moe:6969/announce
-
-http://tracker.valete.tf:9999/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.sbsub.com:2710/announce
 
 http://public.tracker.vraphim.com:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -404,6 +398,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
+udp://tracker.valete.tf:9999/announce
+
 udp://tr3.ysagin.top:2715/announce
 
 https://tr.zukizuki.org:443/announce
@@ -412,9 +408,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 https://tracker.tamersunion.org:443/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 https://tracker.zhuqiy.top:443/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 https://tracker.guguan.us.kg:443/announce
 
@@ -441,6 +437,8 @@ http://tracker.chaoz.li:2710/announce
 https://tracker.guguan.dpdns.org:443/announce
 
 udp://open.demonii.si:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
@@ -3327,6 +3325,8 @@ http://opentracker.skank.i2p:80/a
 http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
 
 http://sigmatracker.i2p:80/a
+
+http://tracker.valete.tf:9999/announce
 
 udp://103.251.166.126:6969/announce
 

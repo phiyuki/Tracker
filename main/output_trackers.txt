@@ -394,9 +394,9 @@ http://open.acgtracker.com:1096/announce
 
 https://tracker.jdx3.org:443/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://echostar.ddnsfree.com:8080/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
@@ -404,9 +404,9 @@ udp://tracker.valete.tf:9999/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-https://tr.zukizuki.org:443/announce
-
 http://t.al.uy:80/announce
+
+https://tr.zukizuki.org:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -436,9 +436,9 @@ http://tracker.guguan.000.pe:80/announce
 
 http://tracker.chaoz.li:2710/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://open.demonii.si:80/announce
 
@@ -2946,8 +2946,6 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
-udp://buny.uk:6969/announce
-
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -3025,8 +3023,6 @@ udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.vraphim.com:6969/announce
 
@@ -3400,7 +3396,11 @@ udp://94.136.190.183:2710/announce
 
 udp://94.23.207.177:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://tracker.vanitycore.co:6969/announce
 

@@ -392,9 +392,9 @@ http://public.tracker.vraphim.com:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
-https://tracker.jdx3.org:443/announce
-
 http://echostar.ddnsfree.com:8080/announce
+
+https://tracker.jdx3.org:443/announce
 
 http://ns3109441.mypdns.org:6969/announce
 

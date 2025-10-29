@@ -372,31 +372,23 @@ udp://yuki.bt.bontal.net:6969/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://hificode.in:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://glotorrents.pw:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 https://bt.bontal.net:443/announce
 
-http://t.overflow.biz:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -422,15 +414,19 @@ https://tracker.tamersunion.org:443/announce
 
 http://open.acgtracker.com:1096/announce
 
+udp://tracker.theoks.net:6969/announce
+
 https://tracker.guguan.us.kg:443/announce
 
 udp://ibksturm.synology.me:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-udp://tracker.tnl.one:8000/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+udp://tracker.tnl.one:8000/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
@@ -448,9 +444,9 @@ http://tracker.chaoz.li:2710/announce
 
 udp://open.demonii.si:80/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -1213,6 +1209,8 @@ udp://rutorrent.frontline-mod.com:6969/announce
 http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://retracker.ohys.net:80/announce
 
@@ -3425,8 +3423,6 @@ udp://94.23.207.177:6969/announce
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://[505:6847:c778:61a1::fdb]:6969/announce
-
-udp://glotorrents.pw:6969/announce
 
 udp://opentracker.simp.i2p:6969/a
 

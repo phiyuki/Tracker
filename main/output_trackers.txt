@@ -404,9 +404,9 @@ https://tracker.jdx3.org:443/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-udp://tracker.valete.tf:9999/announce
-
 http://t.al.uy:80/announce
+
+udp://tracker.valete.tf:9999/announce
 
 https://tracker.aburaya.live:443/announce
 
@@ -426,13 +426,13 @@ https://tracker.guguan.us.kg:443/announce
 
 udp://ibksturm.synology.me:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
 udp://tracker.tnl.one:8000/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
@@ -2948,6 +2948,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2957,8 +2959,6 @@ udp://ch3oh.ru:6969/announce
 udp://cn.pcfreetime.com:6969/announce
 
 udp://debuz.com:6969/announce
-
-udp://dyndns.xionxiii.ovh:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
@@ -3004,8 +3004,6 @@ udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -3028,11 +3026,11 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
-
-udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3412,7 +3410,13 @@ udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
 
+udp://dyndns.xionxiii.ovh:6969/announce
+
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://torrent.hificode.in:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 

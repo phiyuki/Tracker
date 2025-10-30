@@ -426,9 +426,9 @@ http://open.tracker.cl:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.tnl.one:8000/announce
-
 http://tracker.guguan.000.pe:80/announce
+
+udp://tracker.tnl.one:8000/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
@@ -444,9 +444,9 @@ udp://tracker1.myporn.club:9337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 

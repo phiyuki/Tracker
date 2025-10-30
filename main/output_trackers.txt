@@ -354,35 +354,35 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://explodie.org:6969/announce
+
+udp://glotorrents.pw:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 https://bt.bontal.net:443/announce
 
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://tracker.skyts.net:6969/announce
+
+http://seeders-paradise.org:80/announce
+
+http://public.tracker.vraphim.com:6969/announce
+
+http://bt1.xxxxbt.cc:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.lintk.me:2710/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
-http://0d.kebhana.mx:443/announce
-
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://share.hkg-fansub.info:80/announce.php
-
-http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://bt1.xxxxbt.cc:6969/announce
+http://0d.kebhana.mx:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -392,9 +392,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
 
-http://t.al.uy:80/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://t.al.uy:80/announce
 
 https://tracker.aburaya.live:443/announce
 
@@ -418,9 +418,11 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-http://asiatorrent.ddns.net:51413/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 http://asiatorrent.giize.com:51413/announce
+
+http://asiatorrent.ddns.net:51413/announce
 
 http://open.tracker.cl:1337/announce
 
@@ -428,9 +430,9 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.guguan.000.pe:80/announce
 
-udp://tracker.tnl.one:8000/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+udp://tracker.tnl.one:8000/announce
 
 http://tracker.chaoz.li:2710/announce
 
@@ -445,8 +447,6 @@ udp://tracker1.myporn.club:9337/announce
 http://cn.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
-
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -769,6 +769,8 @@ udp://tracker.trackarr.org:6969/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 
 http://joczo.duckdns.org:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 https://ttracker.just-h.party:443/announce
 
@@ -3188,7 +3190,7 @@ http://tracker.ali213.net00/announce
 
 http://107.189.2.131:1337/announce
 
-http://123.245.62.100:6969/announce
+http://123.245.62.95:6969/announce
 
 http://138.124.183.78:6969/announce
 
@@ -3198,9 +3200,9 @@ http://142.171.85.76:6969/announce
 
 http://167.253.78.20:8080/announce
 
-http://177.112.215.129:6969/announce
-
 http://193.31.26.113:6969/announce
+
+http://200.161.254.194:6969/announce
 
 http://211.75.205.188:80/announce
 
@@ -3209,6 +3211,8 @@ http://220.200.35.40:2710/announce
 http://34.94.76.146:1337/announce
 
 http://34.94.76.146:2710/announce
+
+http://34.94.76.146:443/announce
 
 http://34.94.76.146:6969/announce
 
@@ -3219,8 +3223,6 @@ http://35.227.59.57:11450/announce
 http://35.227.59.57:2701/announce
 
 http://35.227.59.57:2710/announce
-
-http://35.227.59.57:443/announce
 
 http://35.227.59.57:6969/announce
 
@@ -3280,8 +3282,6 @@ udp://152.53.152.105:54123/announce
 
 udp://176.99.7.59:6969/announce
 
-udp://177.112.215.129:6969/announce
-
 udp://185.189.13.108:6969/announce
 
 udp://185.216.179.62:25/announce
@@ -3292,15 +3292,17 @@ udp://193.233.161.213:6969/announce
 
 udp://194.62.248.73:15480/announce
 
-udp://208.83.20.20:6969/announce
+udp://200.161.254.194:6969/announce
 
 udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
-udp://211.75.205.187:6969/announce
-
 udp://211.75.205.188:80/announce
+
+udp://211.75.205.189:6969/announce
+
+udp://220.200.35.40:6969/announce
 
 udp://23.134.88.9:1337/announce
 
@@ -3309,6 +3311,8 @@ udp://23.134.88.9:6969/announce
 udp://23.157.120.14:6969/announce
 
 udp://23.175.184.30:23333/announce
+
+udp://34.94.76.146:1337/announce
 
 udp://37.235.176.37:2710/announce
 
@@ -3334,7 +3338,7 @@ udp://77.91.85.95:6969/announce
 
 udp://83.102.180.21:80/announce
 
-udp://89.234.156.205:451/announce
+udp://91.216.110.53:451/announce
 
 udp://94.136.190.183:1333/announce
 
@@ -3349,10 +3353,6 @@ udp://94.23.207.177:6969/announce
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://[505:6847:c778:61a1::fdb]:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-udp://glotorrents.pw:6969/announce
 
 udp://opentracker.simp.i2p:6969/a
 

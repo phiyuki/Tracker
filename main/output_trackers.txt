@@ -376,10 +376,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 udp://explodie.org:6969/announce
 
 udp://bt.bontal.net:6969/announce
@@ -392,13 +388,13 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://t.overflow.biz:6969/announce
-
 http://tracker.moxing.party:6969/announce
 
-https://tracker.jdx3.org:443/announce
+udp://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
+
+https://tracker.jdx3.org:443/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -1205,6 +1201,8 @@ udp://yann5.hexanyn.fr:6969/announce
 https://opentracker.xyz:443/announce
 
 udp://rutorrent.frontline-mod.com:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 http://tracker.tfile.me:80/announce
 
@@ -3030,8 +3028,6 @@ udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
 
-udp://tracker.xiaoduola.xyz:6969/announce
-
 udp://tracker.ygsub.com:6969/announce
 
 udp://tracker.ykat.xyz:6969/announce
@@ -3428,7 +3424,11 @@ udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://[505:6847:c778:61a1::fdb]:6969/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://tracker.xiaoduola.xyz:6969/announce
 

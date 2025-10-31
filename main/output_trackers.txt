@@ -390,13 +390,15 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
+udp://tracker.playground.ru:6969/announce
+
 udp://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-https://tracker.jdx3.org:443/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+https://tracker.jdx3.org:443/announce
 
 http://t.al.uy:80/announce
 
@@ -3272,33 +3274,15 @@ http://167.253.78.20:8080/announce
 
 http://193.31.26.113:6969/announce
 
-http://200.161.254.194:6969/announce
-
-http://211.75.205.188:80/announce
-
 http://220.200.35.40:2710/announce
+
+http://34.94.76.146:11450/announce
 
 http://34.94.76.146:1337/announce
 
-http://34.94.76.146:2710/announce
-
-http://34.94.76.146:443/announce
-
-http://34.94.76.146:6969/announce
-
 http://34.94.76.146:80/announce
 
-http://35.227.59.57:11450/announce
-
 http://35.227.59.57:2701/announce
-
-http://35.227.59.57:2710/announce
-
-http://35.227.59.57:6969/announce
-
-http://35.227.59.57:80/announce
-
-http://35.227.59.57:80/announce.php
 
 http://44.30.4.4:6969/announce
 
@@ -3344,6 +3328,8 @@ udp://111.90.151.241:6969/announce
 
 udp://135.125.236.64:6969/announce
 
+udp://144.126.245.19:6969/announce
+
 udp://151.243.109.110:6969/announce
 
 udp://152.53.152.105:1984/announce
@@ -3362,15 +3348,11 @@ udp://193.233.161.213:6969/announce
 
 udp://194.62.248.73:15480/announce
 
-udp://200.161.254.194:6969/announce
-
 udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
 udp://211.75.205.188:80/announce
-
-udp://211.75.205.189:6969/announce
 
 udp://220.200.35.40:6969/announce
 
@@ -3381,8 +3363,6 @@ udp://23.134.88.9:6969/announce
 udp://23.157.120.14:6969/announce
 
 udp://23.175.184.30:23333/announce
-
-udp://34.94.76.146:1337/announce
 
 udp://37.235.176.37:2710/announce
 
@@ -3402,13 +3382,15 @@ udp://51.222.82.36:6969/announce
 
 udp://54.36.179.216:6969/announce
 
+udp://60.249.37.20:6969/announce
+
 udp://62.60.157.92:6969/announce
 
 udp://77.91.85.95:6969/announce
 
 udp://83.102.180.21:80/announce
 
-udp://91.216.110.53:451/announce
+udp://89.234.156.205:451/announce
 
 udp://94.136.190.183:1333/announce
 
@@ -3424,11 +3406,7 @@ udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://[505:6847:c778:61a1::fdb]:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
-
-udp://tracker.xiaoduola.xyz:6969/announce
 

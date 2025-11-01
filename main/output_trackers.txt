@@ -408,9 +408,9 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.jdx3.org:443/announce
 
-http://t.al.uy:80/announce
-
 https://tracker.aburaya.live:443/announce
+
+http://t.al.uy:80/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -428,9 +428,9 @@ udp://ibksturm.synology.me:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-http://asiatorrent.giize.com:51413/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+http://asiatorrent.giize.com:51413/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
@@ -3266,7 +3266,7 @@ http://tracker.ali213.net00/announce
 
 http://107.189.2.131:1337/announce
 
-http://123.245.62.95:6969/announce
+http://123.245.62.100:6969/announce
 
 http://138.124.183.78:6969/announce
 
@@ -3276,17 +3276,37 @@ http://142.171.85.76:6969/announce
 
 http://167.253.78.20:8080/announce
 
+http://189.69.171.209:6969/announce
+
 http://193.31.26.113:6969/announce
 
 http://220.200.35.40:2710/announce
 
-http://34.94.76.146:11450/announce
+http://34.66.57.33:6969/announce
+
+http://34.66.57.33:80/announce
 
 http://34.94.76.146:1337/announce
 
+http://34.94.76.146:2701/announce
+
+http://34.94.76.146:2710/announce
+
+http://34.94.76.146:6969/announce
+
 http://34.94.76.146:80/announce
 
-http://35.227.59.57:2701/announce
+http://35.227.59.57:11450/announce
+
+http://35.227.59.57:2710/announce
+
+http://35.227.59.57:443/announce
+
+http://35.227.59.57:6969/announce
+
+http://35.227.59.57:80/announce
+
+http://35.227.59.57:80/announce.php
 
 http://44.30.4.4:6969/announce
 
@@ -3332,8 +3352,6 @@ udp://111.90.151.241:6969/announce
 
 udp://135.125.236.64:6969/announce
 
-udp://144.126.245.19:6969/announce
-
 udp://151.243.109.110:6969/announce
 
 udp://152.53.152.105:1984/announce
@@ -3342,11 +3360,15 @@ udp://152.53.152.105:54123/announce
 
 udp://176.99.7.59:6969/announce
 
+udp://178.128.94.74:6969/announce
+
 udp://185.189.13.108:6969/announce
 
 udp://185.216.179.62:25/announce
 
 udp://185.243.218.213:80/announce
+
+udp://189.69.171.209:6969/announce
 
 udp://193.233.161.213:6969/announce
 
@@ -3356,7 +3378,9 @@ udp://209.141.59.25:6969/announce
 
 udp://209.50.255.93:3218/announce
 
-udp://211.75.205.188:80/announce
+udp://211.75.205.189:80/announce
+
+udp://211.75.210.221:6969/announce
 
 udp://220.200.35.40:6969/announce
 
@@ -3367,6 +3391,10 @@ udp://23.134.88.9:6969/announce
 udp://23.157.120.14:6969/announce
 
 udp://23.175.184.30:23333/announce
+
+udp://34.94.76.146:6969/announce
+
+udp://35.227.59.57:6969/announce
 
 udp://37.235.176.37:2710/announce
 
@@ -3380,13 +3408,9 @@ udp://5.102.159.190:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://5.45.69.185:6969/announce
-
 udp://51.222.82.36:6969/announce
 
 udp://54.36.179.216:6969/announce
-
-udp://60.249.37.20:6969/announce
 
 udp://62.60.157.92:6969/announce
 
@@ -3394,13 +3418,11 @@ udp://77.91.85.95:6969/announce
 
 udp://83.102.180.21:80/announce
 
-udp://89.234.156.205:451/announce
+udp://91.216.110.53:451/announce
 
 udp://94.136.190.183:1333/announce
 
 udp://94.136.190.183:1337/announce
-
-udp://94.136.190.183:2710/announce
 
 udp://94.136.190.183:6969/announce
 
@@ -3410,11 +3432,7 @@ udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://[505:6847:c778:61a1::fdb]:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
-
-udp://tracker.vanitycore.co:6969/announce
 

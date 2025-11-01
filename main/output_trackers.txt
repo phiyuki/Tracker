@@ -400,9 +400,9 @@ http://tracker.23794.top:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 https://tracker.jdx3.org:443/announce
 
@@ -432,9 +432,9 @@ http://asiatorrent.giize.com:51413/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 http://open.tracker.cl:1337/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 http://tracker.internetwarriors.net:1337/announce
 

@@ -432,11 +432,11 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-udp://tracker.valete.tf:9999/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
 http://open.tracker.cl:1337/announce
+
+udp://tracker.valete.tf:9999/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
@@ -446,9 +446,9 @@ udp://open.demonii.si:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 

@@ -412,9 +412,9 @@ https://tr.zukizuki.org:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-https://tracker.cangku.moe:443/announce
-
 http://asiatorrent.giize.com:51413/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://ibksturm.synology.me:6969/announce
 
@@ -426,9 +426,9 @@ https://tr-zhuqiy-1.dgj055.icu:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 http://tracker.skyts.net:6969/announce
 

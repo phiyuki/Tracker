@@ -370,33 +370,29 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
 udp://bt.bontal.net:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://bandito.byterunner.io:6969/announce
 
 https://bt.bontal.net:443/announce
+
+http://www.torrentsnipe.info:2701/announce
 
 http://tr.kxmp.cf:80/announce
 
 http://servandroidkino.ru:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://0d.kebhana.mx:443/announce
 
 udp://tracker.zupix.online:6969/announce
 
-udp://tracker.kmzs123.cn:17272/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-http://www.torrentsnipe.info:2701/announce
-
-http://open.acgtracker.com:1096/announce
-
 http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.zupix.online:1333/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 http://t-backup.213891.xyz:80/announce
 
@@ -412,9 +408,9 @@ https://tracker.jdx3.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
-https://tr.zukizuki.org:443/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+https://tr.zukizuki.org:443/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
@@ -428,9 +424,9 @@ https://tr-zhuqiy-2.dgj055.icu:443/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 https://tr-rh-zhuqiy.dgj055.icu:443/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -2260,6 +2256,8 @@ http://171.104.226.87:6969/announce
 
 http://45.154.253.6:80/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://http://www.peckservers.com:9000/announce
 
 udp://ipv4.tracker.harry.lu/announce
@@ -3351,6 +3349,8 @@ udp://opentracker.simp.i2p:6969/a
 udp://opentracker.skank.i2p:6969/a
 
 udp://tracker.home.kmzs123.cn:17272/announce
+
+udp://tracker.kmzs123.cn:17272/announce
 
 udp://tracker.leena.network:6969/announce
 

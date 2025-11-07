@@ -392,9 +392,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.zupix.online:1333/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 http://t-backup.213891.xyz:80/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tr3.ysagin.top:2715/announce
 
@@ -410,9 +410,9 @@ https://tracker.zhuqiy.top:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
-https://tr.zukizuki.org:443/announce
-
 http://tracker-zhuqiy.dgj055.icu:80/announce
+
+https://tr.zukizuki.org:443/announce
 
 http://asiatorrent.giize.com:51413/announce
 
@@ -432,11 +432,11 @@ http://tracker.skyts.net:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
 http://open.tracker.cl:1337/announce
+
+https://tracker.tamersunion.org:443/announce
 
 udp://open.demonii.si:80/announce
 
@@ -444,9 +444,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-https://tracker.guguan.us.kg:443/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 http://cn.pcfreetime.com:6969/announce
 

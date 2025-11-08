@@ -362,19 +362,7 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://open.free-tracker.ga:6969/announce
-
 udp://bt.bontal.net:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-udp://1c.premierzal.ru:6969/announce
-
-https://yuki.bt.bontal.net:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://bt.bontal.net:443/announce
 
@@ -388,19 +376,21 @@ http://shubt.net:2710/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://0d.kebhana.mx:443/announce
 
-udp://tracker.zupix.online:6969/announce
+udp://bandito.byterunner.io:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
-udp://tracker.zupix.online:1333/announce
-
 http://ns3109441.mypdns.org:6969/announce
 
+udp://tracker.zupix.online:1333/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -422,9 +412,9 @@ https://tr.zukizuki.org:443/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+udp://ibksturm.synology.me:6969/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
@@ -457,8 +447,6 @@ http://cn.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-https://tracker.guguan.us.kg:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -499,8 +487,6 @@ udp://open.xxtor.com:3074/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://run-2.publictracker.xyz:6969/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -775,6 +761,8 @@ https://tracker.itscraftsoftware.my.id:443/announce
 http://joczo.duckdns.org:6969/announce
 
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
+
+https://tracker.guguan.us.kg:443/announce
 
 https://ttracker.just-h.party:443/announce
 
@@ -1208,6 +1196,8 @@ http://tracker.tfile.me:80/announce
 
 udp://tracker.trackerfix.com:82/announce
 
+udp://open.free-tracker.ga:6969/announce
+
 http://retracker.ohys.net:80/announce
 
 http://www.tvnihon.com:6969/announce
@@ -1277,6 +1267,8 @@ http://tracker.trackerfix.com/announce
 udp://chouchou.top:8080/announce
 
 https://tracker.jiesen.life:8443/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 udp://tsundere.pw:6969/announce
 
@@ -2244,6 +2236,8 @@ http://opentracker.io:80/announce
 
 udp://185.181.60.155:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://thinking.duckdns.org:6969/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
@@ -2601,6 +2595,8 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 http://ehtracker.org/2566145/1159106xUfsJkT9Btg/announce
 
 http://tracker.yuelili.com/announce
+
+https://tracker.bt4g.com:443/announce
 
 http://ehtracker.org/2541477/announce
 
@@ -3058,80 +3054,6 @@ wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
 
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
-
 http://open.nyaatorrents.info:6544/announce
 
 http://t2.popgo.org:7456/annonce
@@ -3338,6 +3260,8 @@ http://sigmatracker.i2p:80/a
 
 http://yggtracker.i2p.rocks:80/announce
 
+https://yuki.bt.bontal.net:443/announce
+
 udp://103.251.166.126:6969/announce
 
 udp://104.248.85.59:6969/announce
@@ -3433,4 +3357,6 @@ udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://tracker.zupix.online:6969/announce
 

@@ -402,9 +402,9 @@ https://tracker.aburaya.live:443/announce
 
 http://t.al.uy:80/announce
 
-https://tracker.jdx3.org:443/announce
-
 https://tracker.zhuqiy.top:443/announce
+
+https://tracker.jdx3.org:443/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
@@ -412,9 +412,9 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://asiatorrent.giize.com:51413/announce
 
-https://tr.zukizuki.org:443/announce
-
 https://tr-zhuqiy-1.dgj055.icu:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tr-zhuqiy-2.dgj055.icu:443/announce
 
@@ -2930,11 +2930,7 @@ udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
 
-udp://bt1.xxxxbt.cc:6969/announce
-
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2948,13 +2944,7 @@ udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
-udp://hificode.in:6969/announce
-
 udp://home.kray.pw:6969/announce
-
-udp://home.yxgz.club:6969/announce
-
-udp://hzzwly.gq:6969/announce
 
 udp://incine.ru:6969/announce
 
@@ -2963,8 +2953,6 @@ udp://ipv4.tracker.harry.lu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 
 udp://ipv6.tracker.harry.lu:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://lucke.fenesisu.moe:6969/announce
 
@@ -3343,6 +3331,18 @@ udp://94.136.190.183:2710/announce
 udp://94.23.207.177:6969/announce
 
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
+
+udp://buny.uk:6969/announce
+
+udp://hificode.in:6969/announce
+
+udp://home.yxgz.club:6969/announce
+
+udp://hzzwly.gq:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://opentracker.simp.i2p:6969/a
 

@@ -584,6 +584,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 https://tracker.moeblog.cn:443/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -633,8 +635,6 @@ https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -726,9 +726,9 @@ http://t-backup.213891.xyz:80/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://torrent.hificode.in:6969/announce
+
+http://open.trackerlist.xyz:80/announce
 
 http://shubt.net:2710/announce
 
@@ -836,17 +836,17 @@ http://tracker.skyts.net:6969/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-http://open.tracker.cl:1337/announce
-
 udp://open.demonii.si:80/announce
+
+http://open.tracker.cl:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-http://tracker.pcfreetime.com:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
@@ -1207,6 +1207,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 https://tracker.moeblog.cn:443/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -1256,8 +1258,6 @@ https://tracker.qingwa.pro:443/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 

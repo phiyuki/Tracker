@@ -434,13 +434,13 @@ https://tracker.guguan.dpdns.org:443/announce
 
 http://open.tracker.cl:1337/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.pcfreetime.com:6969/announce
-
 udp://open.demonii.si:80/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 udp://trl-zhuqiy.dgj055.icu:6969/announce
+
+http://tracker.pcfreetime.com:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -2931,6 +2931,8 @@ udp://504e163a.host.njalla.net:6969/announce
 udp://anidex.moe:6969/announce
 
 udp://bobbialbano.com:6969/announce
+
+udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 

@@ -378,9 +378,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 http://ns3109441.mypdns.org:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -418,9 +418,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://tracker.cangku.moe:443/announce
-
 https://tr.zukizuki.org:443/announce
+
+https://tracker.cangku.moe:443/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
@@ -430,9 +430,9 @@ udp://trl-zhuqiy.dgj055.icu:6969/announce
 
 http://open.tracker.cl:1337/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.pcfreetime.com:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -3182,15 +3182,17 @@ http://138.124.183.78:6969/announce
 
 http://140.235.237.23:6969/announce
 
+http://142.171.85.76:6969/announce
+
 http://167.253.78.20:8080/announce
 
-http://191.23.71.22:6969/announce
+http://177.215.65.176:6969/announce
 
 http://193.31.26.113:6969/announce
 
 http://211.75.205.189:6969/announce
 
-http://211.75.205.189:80/announce
+http://211.75.210.221:80/announce
 
 http://220.200.35.40:2710/announce
 
@@ -3198,13 +3200,15 @@ http://34.94.76.146:11450/announce
 
 http://34.94.76.146:1337/announce
 
+http://34.94.76.146:2701/announce
+
 http://34.94.76.146:2710/announce
 
 http://34.94.76.146:6969/announce
 
-http://34.94.76.146:80/announce.php
+http://34.94.76.146:80/announce
 
-http://35.227.59.57:2701/announce
+http://34.94.76.146:80/announce.php
 
 http://35.227.59.57:2710/announce
 
@@ -3219,8 +3223,6 @@ http://44.30.4.4:6969/announce
 http://45.13.119.213:6969/announce
 
 http://45.146.254.59:80/announce
-
-http://62.60.157.92:6969/announce
 
 http://[200:1e2f:e608:eb3a:2bf:1e62:87ba:e2f7]:80/announce
 
@@ -3238,17 +3240,11 @@ http://opentracker.simp.i2p:80/a
 
 http://opentracker.skank.i2p:80/a
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
 
 http://sigmatracker.i2p:80/a
 
 http://yggtracker.i2p.rocks:80/announce
-
-https://bt.bontal.net:443/announce
-
-https://socket.onvo.me:443/announce
 
 udp://103.251.166.126:6969/announce
 
@@ -3257,8 +3253,6 @@ udp://104.248.85.59:6969/announce
 udp://107.189.2.131:1337/announce
 
 udp://107.189.4.235:1337/announce
-
-udp://107.189.7.165:6969/announce
 
 udp://111.90.151.241:6969/announce
 
@@ -3272,13 +3266,11 @@ udp://152.53.152.105:54123/announce
 
 udp://176.99.7.59:6969/announce
 
-udp://185.189.13.108:6969/announce
+udp://177.215.65.176:6969/announce
 
 udp://185.216.179.62:25/announce
 
 udp://185.243.218.213:80/announce
-
-udp://191.23.71.22:6969/announce
 
 udp://194.62.248.73:15480/announce
 
@@ -3288,7 +3280,7 @@ udp://209.50.255.93:3218/announce
 
 udp://211.75.205.189:6969/announce
 
-udp://211.75.205.189:80/announce
+udp://211.75.210.221:80/announce
 
 udp://220.200.35.40:6969/announce
 
@@ -3297,6 +3289,8 @@ udp://23.134.88.9:1337/announce
 udp://23.134.88.9:6969/announce
 
 udp://23.175.184.30:23333/announce
+
+udp://34.94.76.146:6969/announce
 
 udp://37.235.176.37:2710/announce
 
@@ -3310,11 +3304,9 @@ udp://5.255.124.190:6969/announce
 
 udp://5.45.69.185:6969/announce
 
+udp://51.222.82.36:6969/announce
+
 udp://54.36.179.216:6969/announce
-
-udp://54.39.48.3:6969/announce
-
-udp://62.60.157.92:6969/announce
 
 udp://77.91.85.95:6969/announce
 
@@ -3328,19 +3320,13 @@ udp://94.136.190.183:1333/announce
 
 udp://94.136.190.183:1337/announce
 
-udp://94.136.190.183:2710/announce
+udp://94.136.190.183:6969/announce
 
 udp://94.23.207.177:6969/announce
 
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
-udp://glotorrents.pw:6969/announce
-
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
-
-udp://tracker.vraphim.com:6969/announce
-
-udp://tracker.vrpnet.org:6969/announce
 

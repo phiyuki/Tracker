@@ -378,9 +378,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-http://ns3109441.mypdns.org:6969/announce
-
 udp://tracker.hifitechindia.com:6969/announce
+
+http://ns3109441.mypdns.org:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -418,25 +418,25 @@ udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-https://tr.zukizuki.org:443/announce
+https://tracker.guguan.dpdns.org:443/announce
 
 https://tracker.cangku.moe:443/announce
 
-https://tracker.guguan.dpdns.org:443/announce
+https://tr.zukizuki.org:443/announce
 
 udp://open.demonii.si:80/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
-http://open.tracker.cl:1337/announce
-
 http://tracker.pcfreetime.com:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
+http://open.tracker.cl:1337/announce
 
 udp://tracker1.myporn.club:9337/announce
 
 http://cn.pcfreetime.com:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 

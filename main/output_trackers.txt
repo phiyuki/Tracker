@@ -420,9 +420,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.guguan.dpdns.org:443/announce
 
-https://tracker.cangku.moe:443/announce
-
 udp://open.demonii.si:80/announce
+
+https://tracker.cangku.moe:443/announce
 
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 
@@ -430,9 +430,9 @@ udp://tracker1.myporn.club:9337/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
-http://cn.pcfreetime.com:6969/announce
-
 https://tr.zukizuki.org:443/announce
+
+http://cn.pcfreetime.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -595,8 +595,6 @@ http://t1.aag.moe:17715/announce
 udp://seedpeer.net:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-udp://tracker.open-data.network:8888/announce
 
 https://trackers.nekosunevr.co.uk:443/announce
 
@@ -3001,6 +2999,8 @@ udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
 
 udp://tracker.novaopcj.eu.org:6969/announce
+
+udp://tracker.open-data.network:8888/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 

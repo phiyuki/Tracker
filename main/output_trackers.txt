@@ -432,8 +432,6 @@ udp://tracker1.myporn.club:9337/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-https://tr.zukizuki.org:443/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
@@ -685,6 +683,8 @@ udp://tracker4.leechshield.link:6969/announce
 udp://7p41a8967.wicp.vip:22222/announce
 
 udp://tk4.leechshield.link:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://tracker.moeking.me:443/announce
 
@@ -2922,15 +2922,11 @@ udp://504e163a.host.njalla.net:6969/announce
 
 udp://anidex.moe:6969/announce
 
-udp://api.boletera.org:3074/announce
-
 udp://bobbialbano.com:6969/announce
 
 udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
-
-udp://buny.uk:6969/announce
 
 udp://canardscitrons.nohost.me:6969/announce
 
@@ -2944,17 +2940,15 @@ udp://debuz.com:6969/announce
 
 udp://fosstorrents.com:6969/announce
 
-udp://hificode.in:6969/announce
-
 udp://home.kray.pw:6969/announce
 
 udp://incine.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:6969/announce
 
-udp://ipv6.tracker.harry.lu:6969/announce
+udp://ipv6.rer.lol:6969/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://ipv6.tracker.harry.lu:6969/announce
 
 udp://lucke.fenesisu.moe:6969/announce
 
@@ -2984,8 +2978,6 @@ udp://taciturn-shadow.spb.ru:6969/announce
 
 udp://torrent.fedoraproject.org:6969/announce
 
-udp://torrent.hificode.in:6969/announce
-
 udp://torrent.ubuntu.com:6969/announce
 
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -3013,6 +3005,8 @@ udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 
@@ -3394,7 +3388,17 @@ udp://94.23.207.177:6969/announce
 
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
+udp://api.boletera.org:3074/announce
+
+udp://buny.uk:6969/announce
+
+udp://hificode.in:6969/announce
+
+udp://isk.richardsw.club:6969/announce
+
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://torrent.hificode.in:6969/announce
 

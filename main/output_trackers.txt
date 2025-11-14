@@ -384,17 +384,17 @@ http://ns3109441.mypdns.org:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 https://2.tracker.eu.org:443/announce
 
-udp://tracker.1h.is:1337/announce
-
 https://3.tracker.eu.org:443/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 https://4.tracker.eu.org:443/announce
 
 https://1.tracker.eu.org:443/announce
+
+udp://tracker.1h.is:1337/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -410,9 +410,9 @@ https://tracker.aburaya.live:443/announce
 
 http://t.al.uy:80/announce
 
-https://tracker.jdx3.org:443/announce
-
 udp://ibksturm.synology.me:6969/announce
+
+https://tracker.jdx3.org:443/announce
 
 http://tracker.skyts.net:6969/announce
 

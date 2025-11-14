@@ -414,9 +414,9 @@ https://tracker.jdx3.org:443/announce
 
 udp://ibksturm.synology.me:6969/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
 http://tracker.skyts.net:6969/announce
+
+http://asiatorrent.ddns.net:51413/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 

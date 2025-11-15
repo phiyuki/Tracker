@@ -388,9 +388,9 @@ https://4.tracker.eu.org:443/announce
 
 https://1.tracker.eu.org:443/announce
 
-udp://1c.premierzal.ru:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.1h.is:1337/announce
 
@@ -410,15 +410,15 @@ https://tracker.aburaya.live:443/announce
 
 udp://ibksturm.synology.me:6969/announce
 
-http://t.al.uy:80/announce
-
 http://tracker.skyts.net:6969/announce
+
+http://t.al.uy:80/announce
 
 https://tracker.jdx3.org:443/announce
 
-http://asiatorrent.ddns.net:51413/announce
-
 https://tracker.guguan.dpdns.org:443/announce
+
+http://asiatorrent.ddns.net:51413/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -437,6 +437,10 @@ http://cn.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://tracker1.t-1.org:6969/announce
+
+udp://tracker3.t-1.org:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -629,10 +633,6 @@ https://torrust.canofsocks.com:443/announce
 udp://tracker.xor.st:6969/announce
 
 http://open.tracker.ink:6969/announce
-
-udp://tracker1.t-1.org:6969/announce
-
-udp://tracker3.t-1.org:6969/announce
 
 https://tracker.amelia.fun:443/announce
 

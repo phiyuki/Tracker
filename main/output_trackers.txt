@@ -346,21 +346,25 @@ wss://tracker.openwebtorrent.com:443/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://open.dstud.io:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-udp://hificode.in:6969/announce
-
 udp://explodie.org:6969/announce
 
 udp://bt.bontal.net:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
 
 https://bt.bontal.net:443/announce
 
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
+
+http://servandroidkino.ru:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://0123456789nonexistent.com:80/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 http://tracker.lintk.me:2710/announce
 
@@ -369,18 +373,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.bt-hash.com:80/announce
 
 http://home.yxgz.club:6969/announce
-
-http://bvarf.tracker.sh:2086/announce
-
-http://0123456789nonexistent.com:80/announce
-
-udp://rekcart.duckdns.org:15480/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-http://servandroidkino.ru:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -400,6 +392,10 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+udp://open.dstud.io:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
+
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
 https://tr-zhuqiy-1.dgj055.icu:443/announce
@@ -418,15 +414,15 @@ udp://ibksturm.synology.me:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://t.al.uy:80/announce
-
 https://tracker.guguan.dpdns.org:443/announce
 
 http://asiatorrent.ddns.net:51413/announce
 
-https://tracker.jdx3.org:443/announce
+http://t.al.uy:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+https://tracker.jdx3.org:443/announce
 
 https://tracker.cangku.moe:443/announce
 
@@ -440,9 +436,9 @@ http://tracker.pcfreetime.com:6969/announce
 
 http://cn.pcfreetime.com:6969/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -601,8 +597,6 @@ http://t1.aag.moe:17715/announce
 udp://seedpeer.net:6969/announce
 
 udp://amigacity.xyz:6969/announce
-
-https://trackers.nekosunevr.co.uk:443/announce
 
 http://tracker-rh.zhuqiy.eu.org:80/announce
 
@@ -1527,6 +1521,8 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
@@ -2904,6 +2900,8 @@ https://tracker.tvgc.win:443/announce
 
 https://tracker1.wimix.org:443/announce
 
+https://trackers.nekosunevr.co.uk:443/announce
+
 https://ttk.pp.ua:443/announce
 
 https://x7x.up.railway.app:443/announce
@@ -3319,6 +3317,8 @@ udp://94.23.207.177:6969/announce
 udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
 
 udp://buny.uk:6969/announce
+
+udp://hificode.in:6969/announce
 
 udp://opentracker.simp.i2p:6969/a
 

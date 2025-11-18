@@ -398,9 +398,9 @@ http://wegkxfcivgx.ydns.eu:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
-https://2.tracker.eu.org:443/announce
-
 udp://admin.52ywp.com:6969/announce
+
+https://2.tracker.eu.org:443/announce
 
 https://3.tracker.eu.org:443/announce
 

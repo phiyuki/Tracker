@@ -614,8 +614,6 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -635,6 +633,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.moeblog.cn:443/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -712,9 +712,9 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://burmese.app:6969/announce
 
-https://tr.nyacat.pw:443/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
+
+https://tr.nyacat.pw:443/announce
 
 udp://bt.rer.lol:6969/announce
 
@@ -730,35 +730,35 @@ udp://opentracker.io:6969/announce
 
 udp://tracker.rescuecrew7.com:1337/announce
 
-udp://tracker.cloudbase.store:1333/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 http://0123456789nonexistent.com:80/announce
-
-udp://ttk2.nbaonlineservice.com:6969/announce
 
 http://shubt.net:2710/announce
 
 http://ns3109441.mypdns.org:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.cloudbase.store:1333/announce
 
-udp://t.overflow.biz:6969/announce
+udp://tracker.bitcoinindia.space:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://tracker.iperson.xyz:6969/announce
 
 udp://bt.bontal.net:6969/announce
 
-http://open.acgtracker.com:1096/announce
+udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+http://open.acgtracker.com:1096/announce
 
 udp://tr3.ysagin.top:2715/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -772,9 +772,9 @@ udp://tracker.zupix.online:1333/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -784,9 +784,9 @@ udp://tracker.t-1.org:6969/announce
 
 https://threads.canofsocks.com:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
@@ -816,9 +816,9 @@ udp://exodus.desync.com:6969/announce
 
 https://bittracker.nekosunevr.co.uk:443/announce
 
-udp://yuki.bt.bontal.net:6969/announce
-
 http://asiatorrent.giize.com:51413/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -1227,8 +1227,6 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
-
 http://tracker.beeimg.com:6969/announce
 
 http://tracker.renfei.net:8080/announce
@@ -1248,6 +1246,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 https://tracker.moeblog.cn:443/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
+
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 udp://bandito.byterunner.io:6969/announce
 

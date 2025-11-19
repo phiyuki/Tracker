@@ -384,9 +384,9 @@ udp://tracker.cloudbase.store:1333/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://admin.52ywp.com:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -404,9 +404,9 @@ udp://1c.premierzal.ru:6969/announce
 
 https://bittracker.nekosunevr.co.uk:443/announce
 
-udp://yuki.bt.bontal.net:6969/announce
-
 http://asiatorrent.giize.com:51413/announce
+
+udp://yuki.bt.bontal.net:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 

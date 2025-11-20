@@ -364,7 +364,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://ns-1.x-fins.com:6969/announce
+
 udp://bt.bontal.net:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://bt.bontal.net:443/announce
 
@@ -376,13 +382,15 @@ http://shubt.net:2710/announce
 
 http://seeders-paradise.org:80/announce
 
+udp://tracker.hifimarket.in:2710/announce
+
+http://www.genesis-sp.org:2710/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://retracker.spark-rostov.ru:80/announce
 
 http://open.acgtracker.com:1096/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-http://www.genesis-sp.org:2710/announce
 
 http://wegkxfcivgx.ydns.eu:80/announce
 
@@ -404,13 +412,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 http://asiatorrent.giize.com:51413/announce
 
 udp://yuki.bt.bontal.net:6969/announce
-
-https://tr.zukizuki.org:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
@@ -1298,8 +1302,6 @@ http://61.216.109.95:6969/announce
 
 http://61.216.166.123:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://bt.beatrice-raws.org/announce
 
 http://www.xwt-classics.net/announce.php
@@ -1525,8 +1527,6 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 

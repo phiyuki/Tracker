@@ -2930,6 +2930,8 @@ udp://bt1.xxxxbt.cc:6969/announce
 
 udp://bttracker.debian.org:6969/announce
 
+udp://buny.uk:6969/announce
+
 udp://canardscitrons.nohost.me:6969/announce
 
 udp://caramelo.ddns.net:8000/announce
@@ -2994,6 +2996,8 @@ udp://tracker.etree.org:6969/announce
 
 udp://tracker.files.fm:6969/announce
 
+udp://tracker.frozen-layer.net:6969/announce
+
 udp://tracker.kali.org:6969/announce
 
 udp://tracker.moxing.party:6969/announce
@@ -3004,9 +3008,13 @@ udp://tracker.nartlof.com.br:6969/announce
 
 udp://tracker.pcfreetime.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://tracker.vraphim.com:6969/announce
 
 udp://tracker.vrpnet.org:6969/announce
+
+udp://tracker.xiaoduola.xyz:6969/announce
 
 udp://tracker.ygsub.com:6969/announce
 

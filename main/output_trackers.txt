@@ -388,9 +388,9 @@ udp://tracker.rescuecrew7.com:1337/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
 udp://admin.52ywp.com:6969/announce
+
+udp://rekcart.duckdns.org:15480/announce
 
 https://2.tracker.eu.org:443/announce
 
@@ -412,11 +412,11 @@ https://tracker.zhuqiy.top:443/announce
 
 udp://yuki.bt.bontal.net:6969/announce
 
-https://bittracker.nekosunevr.co.uk:443/announce
-
 http://tracker.skyts.net:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
+
+https://bittracker.nekosunevr.co.uk:443/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -427,8 +427,6 @@ http://cn.pcfreetime.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-https://tracker.guguan.dpdns.org:443/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -709,6 +707,8 @@ udp://brokenhelix.loseyourip.com:6969/announce
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
 
 udp://torrent.i.ng:6969/announce
+
+https://tracker.guguan.dpdns.org:443/announce
 
 udp://files.project-cataclysm.ru:6969/announce
 

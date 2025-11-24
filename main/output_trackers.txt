@@ -346,15 +346,15 @@ udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
+http://tracker.opentrackr.org:1337/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
 udp://explodie.org:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://bt.bontal.net:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
-https://yuki.bt.bontal.net:443/announce
 
 https://bt.bontal.net:443/announce
 
@@ -364,7 +364,7 @@ http://tracker810.xyz:11450/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://t.overflow.biz:6969/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
@@ -372,9 +372,17 @@ http://open.acgtracker.com:1096/announce
 
 http://buny.uk:6969/announce
 
+udp://tracker.skynetcloud.site:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
 http://tracker.vanitycore.co:6969/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://tr.nyacat.pw:80/announce
+
+http://t.overflow.biz:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -417,8 +425,6 @@ https://bittracker.nekosunevr.co.uk:443/announce
 http://tracker.skyts.net:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
@@ -1162,8 +1168,6 @@ http://opentracker.xyz:80/announce
 
 udp://yahor.ftp.sh:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 udp://tracker.swateam.org.uk:2710/announce
 
 https://opentracker.xyz/announce
@@ -1523,8 +1527,6 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
@@ -2750,8 +2752,6 @@ http://torrents.linuxmint.com:80/announce
 
 http://tr.bangumi.moe:80/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://tracker-udp.anirena.com:80/announce
 
 http://tracker-udp.gbitt.info:80/announce
@@ -2907,6 +2907,8 @@ https://tracker1.wimix.org:443/announce
 https://ttk.pp.ua:443/announce
 
 https://x7x.up.railway.app:443/announce
+
+https://yuki.bt.bontal.net:443/announce
 
 https://zer0day.000webhostapp.com:443/announce
 
@@ -3323,8 +3325,6 @@ udp://buny.uk:6969/announce
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
-
-udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 

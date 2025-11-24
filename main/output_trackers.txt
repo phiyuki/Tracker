@@ -346,15 +346,15 @@ udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
 udp://explodie.org:6969/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://bt.bontal.net:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+https://yuki.bt.bontal.net:443/announce
 
 https://bt.bontal.net:443/announce
 
@@ -364,7 +364,7 @@ http://tracker810.xyz:11450/announce
 
 http://tr.kxmp.cf:80/announce
 
-http://retracker.spark-rostov.ru:80/announce
+http://t.overflow.biz:6969/announce
 
 http://open.trackerlist.xyz:80/announce
 
@@ -372,17 +372,9 @@ http://open.acgtracker.com:1096/announce
 
 http://buny.uk:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://bandito.byterunner.io:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
 
-http://tr.nyacat.pw:80/announce
-
-http://t.overflow.biz:6969/announce
+http://retracker.spark-rostov.ru:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
@@ -426,15 +418,17 @@ http://tracker.skyts.net:6969/announce
 
 udp://ibksturm.synology.me:6969/announce
 
-https://tracker.guguan.dpdns.org:443/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.pcfreetime.com:6969/announce
 
+https://tracker.guguan.dpdns.org:443/announce
+
 http://cn.pcfreetime.com:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 udp://utracker.ghostchu-services.top:6969/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -1168,6 +1162,8 @@ http://opentracker.xyz:80/announce
 
 udp://yahor.ftp.sh:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 udp://tracker.swateam.org.uk:2710/announce
 
 https://opentracker.xyz/announce
@@ -1527,6 +1523,8 @@ http://163.172.209.40/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://mail.artixlinux.org:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
@@ -2752,6 +2750,8 @@ http://torrents.linuxmint.com:80/announce
 
 http://tr.bangumi.moe:80/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://tracker-udp.anirena.com:80/announce
 
 http://tracker-udp.gbitt.info:80/announce
@@ -2908,8 +2908,6 @@ https://ttk.pp.ua:443/announce
 
 https://x7x.up.railway.app:443/announce
 
-https://yuki.bt.bontal.net:443/announce
-
 https://zer0day.000webhostapp.com:443/announce
 
 udp://0205.uptm.ch:6969/announce
@@ -3037,80 +3035,6 @@ ws://tracker.ghostchu-services.top:80/announce
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.magnetoo.io:443/announce
-
-<!DOCTYPE html>
-
-<html lang="">
-
-<head>
-
-<title>GitHub Proxy 最新地址发布</title>
-
-<!-- <title>vue</title> -->
-
-<meta charset="utf-8">
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-<link rel="icon" href="/favicon.ico">
-
-<!-- Twitter Cards -->
-
-<meta name="twitter:card" content="summary_large_image" />
-
-<meta name="twitter:site" content="@stilleshan" />
-
-<meta name="twitter:creator" content="@stilleshan" />
-
-<meta property="og:url" content="https://ghp.ci" />
-
-<meta property="og:title" content="GitHub Proxy 代理加速" />
-
-<meta property="og:description"
-
-content="GitHub 文件 , Releases , archive , gist , raw.githubusercontent.com 文件代理加速下载服务." />
-
-<meta property="og:image" content="/img/ghproxy_com_twitter_800.jpg" />
-
-<!-- Google tag (gtag.js) -->
-
-<!-- <script async src="https://ga.ioiox.net/gtag/js?id=G-YR9B2BS8D8"></script>
-
-<script>
-
-window.dataLayer = window.dataLayer || [];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'G-YR9B2BS8D8');
-
-</script> -->
-
-<!-- Umami Analytics -->
-
-<script defer src="https://umami.ioiox.net/script.js" data-website-id="3e1fae78-3366-40fc-8671-5da9ad43483c"></script>
-
-<script defer src="/js/chunk-vendors.js"></script><script defer src="/js/app.js"></script></head>
-
-<body>
-
-<noscript>
-
-<strong>We're sorry but vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-
-</noscript>
-
-<div id="app"></div>
-
-<!-- built files will be auto injected -->
-
-</body>
-
-</html>
 
 http://open.nyaatorrents.info:6544/announce
 
@@ -3399,6 +3323,8 @@ udp://buny.uk:6969/announce
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
